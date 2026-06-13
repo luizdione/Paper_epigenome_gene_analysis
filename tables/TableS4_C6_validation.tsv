@@ -1,0 +1,32 @@
+gene	priority_tier	sub02_meth_dir	expr_dir	concordance	C6_fetalliver_WGBS	C6_n_DMR	C6_reg_methdiff	C6_dir	C6_has_promoter	C6_direction_agrees
+GHSR	alta	hypo	up	concordant_repressive	yes	2	-26.9	hypo	no	yes
+HSPA2	alta	hypo	up	concordant_repressive	yes	3	-27.8	hypo	no	yes
+ITGB3	alta	hyper	down	concordant_repressive	yes	6	-24.8	hypo	no	no
+PRLR	alta	hypo	up	concordant_repressive	yes	9	-16.9	hypo	no	yes
+HSPB1	alta	hypo	up	concordant_repressive	no					
+ISG15	alta	hypo	up	concordant_repressive	no					
+KRT18	alta	hypo	up	concordant_repressive	no					
+MX1	alta	hypo	up	concordant_repressive	no					
+ABCG2	média	hypo	down	discordant	yes	6	-21.0	hypo	no	yes
+ACTB	média	hyper	up	discordant	yes	1	-15.4	hypo	no	no
+DNAJB1	média	hypo	up	concordant_repressive	yes	2	16.1	hyper	no	no
+DNLZ	média	hyper	up	discordant	yes	4	-28.7	hypo	no	no
+HSPA5	média	hyper	up	discordant	yes	1	-29.8	hypo	no	no
+MX2	média	hypo	up	concordant_repressive	yes	1	-28.7	hypo	no	yes
+OAS1Z	média	hyper	down	concordant_repressive	yes	2	-16.9	hypo	yes	no
+PAG1	média	hypo	down	discordant	yes	1	-15.0	hypo	no	yes
+STAT3	média	hypo	up	concordant_repressive	yes	1	-30.5	hypo	no	yes
+GH1	média	hyper	up	discordant	no					
+GNAS	média	hypo	up	concordant_repressive	no					
+HOXA10	média	hypo	down	discordant	no					
+HPRT1	média	hypo	down	discordant	no					
+HSPA12B	média	hypo	down	discordant	no					
+RSAD2	média	hypo	down	discordant	no					
+VIM	média	hypo	up	concordant_repressive	no					
+CYP11A1	baixa	hyper	up	discordant	yes	3	-28.2	hypo	no	no
+IGF1	baixa	hyper	up	discordant	yes	2	-22.6	hypo	no	no
+RPL19	baixa	hyper	up	discordant	yes	1	-21.7	hypo	no	no
+SMAD5	baixa	hypo	down	discordant	yes	2	-17.5	hypo	no	yes
+BMP15	baixa	hyper	up	discordant	no					
+CASP3	baixa	hypo	down	discordant	no					
+MSTN	baixa	hyper	up	discordant	no					

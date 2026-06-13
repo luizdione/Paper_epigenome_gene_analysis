@@ -1,0 +1,1909 @@
+chrom	pos	gene	feature	n_contrasts	mean_methdiff	class	nearest_snp_bp	high_tier
+1	95027591	GHSR	promoter	1	-17.5	no-SNP		yes
+1	95027605	GHSR	promoter	2	-17.2	near-SNP	2	yes
+1	95027606	GHSR	promoter	1	-15.6	CpG-SNP	1	yes
+1	95027636	GHSR	promoter	1	-15.9	near-SNP	9	yes
+1	95029081	GHSR	promoter	1	-41.1	near-SNP	4	yes
+1	95029082	GHSR	promoter	2	-30.2	near-SNP	3	yes
+1	95029087	GHSR	promoter	2	-4.0	near-SNP	2	yes
+1	95029088	GHSR	promoter	1	-30.3	near-SNP	3	yes
+1	95029089	GHSR	promoter	2	-41.2	near-SNP	4	yes
+1	95029090	GHSR	promoter	1	-19.3	near-SNP	5	yes
+1	95029131	GHSR	promoter	4	-39.5	no-SNP		yes
+1	95029132	GHSR	promoter	1	-27.9	no-SNP		yes
+1	95029134	GHSR	promoter	4	-34.8	no-SNP		yes
+1	95029135	GHSR	promoter	1	-26.3	no-SNP		yes
+1	95029136	GHSR	promoter	4	-30.6	no-SNP		yes
+1	95029141	GHSR	promoter	4	-33.1	no-SNP		yes
+1	95029142	GHSR	promoter	1	-31.9	no-SNP		yes
+1	95029421	GHSR	promoter	1	-19.7	near-SNP	2	yes
+1	95029606	GHSR	promoter	1	-42.8	CpG-SNP	0	yes
+1	95029607	GHSR	promoter	3	-14.8	CpG-SNP	1	yes
+1	95029627	GHSR	promoter	1	-25.6	CpG-SNP	1	yes
+1	95029628	GHSR	promoter	2	-21.5	near-SNP	2	yes
+1	95029657	GHSR	promoter	2	-33.6	near-SNP	6	yes
+1	95029666	GHSR	promoter	2	13.5	near-SNP	3	yes
+1	95029690	GHSR	promoter	2	-34.8	near-SNP	10	yes
+1	95029698	GHSR	promoter	2	3.8	near-SNP	2	yes
+1	95029720	GHSR	promoter	3	13.1	CpG-SNP	0	yes
+1	95029733	GHSR	promoter	3	-10.3	CpG-SNP	1	yes
+1	95029737	GHSR	promoter	1	-48.3	near-SNP	4	yes
+1	95029774	GHSR	promoter	1	26.3	no-SNP		yes
+1	95029931	GHSR	promoter	2	-60.5	CpG-SNP	0	yes
+10	76648259	HSPA2	promoter	1	-15.6	CpG-SNP	0	yes
+10	76648315	HSPA2	promoter	2	-17.3	near-SNP	3	yes
+10	76649600	HSPA2	promoter	3	-29.0	no-SNP		yes
+10	76675300	HSPA2	gene_body	1	36.4	CpG-SNP	0	yes
+10	76680195	HSPA2	gene_body	1	37.1	CpG-SNP	1	yes
+10	76680242	HSPA2	gene_body	4	-34.3	near-SNP	9	yes
+10	76680378	HSPA2	gene_body	1	42.3	CpG-SNP	1	yes
+10	76680390	HSPA2	gene_body	1	-33.9	CpG-SNP	1	yes
+10	76681365	HSPA2	gene_body	2	-23.1	CpG-SNP	1	yes
+10	76681367	HSPA2	gene_body	1	-15.9	CpG-SNP	0	yes
+10	76681382	HSPA2	gene_body	2	-23.1	near-SNP	2	yes
+10	76681401	HSPA2	gene_body	4	-26.6	CpG-SNP	1	yes
+10	76681404	HSPA2	gene_body	3	-17.8	CpG-SNP	0	yes
+10	76681422	HSPA2	gene_body	4	-28.2	CpG-SNP	1	yes
+10	76681428	HSPA2	gene_body	3	-40.3	CpG-SNP	1	yes
+10	76681431	HSPA2	gene_body	3	-33.5	CpG-SNP	1	yes
+10	76681434	HSPA2	gene_body	1	-26.8	CpG-SNP	1	yes
+10	76681475	HSPA2	gene_body	2	-18.0	near-SNP	3	yes
+10	76681815	HSPA2	gene_body	1	-20.4	near-SNP	8	yes
+10	76687615	HSPA2	downstream_distal	1	24.2	near-SNP	3	yes
+10	76687664	HSPA2	downstream_distal	2	-27.3	near-SNP	4	yes
+10	76687826	HSPA2	downstream_distal	3	-21.8	no-SNP		yes
+10	76687852	HSPA2	downstream_distal	3	-20.7	near-SNP	8	yes
+10	76687943	HSPA2	downstream_distal	2	-21.3	near-SNP	4	yes
+25	34332279	HSPB1	upstream_distal	1	22.0	near-SNP	7	yes
+25	34332312	HSPB1	upstream_distal	1	18.4	CpG-SNP	0	yes
+25	34333164	HSPB1	upstream_distal	1	-61.7	no-SNP		yes
+25	34333166	HSPB1	upstream_distal	1	-46.3	no-SNP		yes
+25	34333174	HSPB1	upstream_distal	2	-8.8	no-SNP		yes
+25	34333182	HSPB1	upstream_distal	2	-38.6	no-SNP		yes
+25	34333520	HSPB1	upstream_distal	1	-18.0	no-SNP		yes
+25	34333818	HSPB1	upstream_distal	1	-25.0	no-SNP		yes
+25	34333830	HSPB1	upstream_distal	1	-18.2	no-SNP		yes
+25	34334253	HSPB1	upstream_distal	1	-20.0	near-SNP	5	yes
+25	34334318	HSPB1	upstream_distal	1	15.8	CpG-SNP	0	yes
+25	34334468	HSPB1	upstream_distal	1	-28.1	no-SNP		yes
+25	34334495	HSPB1	upstream_distal	1	-21.3	no-SNP		yes
+25	34334502	HSPB1	upstream_distal	1	-37.1	no-SNP		yes
+25	34334504	HSPB1	upstream_distal	2	-11.7	no-SNP		yes
+25	34334868	HSPB1	upstream_distal	1	32.1	no-SNP		yes
+25	34334894	HSPB1	upstream_distal	2	-39.3	near-SNP	4	yes
+25	34334912	HSPB1	upstream_distal	1	-35.0	no-SNP		yes
+25	34334914	HSPB1	upstream_distal	1	-27.8	no-SNP		yes
+25	34334915	HSPB1	upstream_distal	2	-31.9	no-SNP		yes
+25	34334917	HSPB1	upstream_distal	1	39.0	no-SNP		yes
+25	34334918	HSPB1	upstream_distal	1	-36.5	no-SNP		yes
+25	34336552	HSPB1	upstream_distal	1	37.0	no-SNP		yes
+25	34338573	HSPB1	upstream_distal	2	-17.8	CpG-SNP	1	yes
+25	34338590	HSPB1	upstream_distal	1	-15.5	no-SNP		yes
+25	34345650	HSPB1	promoter	1	-20.6	near-SNP	2	yes
+25	34345708	HSPB1	promoter	2	-24.4	CpG-SNP	0	yes
+25	34345723	HSPB1	promoter	1	-27.3	CpG-SNP	0	yes
+25	34346180	HSPB1	promoter	1	24.1	CpG-SNP	0	yes
+25	34346406	HSPB1	promoter	1	-20.5	near-SNP	3	yes
+25	34346595	HSPB1	promoter	1	-22.8	near-SNP	9	yes
+25	34346605	HSPB1	promoter	1	17.6	CpG-SNP	1	yes
+25	34346632	HSPB1	promoter	2	21.0	CpG-SNP	0	yes
+25	34346642	HSPB1	promoter	1	17.6	near-SNP	3	yes
+25	34346646	HSPB1	promoter	1	23.5	CpG-SNP	1	yes
+25	34346652	HSPB1	promoter	1	24.7	near-SNP	7	yes
+25	34346827	HSPB1	promoter	1	-30.9	near-SNP	2	yes
+25	34348773	HSPB1	downstream_distal	3	-2.3	CpG-SNP	0	yes
+25	34348786	HSPB1	downstream_distal	1	29.7	CpG-SNP	0	yes
+16	51461143	ISG15	downstream_distal	3	-29.3	near-SNP	7	yes
+16	51461156	ISG15	downstream_distal	2	-48.5	near-SNP	6	yes
+16	51461187	ISG15	downstream_distal	1	-22.7	no-SNP		yes
+16	51461188	ISG15	downstream_distal	3	7.5	no-SNP		yes
+16	51461190	ISG15	downstream_distal	2	-27.4	no-SNP		yes
+16	51461214	ISG15	downstream_distal	1	-22.0	no-SNP		yes
+16	51461219	ISG15	downstream_distal	2	-31.2	no-SNP		yes
+16	51461299	ISG15	downstream_distal	1	-19.6	CpG-SNP	1	yes
+16	51461300	ISG15	downstream_distal	1	-17.1	CpG-SNP	0	yes
+16	51461310	ISG15	downstream_distal	1	-20.5	CpG-SNP	0	yes
+16	51461311	ISG15	downstream_distal	1	-29.3	CpG-SNP	1	yes
+16	51461316	ISG15	downstream_distal	3	-31.3	near-SNP	6	yes
+16	51461317	ISG15	downstream_distal	2	-34.3	near-SNP	7	yes
+16	51461343	ISG15	downstream_distal	1	-18.5	near-SNP	6	yes
+16	51461429	ISG15	downstream_distal	1	-25.8	near-SNP	7	yes
+16	51461430	ISG15	downstream_distal	2	-22.4	near-SNP	6	yes
+16	51461454	ISG15	downstream_distal	1	-16.2	CpG-SNP	1	yes
+16	51461525	ISG15	downstream_distal	1	-16.1	no-SNP		yes
+16	51473695	ISG15	upstream_distal	2	-28.8	CpG-SNP	1	yes
+16	51473733	ISG15	upstream_distal	1	-16.7	near-SNP	8	yes
+16	51473735	ISG15	upstream_distal	1	-18.9	near-SNP	10	yes
+16	51473742	ISG15	upstream_distal	1	-23.3	near-SNP	3	yes
+16	51473760	ISG15	upstream_distal	1	-30.4	CpG-SNP	1	yes
+16	51473945	ISG15	upstream_distal	1	-17.9	no-SNP		yes
+16	51474240	ISG15	upstream_distal	1	-18.8	near-SNP	6	yes
+16	51474271	ISG15	upstream_distal	1	-19.0	near-SNP	9	yes
+16	51474824	ISG15	upstream_distal	1	-34.8	no-SNP		yes
+16	51474828	ISG15	upstream_distal	1	-21.7	near-SNP	9	yes
+16	51474835	ISG15	upstream_distal	2	-24.2	near-SNP	2	yes
+16	51475047	ISG15	upstream_distal	1	-17.5	CpG-SNP	1	yes
+19	46330800	ITGB3	gene_body	1	-17.6	near-SNP	6	yes
+19	46330902	ITGB3	gene_body	1	-21.6	no-SNP		yes
+19	46331072	ITGB3	gene_body	1	-21.6	near-SNP	5	yes
+19	46331257	ITGB3	gene_body	1	-28.6	no-SNP		yes
+19	46331421	ITGB3	gene_body	2	0.3	no-SNP		yes
+19	46350814	ITGB3	gene_body	1	15.1	CpG-SNP	1	yes
+19	46370295	ITGB3	gene_body	2	24.1	CpG-SNP	0	yes
+19	46370335	ITGB3	gene_body	1	19.4	near-SNP	2	yes
+19	46374457	ITGB3	gene_body	1	54.3	CpG-SNP	1	yes
+19	46374458	ITGB3	gene_body	1	15.2	CpG-SNP	0	yes
+19	46377069	ITGB3	gene_body	2	39.2	CpG-SNP	0	yes
+19	46399013	ITGB3	downstream_distal	1	18.9	no-SNP		yes
+19	46399029	ITGB3	downstream_distal	1	18.9	no-SNP		yes
+19	46399522	ITGB3	downstream_distal	2	-5.0	near-SNP	5	yes
+5	27001759	KRT18	promoter	1	27.8	CpG-SNP	0	yes
+5	27001831	KRT18	promoter	1	-31.8	CpG-SNP	1	yes
+5	27001974	KRT18	promoter	1	-33.3	no-SNP		yes
+5	27002005	KRT18	promoter	1	-15.4	CpG-SNP	1	yes
+5	27002013	KRT18	promoter	1	-28.5	CpG-SNP	1	yes
+5	27002241	KRT18	promoter	1	-17.3	near-SNP	5	yes
+1	141668198	MX1	promoter	1	-31.6	near-SNP	10	yes
+1	141673870	MX1	gene_body	1	-16.2	near-SNP	9	yes
+1	141674312	MX1	gene_body	1	-16.2	no-SNP		yes
+1	141675530	MX1	gene_body	1	-16.1	CpG-SNP	0	yes
+1	141705816	MX1	gene_body	1	-39.8	CpG-SNP	0	yes
+1	141705872	MX1	gene_body	2	-40.8	no-SNP		yes
+1	141705885	MX1	gene_body	3	-68.4	near-SNP	6	yes
+1	141705902	MX1	gene_body	1	-47.2	no-SNP		yes
+1	141705957	MX1	gene_body	2	-30.1	near-SNP	3	yes
+1	141706067	MX1	gene_body	2	-40.3	no-SNP		yes
+1	141706076	MX1	gene_body	1	-20.5	no-SNP		yes
+1	141706085	MX1	gene_body	2	-42.7	no-SNP		yes
+1	141706091	MX1	gene_body	2	-15.1	no-SNP		yes
+1	141706097	MX1	gene_body	2	-42.8	no-SNP		yes
+1	141710817	MX1	gene_body	9	28.8	CpG-SNP	0	yes
+1	141713165	MX1	gene_body	1	58.1	no-SNP		yes
+1	141716180	MX1	downstream_distal	6	43.2	CpG-SNP	1	yes
+1	141722639	MX1	downstream_distal	8	72.6	CpG-SNP	1	yes
+1	141722650	MX1	downstream_distal	1	34.1	near-SNP	9	yes
+1	141722685	MX1	downstream_distal	2	26.0	no-SNP		yes
+1	141722700	MX1	downstream_distal	1	18.3	near-SNP	6	yes
+1	141722755	MX1	downstream_distal	3	48.2	CpG-SNP	0	yes
+20	38915652	PRLR	promoter	2	26.5	near-SNP	10	yes
+20	38915762	PRLR	promoter	1	-24.0	no-SNP		yes
+20	38916108	PRLR	promoter	1	15.2	CpG-SNP	0	yes
+20	38916109	PRLR	promoter	1	21.4	CpG-SNP	1	yes
+20	38916110	PRLR	promoter	1	-20.0	near-SNP	2	yes
+20	38916112	PRLR	promoter	1	-24.6	near-SNP	4	yes
+20	38916114	PRLR	promoter	2	16.7	near-SNP	6	yes
+20	38916115	PRLR	promoter	1	29.5	near-SNP	7	yes
+20	38916120	PRLR	promoter	1	-19.5	no-SNP		yes
+20	38916126	PRLR	promoter	1	-28.6	no-SNP		yes
+20	38916127	PRLR	promoter	1	-18.8	no-SNP		yes
+20	38916128	PRLR	promoter	2	-7.3	no-SNP		yes
+20	38916138	PRLR	promoter	1	-16.7	no-SNP	11	yes
+20	38916174	PRLR	promoter	1	-27.9	no-SNP		yes
+20	38916232	PRLR	promoter	1	-33.3	no-SNP		yes
+20	38916235	PRLR	promoter	1	-21.4	no-SNP		yes
+20	39008609	PRLR	gene_body	2	25.0	CpG-SNP	1	yes
+20	39008615	PRLR	gene_body	2	30.0	CpG-SNP	0	yes
+20	39019628	PRLR	gene_body	3	43.9	CpG-SNP	0	yes
+20	39079692	PRLR	gene_body	2	-25.9	no-SNP		yes
+chr20	38994495	PRLR	gene_body	2	40.8	no-SNP		yes
+6	36474081	ABCG2	promoter	1	19.4	CpG-SNP	1	no
+6	36475339	ABCG2	promoter	1	-23.5	no-SNP		no
+6	36475551	ABCG2	promoter	1	19.4	near-SNP	2	no
+6	36475617	ABCG2	promoter	1	-20.7	no-SNP		no
+6	36483628	ABCG2	gene_body	5	24.8	CpG-SNP	0	no
+6	36531920	ABCG2	gene_body	2	-43.6	near-SNP	7	no
+6	36531926	ABCG2	gene_body	3	-36.9	CpG-SNP	1	no
+6	36531927	ABCG2	gene_body	1	-18.5	CpG-SNP	0	no
+6	36531929	ABCG2	gene_body	4	-38.0	near-SNP	2	no
+6	36531930	ABCG2	gene_body	2	-38.0	near-SNP	3	no
+6	36532025	ABCG2	gene_body	1	-25.5	no-SNP		no
+6	36532072	ABCG2	gene_body	1	-15.8	no-SNP		no
+6	36532077	ABCG2	gene_body	1	-15.8	no-SNP		no
+6	36532086	ABCG2	gene_body	1	-15.8	near-SNP	9	no
+6	36532174	ABCG2	gene_body	1	-38.0	near-SNP	4	no
+6	36532191	ABCG2	gene_body	1	-56.6	near-SNP	9	no
+6	36532192	ABCG2	gene_body	2	-23.9	near-SNP	8	no
+6	36532204	ABCG2	gene_body	1	-30.0	CpG-SNP	0	no
+6	36532208	ABCG2	gene_body	1	-30.0	near-SNP	4	no
+6	36532212	ABCG2	gene_body	1	-20.0	CpG-SNP	0	no
+6	36532215	ABCG2	gene_body	1	-20.0	near-SNP	3	no
+6	36532222	ABCG2	gene_body	2	-32.3	CpG-SNP	0	no
+6	36532233	ABCG2	gene_body	2	-33.8	near-SNP	4	no
+6	36532234	ABCG2	gene_body	2	-2.5	near-SNP	5	no
+6	36532236	ABCG2	gene_body	2	-25.8	near-SNP	7	no
+6	36532237	ABCG2	gene_body	2	-8.8	near-SNP	7	no
+6	36532240	ABCG2	gene_body	3	-33.9	near-SNP	4	no
+6	36532241	ABCG2	gene_body	2	-19.3	near-SNP	3	no
+6	36532249	ABCG2	gene_body	3	-34.6	near-SNP	4	no
+6	36532250	ABCG2	gene_body	2	2.7	near-SNP	3	no
+6	36532252	ABCG2	gene_body	1	-28.4	CpG-SNP	1	no
+6	36532253	ABCG2	gene_body	1	-19.3	CpG-SNP	0	no
+6	36532257	ABCG2	gene_body	1	-52.2	near-SNP	4	no
+6	36532258	ABCG2	gene_body	2	-33.4	near-SNP	5	no
+6	36532308	ABCG2	gene_body	1	-18.0	CpG-SNP	1	no
+6	36532409	ABCG2	gene_body	2	-22.2	near-SNP	5	no
+6	36532411	ABCG2	gene_body	1	-31.2	near-SNP	3	no
+6	36532432	ABCG2	gene_body	1	-50.6	no-SNP		no
+6	36532435	ABCG2	gene_body	2	-26.6	no-SNP		no
+6	36548177	ABCG2	gene_body	1	-90.5	CpG-SNP	0	no
+chr6	36578208	ABCG2	gene_body	2	-21.3	no-SNP		no
+25	38786101	ACTB	upstream_distal	1	-69.2	near-SNP	4	no
+25	38786287	ACTB	upstream_distal	2	-4.5	no-SNP		no
+25	38786348	ACTB	upstream_distal	1	-30.8	no-SNP		no
+25	38786369	ACTB	upstream_distal	2	30.7	no-SNP	11	no
+25	38787038	ACTB	upstream_distal	1	18.1	CpG-SNP	1	no
+25	38787040	ACTB	upstream_distal	3	24.8	near-SNP	3	no
+25	38787477	ACTB	upstream_distal	1	-20.0	no-SNP		no
+25	38787604	ACTB	upstream_distal	2	24.0	near-SNP	8	no
+25	38787950	ACTB	upstream_distal	1	-15.4	near-SNP	4	no
+25	38788279	ACTB	upstream_distal	3	35.3	no-SNP		no
+25	38792761	ACTB	upstream_distal	1	15.8	CpG-SNP	0	no
+25	38792835	ACTB	upstream_distal	1	32.1	no-SNP		no
+25	38792884	ACTB	upstream_distal	1	-17.1	CpG-SNP	1	no
+25	38792890	ACTB	upstream_distal	1	16.7	near-SNP	5	no
+25	38793868	ACTB	upstream_distal	1	35.5	no-SNP		no
+25	38794247	ACTB	upstream_distal	1	-29.8	no-SNP		no
+25	38795605	ACTB	promoter	1	100.0	CpG-SNP	0	no
+25	38795624	ACTB	promoter	1	19.1	no-SNP		no
+25	38801121	ACTB	gene_body	2	31.7	CpG-SNP	1	no
+25	38801189	ACTB	gene_body	3	45.6	CpG-SNP	1	no
+25	38801211	ACTB	gene_body	2	36.9	CpG-SNP	1	no
+25	38801697	ACTB	gene_body	3	28.1	CpG-SNP	0	no
+25	38801699	ACTB	gene_body	3	32.9	CpG-SNP	1	no
+25	38803749	ACTB	downstream_distal	1	16.9	CpG-SNP	1	no
+25	38803756	ACTB	downstream_distal	1	55.4	near-SNP	6	no
+25	38803757	ACTB	downstream_distal	1	41.1	near-SNP	7	no
+25	38803768	ACTB	downstream_distal	2	56.0	near-SNP	9	no
+25	38810104	ACTB	downstream_distal	1	-17.4	no-SNP		no
+25	38810186	ACTB	downstream_distal	1	-15.6	CpG-SNP	0	no
+25	38810663	ACTB	downstream_distal	3	7.5	no-SNP		no
+25	38813431	ACTB	downstream_distal	1	-38.2	near-SNP	7	no
+25	38813598	ACTB	downstream_distal	2	20.6	no-SNP		no
+25	38814735	ACTB	downstream_distal	1	-21.9	no-SNP		no
+15	51216597	AURKA	upstream_distal	1	-15.8	CpG-SNP	1	no
+15	51216997	AURKA	upstream_distal	1	-16.3	no-SNP		no
+15	51218207	AURKA	upstream_distal	1	17.5	CpG-SNP	0	no
+15	51228601	AURKA	gene_body	1	-34.0	no-SNP		no
+13	61220258	BCL2L1	gene_body	1	32.6	CpG-SNP	1	no
+13	61220491	BCL2L1	gene_body	2	21.6	CpG-SNP	0	no
+13	61222779	BCL2L1	gene_body	1	34.2	near-SNP	6	no
+13	61237658	BCL2L1	gene_body	5	24.2	near-SNP	3	no
+13	61237667	BCL2L1	gene_body	6	24.4	CpG-SNP	1	no
+13	61257560	BCL2L1	gene_body	1	33.0	CpG-SNP	0	no
+13	61264917	BCL2L1	gene_body	6	30.1	CpG-SNP	0	no
+13	61269375	BCL2L1	promoter	2	1.4	CpG-SNP	1	no
+13	61269404	BCL2L1	promoter	1	93.9	CpG-SNP	0	no
+13	61270232	BCL2L1	promoter	1	-16.7	no-SNP		no
+13	61270247	BCL2L1	promoter	1	-15.4	no-SNP		no
+13	61270627	BCL2L1	promoter	1	-18.9	near-SNP	10	no
+13	61270666	BCL2L1	promoter	1	-19.4	no-SNP		no
+13	61270671	BCL2L1	promoter	3	-18.3	no-SNP		no
+13	61270677	BCL2L1	promoter	3	-24.4	no-SNP		no
+13	61270927	BCL2L1	promoter	1	-26.3	near-SNP	7	no
+13	61270928	BCL2L1	promoter	1	-16.2	near-SNP	8	no
+13	61270933	BCL2L1	promoter	1	-26.3	near-SNP	9	no
+13	61270935	BCL2L1	promoter	1	-26.3	near-SNP	7	no
+13	61270945	BCL2L1	promoter	1	-26.3	near-SNP	3	no
+13	61270947	BCL2L1	promoter	1	-26.3	near-SNP	5	no
+13	61270949	BCL2L1	promoter	1	-26.3	near-SNP	7	no
+13	61270950	BCL2L1	promoter	1	-16.2	near-SNP	8	no
+13	61271107	BCL2L1	promoter	2	-25.3	no-SNP		no
+13	61284238	BCL2L1	upstream_distal	2	32.7	CpG-SNP	1	no
+X	105666514	BMP15	downstream_distal	1	20.5	CpG-SNP	1	no
+27	15035809	CASP3	downstream_distal	1	-59.4	CpG-SNP	0	no
+27	15035831	CASP3	downstream_distal	1	-20.4	no-SNP		no
+27	15035950	CASP3	downstream_distal	2	5.5	near-SNP	5	no
+21	34313784	CYP11A1	upstream_distal	3	10.3	near-SNP	9	no
+21	34334458	CYP11A1	gene_body	2	-3.3	no-SNP		no
+21	34341960	CYP11A1	gene_body	1	18.3	no-SNP		no
+21	34342594	CYP11A1	gene_body	1	20.8	near-SNP	8	no
+21	34342612	CYP11A1	gene_body	1	23.1	near-SNP	9	no
+21	34342613	CYP11A1	gene_body	1	-15.5	near-SNP	8	no
+21	34345576	CYP11A1	downstream_distal	1	27.6	no-SNP	11	no
+21	34345585	CYP11A1	downstream_distal	1	-25.2	near-SNP	2	no
+21	34345588	CYP11A1	downstream_distal	1	29.5	CpG-SNP	1	no
+21	34348009	CYP11A1	downstream_distal	1	-23.1	no-SNP		no
+21	34349597	CYP11A1	downstream_distal	1	-15.8	near-SNP	10	no
+21	34349607	CYP11A1	downstream_distal	1	33.3	CpG-SNP	0	no
+21	34349615	CYP11A1	downstream_distal	1	-33.3	CpG-SNP	1	no
+21	34349619	CYP11A1	downstream_distal	1	-21.1	near-SNP	5	no
+14	589626	DGAT1	upstream_distal	1	17.8	no-SNP		no
+14	591831	DGAT1	upstream_distal	1	-28.3	no-SNP		no
+14	592103	DGAT1	upstream_distal	4	-27.8	no-SNP		no
+14	592119	DGAT1	upstream_distal	2	-16.5	near-SNP	6	no
+14	592121	DGAT1	upstream_distal	2	0.8	near-SNP	4	no
+14	592126	DGAT1	upstream_distal	1	-26.4	CpG-SNP	1	no
+14	592127	DGAT1	upstream_distal	3	-34.7	near-SNP	2	no
+14	592144	DGAT1	upstream_distal	2	34.8	no-SNP		no
+14	592153	DGAT1	upstream_distal	2	-37.3	near-SNP	8	no
+14	592185	DGAT1	upstream_distal	4	-37.0	no-SNP		no
+14	592193	DGAT1	upstream_distal	1	21.7	near-SNP	5	no
+14	592194	DGAT1	upstream_distal	1	-37.4	near-SNP	4	no
+14	592199	DGAT1	upstream_distal	1	-31.6	CpG-SNP	1	no
+14	592205	DGAT1	upstream_distal	2	-5.7	near-SNP	7	no
+14	592210	DGAT1	upstream_distal	1	-18.2	no-SNP		no
+14	592235	DGAT1	upstream_distal	1	-20.0	near-SNP	3	no
+14	592258	DGAT1	upstream_distal	4	-18.4	no-SNP		no
+14	592259	DGAT1	upstream_distal	1	-35.2	no-SNP		no
+14	592335	DGAT1	upstream_distal	1	-18.5	near-SNP	9	no
+14	592339	DGAT1	upstream_distal	1	-22.2	no-SNP		no
+14	592344	DGAT1	upstream_distal	1	-17.7	no-SNP		no
+14	592487	DGAT1	upstream_distal	2	-28.8	near-SNP	9	no
+14	593461	DGAT1	upstream_distal	1	-29.3	no-SNP		no
+14	593462	DGAT1	upstream_distal	1	-16.5	no-SNP		no
+14	593465	DGAT1	upstream_distal	3	-31.9	no-SNP		no
+14	593477	DGAT1	upstream_distal	2	-18.5	near-SNP	4	no
+14	593493	DGAT1	upstream_distal	1	-19.0	no-SNP		no
+14	593636	DGAT1	upstream_distal	2	-16.8	no-SNP		no
+14	593688	DGAT1	upstream_distal	1	-16.7	no-SNP		no
+14	594026	DGAT1	upstream_distal	2	-16.6	no-SNP		no
+14	594029	DGAT1	upstream_distal	2	-16.6	no-SNP		no
+14	594035	DGAT1	upstream_distal	2	-19.4	no-SNP		no
+14	594051	DGAT1	upstream_distal	1	-17.1	no-SNP		no
+14	594221	DGAT1	upstream_distal	2	20.4	CpG-SNP	0	no
+14	594235	DGAT1	upstream_distal	3	20.8	near-SNP	3	no
+14	594384	DGAT1	upstream_distal	1	-25.0	near-SNP	8	no
+14	594484	DGAT1	upstream_distal	1	15.4	CpG-SNP	1	no
+14	594493	DGAT1	upstream_distal	2	22.4	near-SNP	7	no
+14	594506	DGAT1	upstream_distal	1	18.6	CpG-SNP	1	no
+14	594600	DGAT1	upstream_distal	1	-18.4	near-SNP	3	no
+14	594610	DGAT1	upstream_distal	2	-18.1	CpG-SNP	1	no
+14	596656	DGAT1	upstream_distal	1	-34.5	no-SNP		no
+14	596662	DGAT1	upstream_distal	2	-4.3	no-SNP		no
+14	596668	DGAT1	upstream_distal	2	-24.6	no-SNP		no
+14	596673	DGAT1	upstream_distal	1	-35.1	no-SNP		no
+14	596710	DGAT1	upstream_distal	1	21.2	CpG-SNP	1	no
+14	596723	DGAT1	upstream_distal	1	-44.2	near-SNP	5	no
+14	596771	DGAT1	upstream_distal	1	-26.1	near-SNP	4	no
+14	596811	DGAT1	upstream_distal	1	-43.3	no-SNP		no
+14	596814	DGAT1	upstream_distal	1	-30.0	near-SNP	9	no
+14	596817	DGAT1	upstream_distal	1	-34.4	near-SNP	6	no
+14	596819	DGAT1	upstream_distal	1	-63.3	near-SNP	4	no
+14	596940	DGAT1	upstream_distal	1	19.0	near-SNP	3	no
+14	596946	DGAT1	upstream_distal	1	-35.6	near-SNP	9	no
+14	596949	DGAT1	upstream_distal	1	17.9	no-SNP		no
+14	596955	DGAT1	upstream_distal	1	-23.9	no-SNP		no
+14	596961	DGAT1	upstream_distal	1	-38.8	no-SNP		no
+14	596976	DGAT1	upstream_distal	1	-29.2	no-SNP		no
+14	597165	DGAT1	upstream_distal	1	-27.0	no-SNP		no
+14	597167	DGAT1	upstream_distal	1	21.3	near-SNP	10	no
+14	597180	DGAT1	upstream_distal	1	16.0	near-SNP	3	no
+14	597512	DGAT1	upstream_distal	1	21.2	no-SNP		no
+14	597521	DGAT1	upstream_distal	1	-22.5	no-SNP		no
+14	597528	DGAT1	upstream_distal	1	-22.6	near-SNP	9	no
+14	597565	DGAT1	upstream_distal	1	-17.0	near-SNP	5	no
+14	597604	DGAT1	upstream_distal	1	-29.0	no-SNP		no
+14	597654	DGAT1	upstream_distal	1	-19.2	no-SNP		no
+14	597700	DGAT1	upstream_distal	1	-30.0	no-SNP		no
+14	597742	DGAT1	upstream_distal	1	19.5	no-SNP		no
+14	597984	DGAT1	upstream_distal	1	28.9	no-SNP		no
+14	598039	DGAT1	upstream_distal	5	-35.5	no-SNP		no
+14	598050	DGAT1	upstream_distal	3	-35.6	no-SNP		no
+14	598057	DGAT1	upstream_distal	3	-38.3	near-SNP	6	no
+14	598079	DGAT1	upstream_distal	4	-36.2	CpG-SNP	0	no
+14	598085	DGAT1	upstream_distal	2	-22.6	near-SNP	6	no
+14	598090	DGAT1	upstream_distal	2	-34.5	no-SNP		no
+14	598091	DGAT1	upstream_distal	3	-41.6	no-SNP		no
+14	598102	DGAT1	upstream_distal	3	-39.7	no-SNP		no
+14	598103	DGAT1	upstream_distal	4	-31.4	no-SNP		no
+14	598106	DGAT1	upstream_distal	5	-20.9	no-SNP		no
+14	598107	DGAT1	upstream_distal	3	-10.6	no-SNP		no
+14	598109	DGAT1	upstream_distal	3	-7.8	no-SNP		no
+14	598110	DGAT1	upstream_distal	3	-27.2	no-SNP	11	no
+14	598174	DGAT1	upstream_distal	2	-3.7	near-SNP	9	no
+14	598247	DGAT1	upstream_distal	1	-19.4	near-SNP	7	no
+14	598290	DGAT1	upstream_distal	1	-31.8	no-SNP		no
+14	598296	DGAT1	upstream_distal	2	-17.5	no-SNP		no
+14	598334	DGAT1	upstream_distal	1	-15.9	near-SNP	10	no
+14	598472	DGAT1	upstream_distal	2	-19.8	no-SNP		no
+14	598538	DGAT1	upstream_distal	3	-20.6	near-SNP	4	no
+14	598556	DGAT1	upstream_distal	1	-15.5	CpG-SNP	0	no
+14	598604	DGAT1	upstream_distal	1	18.2	near-SNP	8	no
+14	598837	DGAT1	upstream_distal	1	-23.3	no-SNP		no
+14	598843	DGAT1	upstream_distal	1	-23.3	no-SNP		no
+14	599219	DGAT1	upstream_distal	1	36.4	no-SNP		no
+14	602306	DGAT1	promoter	1	22.7	no-SNP		no
+14	604260	DGAT1	promoter	1	-16.7	no-SNP		no
+14	604816	DGAT1	promoter	2	-41.7	no-SNP		no
+14	607877	DGAT1	gene_body	1	32.6	CpG-SNP	1	no
+14	607882	DGAT1	gene_body	1	33.2	near-SNP	6	no
+14	607898	DGAT1	gene_body	2	3.7	near-SNP	6	no
+14	609625	DGAT1	gene_body	1	-17.2	near-SNP	8	no
+14	609638	DGAT1	gene_body	1	31.2	near-SNP	5	no
+14	611827	DGAT1	gene_body	1	22.2	CpG-SNP	0	no
+14	611846	DGAT1	gene_body	1	39.2	CpG-SNP	0	no
+14	612034	DGAT1	gene_body	1	-25.7	CpG-SNP	0	no
+14	612042	DGAT1	gene_body	1	27.3	CpG-SNP	0	no
+14	612461	DGAT1	gene_body	1	66.7	near-SNP	9	no
+14	612481	DGAT1	gene_body	1	-20.0	CpG-SNP	1	no
+14	615938	DGAT1	downstream_distal	1	22.2	no-SNP		no
+14	616032	DGAT1	downstream_distal	1	20.0	near-SNP	4	no
+14	616068	DGAT1	downstream_distal	2	20.8	no-SNP		no
+14	616088	DGAT1	downstream_distal	2	-16.5	CpG-SNP	1	no
+14	616089	DGAT1	downstream_distal	1	21.6	near-SNP	2	no
+14	616100	DGAT1	downstream_distal	1	16.7	no-SNP		no
+14	616134	DGAT1	downstream_distal	2	-0.6	no-SNP		no
+14	616729	DGAT1	downstream_distal	1	22.4	CpG-SNP	1	no
+14	616779	DGAT1	downstream_distal	2	8.2	CpG-SNP	0	no
+14	617823	DGAT1	downstream_distal	6	59.4	CpG-SNP	1	no
+14	617824	DGAT1	downstream_distal	4	57.6	CpG-SNP	0	no
+14	617836	DGAT1	downstream_distal	2	-4.4	near-SNP	8	no
+14	617837	DGAT1	downstream_distal	1	16.3	near-SNP	9	no
+14	617871	DGAT1	downstream_distal	4	62.4	CpG-SNP	1	no
+14	617879	DGAT1	downstream_distal	1	26.7	near-SNP	7	no
+chr14	593080	DGAT1	upstream_distal	2	-25.3	no-SNP		no
+chr14	593104	DGAT1	upstream_distal	2	28.5	no-SNP		no
+chr14	593165	DGAT1	upstream_distal	2	-24.0	no-SNP		no
+chr14	593197	DGAT1	upstream_distal	1	20.3	no-SNP		no
+chr14	596142	DGAT1	upstream_distal	2	17.1	no-SNP		no
+chr14	596145	DGAT1	upstream_distal	2	34.6	no-SNP		no
+chr14	596193	DGAT1	upstream_distal	1	15.0	no-SNP		no
+chr14	596214	DGAT1	upstream_distal	1	-18.0	no-SNP		no
+chr14	596353	DGAT1	upstream_distal	2	-24.0	no-SNP		no
+7	11285257	DNAJB1	downstream_distal	1	-15.8	near-SNP	2	no
+7	11285543	DNAJB1	downstream_distal	1	-15.8	CpG-SNP	0	no
+7	11285641	DNAJB1	downstream_distal	1	17.4	no-SNP		no
+7	11285653	DNAJB1	downstream_distal	1	-20.0	no-SNP		no
+22	53008442	DNLZ	downstream_distal	1	53.8	near-SNP	10	no
+22	53008443	DNLZ	downstream_distal	2	23.7	near-SNP	9	no
+22	53022727	DNLZ	gene_body	1	23.1	CpG-SNP	0	no
+22	53044288	DNLZ	promoter	1	36.1	CpG-SNP	1	no
+7	14657706	DNMT1	downstream_distal	2	5.9	no-SNP		no
+7	14657726	DNMT1	downstream_distal	2	2.8	near-SNP	5	no
+7	14657730	DNMT1	downstream_distal	2	-5.8	near-SNP	2	no
+7	14658416	DNMT1	downstream_distal	1	25.0	near-SNP	10	no
+7	14661643	DNMT1	downstream_distal	1	-33.3	no-SNP		no
+7	14662527	DNMT1	downstream_distal	1	-44.3	CpG-SNP	1	no
+7	14662748	DNMT1	downstream_distal	1	-31.6	no-SNP		no
+7	14662801	DNMT1	downstream_distal	1	-25.1	near-SNP	4	no
+7	14662842	DNMT1	downstream_distal	1	47.3	no-SNP		no
+7	14662843	DNMT1	downstream_distal	2	-30.9	no-SNP		no
+7	14662882	DNMT1	downstream_distal	3	-7.7	no-SNP		no
+7	14662900	DNMT1	downstream_distal	4	21.7	no-SNP		no
+7	14662941	DNMT1	downstream_distal	2	27.6	no-SNP		no
+7	14671579	DNMT1	gene_body	1	57.1	no-SNP		no
+7	14671751	DNMT1	gene_body	1	-17.2	CpG-SNP	0	no
+7	14672210	DNMT1	gene_body	1	-46.5	no-SNP		no
+7	14688699	DNMT1	gene_body	1	-17.2	CpG-SNP	1	no
+7	14689463	DNMT1	gene_body	1	-18.5	near-SNP	7	no
+7	14690294	DNMT1	gene_body	1	25.9	near-SNP	7	no
+7	14690295	DNMT1	gene_body	1	15.9	near-SNP	6	no
+7	14690513	DNMT1	gene_body	1	33.5	CpG-SNP	1	no
+7	14697934	DNMT1	gene_body	1	-24.0	CpG-SNP	1	no
+7	14697936	DNMT1	gene_body	1	20.0	CpG-SNP	1	no
+7	14705982	DNMT1	gene_body	6	76.0	CpG-SNP	0	no
+7	14706049	DNMT1	gene_body	1	16.4	near-SNP	8	no
+7	14706058	DNMT1	gene_body	7	84.9	CpG-SNP	0	no
+7	14708065	DNMT1	gene_body	1	42.2	CpG-SNP	1	no
+7	14749871	DNMT1	upstream_distal	1	22.9	no-SNP	15	no
+7	14750030	DNMT1	upstream_distal	1	-17.7	no-SNP		no
+7	14750107	DNMT1	upstream_distal	1	21.2	near-SNP	2	no
+7	14750145	DNMT1	upstream_distal	3	7.4	no-SNP		no
+7	14753030	DNMT1	upstream_distal	1	30.0	near-SNP	3	no
+chr7	14713426	DNMT1	gene_body	1	-18.1	no-SNP		no
+chr7	14746743	DNMT1	upstream_distal	1	15.3	no-SNP		no
+chr7	14746775	DNMT1	upstream_distal	1	28.5	no-SNP		no
+chr7	14746859	DNMT1	upstream_distal	2	31.5	no-SNP		no
+chr7	14751189	DNMT1	upstream_distal	2	31.5	no-SNP		no
+11	73957147	DNMT3A	upstream_distal	1	-58.7	no-SNP		no
+11	73957241	DNMT3A	upstream_distal	1	-25.3	no-SNP		no
+11	73957249	DNMT3A	upstream_distal	1	-49.6	no-SNP		no
+11	73971384	DNMT3A	promoter	1	-16.7	CpG-SNP	1	no
+11	73971751	DNMT3A	promoter	2	-24.7	no-SNP		no
+11	73971817	DNMT3A	promoter	1	-22.6	no-SNP		no
+11	73972507	DNMT3A	promoter	1	-18.6	no-SNP		no
+11	73972779	DNMT3A	promoter	1	-25.0	near-SNP	6	no
+11	73972825	DNMT3A	promoter	1	-15.9	no-SNP		no
+11	73973387	DNMT3A	promoter	1	-25.8	no-SNP		no
+11	73973389	DNMT3A	promoter	1	-32.4	no-SNP		no
+11	73973407	DNMT3A	promoter	2	-24.6	no-SNP		no
+11	73973448	DNMT3A	promoter	1	17.0	no-SNP	11	no
+11	73973488	DNMT3A	promoter	1	-35.0	near-SNP	7	no
+11	73973502	DNMT3A	promoter	1	-36.0	near-SNP	5	no
+11	73973511	DNMT3A	promoter	2	-27.4	near-SNP	5	no
+11	73973601	DNMT3A	gene_body	2	-30.7	near-SNP	2	no
+11	73974027	DNMT3A	gene_body	2	-31.9	CpG-SNP	1	no
+11	73974043	DNMT3A	gene_body	2	-4.5	no-SNP		no
+11	73974072	DNMT3A	gene_body	2	24.4	no-SNP		no
+11	73974092	DNMT3A	gene_body	1	34.9	no-SNP		no
+11	73974116	DNMT3A	gene_body	1	30.3	CpG-SNP	1	no
+11	73997415	DNMT3A	gene_body	1	-35.0	no-SNP		no
+11	73997419	DNMT3A	gene_body	2	-27.2	no-SNP		no
+11	73997424	DNMT3A	gene_body	1	-29.5	no-SNP		no
+11	73997511	DNMT3A	gene_body	1	33.3	no-SNP		no
+11	73998183	DNMT3A	gene_body	1	-25.0	no-SNP		no
+11	73998185	DNMT3A	gene_body	2	0.5	no-SNP		no
+11	74000454	DNMT3A	gene_body	1	-39.5	no-SNP		no
+11	74000455	DNMT3A	gene_body	2	6.2	no-SNP		no
+11	74012883	DNMT3A	gene_body	1	15.4	near-SNP	8	no
+11	74017825	DNMT3A	gene_body	1	-18.2	near-SNP	10	no
+11	74019201	DNMT3A	gene_body	3	50.4	CpG-SNP	1	no
+11	74021685	DNMT3A	gene_body	1	-49.2	no-SNP		no
+11	74021716	DNMT3A	gene_body	1	-41.1	no-SNP		no
+11	74022149	DNMT3A	gene_body	1	-38.4	CpG-SNP	1	no
+11	74022169	DNMT3A	gene_body	2	-69.3	no-SNP		no
+11	74023652	DNMT3A	gene_body	1	-53.0	no-SNP		no
+11	74023773	DNMT3A	gene_body	2	-37.9	no-SNP		no
+11	74028822	DNMT3A	gene_body	2	-34.8	near-SNP	2	no
+11	74029002	DNMT3A	gene_body	2	-31.0	no-SNP		no
+11	74029003	DNMT3A	gene_body	1	-23.0	no-SNP		no
+11	74029005	DNMT3A	gene_body	1	-37.9	no-SNP		no
+11	74029006	DNMT3A	gene_body	1	-17.6	no-SNP		no
+11	74029014	DNMT3A	gene_body	1	-43.0	near-SNP	4	no
+11	74029015	DNMT3A	gene_body	1	-24.5	near-SNP	3	no
+11	74029127	DNMT3A	gene_body	4	-24.5	near-SNP	5	no
+11	74029131	DNMT3A	gene_body	3	-10.0	CpG-SNP	1	no
+11	74029160	DNMT3A	gene_body	1	-30.9	no-SNP		no
+11	74029227	DNMT3A	gene_body	2	-10.3	near-SNP	3	no
+11	74029286	DNMT3A	gene_body	2	5.7	no-SNP		no
+11	74029287	DNMT3A	gene_body	1	-64.7	no-SNP		no
+11	74029292	DNMT3A	gene_body	2	-40.8	no-SNP		no
+11	74029293	DNMT3A	gene_body	4	-29.9	no-SNP		no
+11	74029302	DNMT3A	gene_body	1	31.4	no-SNP		no
+11	74029303	DNMT3A	gene_body	3	-30.7	no-SNP		no
+11	74029305	DNMT3A	gene_body	3	-32.9	no-SNP		no
+11	74029310	DNMT3A	gene_body	1	17.6	no-SNP		no
+11	74029311	DNMT3A	gene_body	1	-33.3	no-SNP		no
+11	74031891	DNMT3A	gene_body	2	3.4	near-SNP	4	no
+11	74045182	DNMT3A	gene_body	1	16.7	no-SNP		no
+11	74050407	DNMT3A	gene_body	2	-57.1	no-SNP		no
+11	74050412	DNMT3A	gene_body	3	-43.6	no-SNP		no
+11	74050432	DNMT3A	gene_body	5	-35.9	no-SNP		no
+11	74050438	DNMT3A	gene_body	4	-36.6	near-SNP	10	no
+11	74050450	DNMT3A	gene_body	2	-56.4	near-SNP	2	no
+11	74050455	DNMT3A	gene_body	2	-70.1	near-SNP	7	no
+11	74050472	DNMT3A	gene_body	2	-63.7	no-SNP		no
+11	74050483	DNMT3A	gene_body	2	-76.3	no-SNP		no
+11	74050508	DNMT3A	gene_body	3	-41.8	near-SNP	5	no
+11	74050522	DNMT3A	gene_body	5	-42.7	near-SNP	7	no
+11	74050524	DNMT3A	gene_body	4	-52.6	near-SNP	5	no
+11	74050526	DNMT3A	gene_body	4	-50.1	near-SNP	3	no
+11	74050531	DNMT3A	gene_body	3	-55.2	near-SNP	2	no
+11	74050533	DNMT3A	gene_body	5	-33.2	near-SNP	4	no
+11	74050540	DNMT3A	gene_body	4	-41.7	no-SNP		no
+11	74050550	DNMT3A	gene_body	4	-45.7	no-SNP		no
+11	74050555	DNMT3A	gene_body	3	-24.7	no-SNP		no
+11	74050561	DNMT3A	gene_body	3	-40.1	no-SNP		no
+11	74050562	DNMT3A	gene_body	2	-69.6	no-SNP		no
+11	74050588	DNMT3A	gene_body	3	-16.0	no-SNP		no
+11	74050589	DNMT3A	gene_body	2	-67.2	no-SNP		no
+11	74050593	DNMT3A	gene_body	2	-64.8	no-SNP		no
+11	74050731	DNMT3A	gene_body	1	-61.5	no-SNP		no
+11	74050913	DNMT3A	gene_body	3	-33.2	no-SNP		no
+11	74051615	DNMT3A	gene_body	1	-15.0	near-SNP	5	no
+11	74054810	DNMT3A	gene_body	1	-20.4	no-SNP		no
+11	74055153	DNMT3A	gene_body	1	41.2	CpG-SNP	1	no
+11	74086730	DNMT3A	downstream_distal	3	16.2	no-SNP		no
+11	74087134	DNMT3A	downstream_distal	1	31.0	no-SNP		no
+11	74087150	DNMT3A	downstream_distal	1	34.5	CpG-SNP	1	no
+chr11	73997995	DNMT3A	gene_body	1	-29.4	no-SNP		no
+chr11	73998207	DNMT3A	gene_body	2	26.0	no-SNP		no
+13	62130573	DNMT3B	upstream_distal	1	-17.1	near-SNP	4	no
+13	62142002	DNMT3B	promoter	1	-27.8	no-SNP		no
+13	62142043	DNMT3B	promoter	1	-16.3	near-SNP	5	no
+13	62142057	DNMT3B	promoter	1	-36.8	near-SNP	9	no
+13	62142069	DNMT3B	promoter	1	17.0	near-SNP	4	no
+13	62142311	DNMT3B	promoter	2	-26.9	no-SNP		no
+13	62142677	DNMT3B	promoter	1	-16.7	near-SNP	6	no
+13	62143325	DNMT3B	promoter	1	-19.4	no-SNP		no
+13	62143359	DNMT3B	promoter	1	-20.0	CpG-SNP	0	no
+13	62143481	DNMT3B	promoter	1	23.5	CpG-SNP	0	no
+13	62143729	DNMT3B	promoter	1	-20.3	near-SNP	4	no
+13	62143813	DNMT3B	promoter	2	8.4	no-SNP		no
+13	62166435	DNMT3B	gene_body	1	33.3	CpG-SNP	0	no
+13	62175389	DNMT3B	gene_body	1	-41.9	CpG-SNP	1	no
+13	62182250	DNMT3B	downstream_distal	1	19.2	no-SNP		no
+13	62182255	DNMT3B	downstream_distal	1	-18.5	no-SNP		no
+13	62182448	DNMT3B	downstream_distal	1	-31.0	no-SNP		no
+19	50775474	FASN	promoter	1	-23.1	near-SNP	9	no
+19	50775484	FASN	promoter	2	-8.2	no-SNP		no
+19	50775643	FASN	promoter	1	-16.7	near-SNP	6	no
+19	50776990	FASN	promoter	1	17.1	near-SNP	5	no
+19	50778334	FASN	gene_body	2	38.2	near-SNP	4	no
+19	50778350	FASN	gene_body	2	28.5	no-SNP		no
+19	50778764	FASN	gene_body	1	-52.0	near-SNP	7	no
+19	50783031	FASN	gene_body	1	19.0	near-SNP	7	no
+19	50783090	FASN	gene_body	1	-16.1	near-SNP	2	no
+19	50783093	FASN	gene_body	5	23.2	CpG-SNP	1	no
+19	50783919	FASN	gene_body	2	-0.6	no-SNP		no
+19	50788265	FASN	gene_body	1	31.0	no-SNP		no
+19	50788309	FASN	gene_body	1	-23.5	CpG-SNP	0	no
+19	50788316	FASN	gene_body	1	-35.3	near-SNP	3	no
+19	50788891	FASN	gene_body	1	17.2	no-SNP		no
+19	50788956	FASN	gene_body	4	79.3	CpG-SNP	0	no
+19	50788957	FASN	gene_body	4	73.0	CpG-SNP	1	no
+19	50788961	FASN	gene_body	1	16.7	near-SNP	5	no
+19	50792008	FASN	gene_body	1	-25.7	no-SNP		no
+19	50794031	FASN	gene_body	1	30.3	no-SNP		no
+19	50809120	FASN	downstream_distal	1	-16.7	near-SNP	3	no
+19	50809249	FASN	downstream_distal	1	15.8	no-SNP		no
+5	103858292	GAPDH	downstream_distal	2	-22.0	near-SNP	9	no
+5	103858294	GAPDH	downstream_distal	3	-8.7	no-SNP		no
+5	103859854	GAPDH	downstream_distal	2	45.2	CpG-SNP	1	no
+5	103860846	GAPDH	downstream_distal	4	-15.2	no-SNP		no
+5	103860904	GAPDH	downstream_distal	2	-46.8	no-SNP		no
+5	103860927	GAPDH	downstream_distal	3	-38.7	no-SNP		no
+5	103861100	GAPDH	downstream_distal	1	17.6	no-SNP		no
+5	103861156	GAPDH	downstream_distal	1	-21.7	near-SNP	9	no
+5	103861330	GAPDH	downstream_distal	3	62.2	CpG-SNP	1	no
+5	103863197	GAPDH	downstream_distal	1	-25.8	CpG-SNP	1	no
+5	103863198	GAPDH	downstream_distal	3	-39.2	near-SNP	2	no
+5	103863210	GAPDH	downstream_distal	2	-10.8	CpG-SNP	1	no
+5	103863211	GAPDH	downstream_distal	2	-35.7	CpG-SNP	0	no
+5	103863217	GAPDH	downstream_distal	2	-26.9	near-SNP	6	no
+5	103863218	GAPDH	downstream_distal	1	-22.9	near-SNP	7	no
+5	103864224	GAPDH	downstream_distal	1	32.2	near-SNP	9	no
+5	103865094	GAPDH	downstream_distal	2	-24.1	CpG-SNP	0	no
+5	103865887	GAPDH	downstream_distal	1	16.3	CpG-SNP	1	no
+5	103865912	GAPDH	downstream_distal	2	17.9	near-SNP	3	no
+5	103866988	GAPDH	downstream_distal	2	0.6	CpG-SNP	0	no
+5	103868785	GAPDH	downstream_distal	1	41.9	no-SNP		no
+5	103868786	GAPDH	downstream_distal	1	-17.3	no-SNP		no
+5	103875654	GAPDH	promoter	1	-18.2	no-SNP		no
+5	103876205	GAPDH	promoter	2	34.6	CpG-SNP	0	no
+5	103877190	GAPDH	upstream_distal	2	3.1	near-SNP	4	no
+5	103878952	GAPDH	upstream_distal	1	21.4	CpG-SNP	0	no
+5	103880085	GAPDH	upstream_distal	1	21.7	near-SNP	9	no
+19	48117860	GH1	promoter	1	50.0	CpG-SNP	0	no
+19	48118157	GH1	promoter	1	23.1	near-SNP	10	no
+19	48118178	GH1	promoter	1	-15.2	CpG-SNP	1	no
+19	48125664	GH1	upstream_distal	1	43.5	no-SNP		no
+19	48133240	GH1	upstream_distal	1	36.0	near-SNP	3	no
+19	48133277	GH1	upstream_distal	1	19.2	no-SNP		no
+19	48133628	GH1	upstream_distal	3	-7.3	near-SNP	3	no
+19	48133646	GH1	upstream_distal	1	-46.9	no-SNP		no
+19	48133676	GH1	upstream_distal	1	41.1	no-SNP		no
+19	48133689	GH1	upstream_distal	1	62.9	no-SNP		no
+19	48133694	GH1	upstream_distal	2	27.1	no-SNP		no
+19	48133784	GH1	upstream_distal	1	48.8	near-SNP	4	no
+19	48133804	GH1	upstream_distal	1	44.2	no-SNP		no
+19	48134597	GH1	upstream_distal	2	-35.1	no-SNP		no
+19	48134615	GH1	upstream_distal	3	-9.9	no-SNP		no
+19	48134631	GH1	upstream_distal	4	-29.9	no-SNP		no
+20	31860560	GHR	downstream_distal	1	23.5	CpG-SNP	1	no
+20	31967301	GHR	gene_body	1	-17.1	no-SNP		no
+chr20	31990759	GHR	gene_body	1	-40.6	no-SNP		no
+13	57998770	GNAS	downstream_distal	3	24.4	CpG-SNP	0	no
+13	58021933	GNAS	gene_body	4	-11.5	no-SNP		no
+13	58071383	GNAS	upstream_distal	1	46.8	CpG-SNP	0	no
+13	58071408	GNAS	upstream_distal	7	-57.6	CpG-SNP	0	no
+13	58071447	GNAS	upstream_distal	4	31.4	no-SNP		no
+4	68848814	HOXA10	upstream_distal	1	-20.0	no-SNP		no
+4	68849006	HOXA10	upstream_distal	1	-49.5	no-SNP		no
+4	68849014	HOXA10	upstream_distal	1	-36.4	no-SNP		no
+4	68849067	HOXA10	upstream_distal	3	-19.5	no-SNP		no
+4	68849239	HOXA10	upstream_distal	1	-30.0	no-SNP		no
+4	68849242	HOXA10	upstream_distal	1	-16.2	no-SNP		no
+4	68849244	HOXA10	upstream_distal	1	-21.3	no-SNP		no
+4	68849247	HOXA10	upstream_distal	1	-27.1	no-SNP		no
+4	68849250	HOXA10	upstream_distal	2	-36.7	no-SNP		no
+4	68849273	HOXA10	upstream_distal	3	-35.0	no-SNP		no
+4	68849282	HOXA10	upstream_distal	1	-28.9	no-SNP		no
+4	68849285	HOXA10	upstream_distal	3	-30.2	no-SNP		no
+4	68849303	HOXA10	upstream_distal	4	-19.6	no-SNP		no
+4	68849406	HOXA10	upstream_distal	2	-21.2	no-SNP		no
+4	68849414	HOXA10	upstream_distal	2	-29.1	no-SNP		no
+4	68849428	HOXA10	upstream_distal	1	-34.6	near-SNP	7	no
+4	68849485	HOXA10	upstream_distal	1	25.0	no-SNP		no
+4	68849890	HOXA10	upstream_distal	2	-32.1	no-SNP		no
+4	68849969	HOXA10	upstream_distal	1	-30.8	no-SNP		no
+4	68849979	HOXA10	upstream_distal	1	-23.1	no-SNP		no
+4	68850034	HOXA10	upstream_distal	1	-43.5	no-SNP		no
+4	68850035	HOXA10	upstream_distal	3	-34.8	no-SNP		no
+4	68850038	HOXA10	upstream_distal	1	-24.5	no-SNP		no
+4	68850039	HOXA10	upstream_distal	2	-50.1	no-SNP		no
+4	68850040	HOXA10	upstream_distal	2	-1.7	no-SNP		no
+4	68850041	HOXA10	upstream_distal	1	-28.4	no-SNP		no
+4	68850049	HOXA10	upstream_distal	1	43.8	no-SNP		no
+4	68850050	HOXA10	upstream_distal	2	-26.7	no-SNP		no
+4	68850381	HOXA10	upstream_distal	1	-21.7	no-SNP		no
+4	68850561	HOXA10	upstream_distal	1	-21.9	near-SNP	10	no
+4	68850563	HOXA10	upstream_distal	1	-15.6	no-SNP		no
+4	68850664	HOXA10	upstream_distal	1	45.7	no-SNP		no
+4	68853665	HOXA10	upstream_distal	1	-26.2	near-SNP	4	no
+4	68853666	HOXA10	upstream_distal	1	-21.9	near-SNP	5	no
+4	68853814	HOXA10	upstream_distal	2	-26.5	CpG-SNP	1	no
+4	68853834	HOXA10	upstream_distal	1	-19.0	CpG-SNP	0	no
+4	68854020	HOXA10	upstream_distal	3	-29.0	no-SNP		no
+4	68854036	HOXA10	upstream_distal	1	-23.9	no-SNP		no
+4	68854048	HOXA10	upstream_distal	1	31.8	no-SNP		no
+4	68854818	HOXA10	upstream_distal	2	36.1	no-SNP		no
+4	68854831	HOXA10	upstream_distal	4	20.9	near-SNP	9	no
+4	68856264	HOXA10	upstream_distal	2	-33.7	no-SNP		no
+4	68856356	HOXA10	upstream_distal	1	-17.8	no-SNP		no
+4	68856366	HOXA10	upstream_distal	1	-17.5	no-SNP		no
+4	68856440	HOXA10	upstream_distal	2	-21.8	no-SNP		no
+4	68856450	HOXA10	upstream_distal	1	-19.7	near-SNP	3	no
+4	68856456	HOXA10	upstream_distal	3	-24.6	near-SNP	3	no
+4	68856458	HOXA10	upstream_distal	2	-2.4	near-SNP	5	no
+4	68856459	HOXA10	upstream_distal	2	-22.4	near-SNP	4	no
+4	68856467	HOXA10	upstream_distal	2	-20.8	near-SNP	4	no
+4	68856468	HOXA10	upstream_distal	2	-21.7	near-SNP	5	no
+4	68856469	HOXA10	upstream_distal	1	-17.0	near-SNP	6	no
+4	68856470	HOXA10	upstream_distal	1	-29.8	near-SNP	7	no
+4	68856495	HOXA10	upstream_distal	1	-45.0	near-SNP	2	no
+4	68856511	HOXA10	upstream_distal	1	-22.2	no-SNP		no
+4	68856521	HOXA10	upstream_distal	1	-19.4	no-SNP		no
+4	68856522	HOXA10	upstream_distal	1	-15.6	no-SNP		no
+4	68857951	HOXA10	upstream_distal	1	-16.0	CpG-SNP	1	no
+4	68857954	HOXA10	upstream_distal	1	-16.0	near-SNP	4	no
+4	68857961	HOXA10	upstream_distal	1	-48.0	CpG-SNP	0	no
+4	68857962	HOXA10	upstream_distal	1	-25.7	CpG-SNP	1	no
+4	68857963	HOXA10	upstream_distal	1	-16.0	near-SNP	2	no
+4	68857966	HOXA10	upstream_distal	1	-16.0	near-SNP	5	no
+4	68857981	HOXA10	upstream_distal	1	-16.0	CpG-SNP	1	no
+4	68858047	HOXA10	upstream_distal	1	-35.5	CpG-SNP	1	no
+4	68858050	HOXA10	upstream_distal	1	-33.9	near-SNP	4	no
+4	68858053	HOXA10	upstream_distal	1	-37.4	near-SNP	4	no
+4	68858056	HOXA10	upstream_distal	1	-29.7	CpG-SNP	1	no
+4	68858059	HOXA10	upstream_distal	1	-43.5	CpG-SNP	1	no
+4	68858073	HOXA10	upstream_distal	1	-25.2	near-SNP	4	no
+4	68858074	HOXA10	upstream_distal	1	-48.6	near-SNP	5	no
+4	68858076	HOXA10	upstream_distal	1	-19.3	near-SNP	7	no
+4	68858077	HOXA10	upstream_distal	1	-26.3	near-SNP	8	no
+4	68858079	HOXA10	upstream_distal	1	-30.8	near-SNP	10	no
+4	68858080	HOXA10	upstream_distal	1	-32.4	no-SNP		no
+4	68858082	HOXA10	upstream_distal	1	-22.1	no-SNP		no
+4	68858083	HOXA10	upstream_distal	1	-27.0	no-SNP		no
+4	68858088	HOXA10	upstream_distal	1	-18.9	no-SNP		no
+4	68858106	HOXA10	upstream_distal	1	-18.9	no-SNP		no
+4	68858111	HOXA10	upstream_distal	1	-16.2	no-SNP		no
+4	68858442	HOXA10	upstream_distal	3	-21.0	no-SNP		no
+4	68858448	HOXA10	upstream_distal	4	-27.9	no-SNP		no
+4	68858452	HOXA10	upstream_distal	4	-27.4	no-SNP		no
+4	68858513	HOXA10	upstream_distal	1	-21.3	no-SNP		no
+4	68858514	HOXA10	upstream_distal	1	-17.6	no-SNP		no
+4	68858983	HOXA10	upstream_distal	1	-29.5	no-SNP		no
+4	68859002	HOXA10	upstream_distal	1	-33.3	near-SNP	7	no
+4	68859004	HOXA10	upstream_distal	1	-45.9	near-SNP	9	no
+4	68859099	HOXA10	upstream_distal	1	-29.4	CpG-SNP	0	no
+4	68859109	HOXA10	upstream_distal	1	-19.6	near-SNP	10	no
+4	68859150	HOXA10	upstream_distal	2	-1.9	no-SNP		no
+4	68859157	HOXA10	upstream_distal	1	15.2	no-SNP		no
+4	68859279	HOXA10	upstream_distal	1	-19.6	no-SNP		no
+4	68859385	HOXA10	upstream_distal	1	-19.4	near-SNP	7	no
+4	68859627	HOXA10	upstream_distal	1	-28.8	CpG-SNP	1	no
+4	68859629	HOXA10	upstream_distal	1	21.7	CpG-SNP	0	no
+4	68862722	HOXA10	promoter	1	-17.0	no-SNP		no
+4	68862747	HOXA10	promoter	2	-15.9	no-SNP		no
+4	68865599	HOXA10	gene_body	3	17.4	no-SNP		no
+4	68866575	HOXA10	gene_body	4	-41.1	near-SNP	7	no
+4	68866577	HOXA10	gene_body	3	-33.8	near-SNP	9	no
+4	68866582	HOXA10	gene_body	4	-24.5	no-SNP		no
+4	68866605	HOXA10	gene_body	3	-31.4	no-SNP		no
+4	68866606	HOXA10	gene_body	2	-25.6	no-SNP		no
+4	68866610	HOXA10	gene_body	5	-26.1	no-SNP		no
+4	68866611	HOXA10	gene_body	3	-26.2	no-SNP		no
+4	68866617	HOXA10	gene_body	5	-34.8	no-SNP		no
+4	68866625	HOXA10	gene_body	2	-21.3	no-SNP		no
+4	68866674	HOXA10	gene_body	2	-39.6	no-SNP		no
+4	68866682	HOXA10	gene_body	3	-30.2	near-SNP	6	no
+4	68866720	HOXA10	gene_body	2	-18.3	no-SNP		no
+4	68866732	HOXA10	gene_body	1	-17.0	no-SNP		no
+4	68866856	HOXA10	gene_body	1	17.4	no-SNP		no
+4	68866859	HOXA10	gene_body	2	20.5	no-SNP		no
+4	68866922	HOXA10	gene_body	2	-25.7	near-SNP	6	no
+4	68866927	HOXA10	gene_body	1	-37.1	CpG-SNP	1	no
+4	68866990	HOXA10	gene_body	1	-28.6	no-SNP		no
+4	68867965	HOXA10	gene_body	3	23.0	near-SNP	4	no
+4	68868122	HOXA10	gene_body	4	-30.0	CpG-SNP	1	no
+4	68868124	HOXA10	gene_body	4	-32.0	near-SNP	2	no
+4	68868541	HOXA10	gene_body	2	-24.7	no-SNP		no
+4	68868550	HOXA10	gene_body	3	-33.7	no-SNP		no
+4	68868562	HOXA10	gene_body	2	-33.1	near-SNP	6	no
+4	68868574	HOXA10	gene_body	2	-25.5	CpG-SNP	1	no
+4	68868577	HOXA10	gene_body	1	-29.3	CpG-SNP	0	no
+4	68868689	HOXA10	gene_body	3	-51.9	no-SNP		no
+4	68868699	HOXA10	gene_body	2	-53.1	no-SNP		no
+4	68868702	HOXA10	gene_body	3	-31.5	no-SNP		no
+4	68868713	HOXA10	gene_body	1	-66.7	no-SNP		no
+4	68868716	HOXA10	gene_body	1	-67.0	no-SNP		no
+4	68869015	HOXA10	gene_body	1	-17.6	near-SNP	3	no
+4	68869019	HOXA10	gene_body	1	-17.1	CpG-SNP	1	no
+4	68869046	HOXA10	gene_body	1	-17.1	near-SNP	10	no
+4	68869070	HOXA10	gene_body	1	-17.4	near-SNP	10	no
+4	68869112	HOXA10	gene_body	1	-19.9	no-SNP		no
+4	68869129	HOXA10	gene_body	1	-20.0	no-SNP		no
+4	68869169	HOXA10	gene_body	1	-45.8	no-SNP		no
+4	68869171	HOXA10	gene_body	2	-26.7	no-SNP		no
+4	68869177	HOXA10	gene_body	2	-32.9	no-SNP		no
+4	68869178	HOXA10	gene_body	3	-39.1	no-SNP		no
+4	68869182	HOXA10	gene_body	1	-46.1	no-SNP		no
+4	68869183	HOXA10	gene_body	3	-29.1	no-SNP		no
+4	68869189	HOXA10	gene_body	2	-25.5	no-SNP		no
+4	68869190	HOXA10	gene_body	3	-28.6	no-SNP		no
+4	68869191	HOXA10	gene_body	1	-19.1	no-SNP		no
+4	68869192	HOXA10	gene_body	2	-43.3	no-SNP		no
+4	68869195	HOXA10	gene_body	1	-24.5	no-SNP		no
+4	68869196	HOXA10	gene_body	1	-46.6	no-SNP		no
+4	68869206	HOXA10	gene_body	2	-27.6	no-SNP	11	no
+4	68869207	HOXA10	gene_body	4	-34.6	near-SNP	10	no
+4	68869229	HOXA10	gene_body	1	-28.0	no-SNP		no
+4	68869237	HOXA10	gene_body	1	-21.7	no-SNP		no
+4	68869242	HOXA10	gene_body	3	-26.8	near-SNP	10	no
+4	68869245	HOXA10	gene_body	3	-39.0	near-SNP	7	no
+4	68869248	HOXA10	gene_body	3	-37.6	near-SNP	4	no
+4	68869257	HOXA10	gene_body	2	-41.0	near-SNP	5	no
+4	68869301	HOXA10	gene_body	1	-25.8	no-SNP		no
+4	68869309	HOXA10	gene_body	1	-27.5	no-SNP		no
+4	68869313	HOXA10	gene_body	2	-19.2	no-SNP		no
+4	68869315	HOXA10	gene_body	2	-24.2	no-SNP		no
+4	68869318	HOXA10	gene_body	1	-35.0	no-SNP		no
+4	68869324	HOXA10	gene_body	2	-25.3	no-SNP		no
+4	68869328	HOXA10	gene_body	1	-35.0	no-SNP		no
+4	68869330	HOXA10	gene_body	1	-32.5	no-SNP		no
+4	68869507	HOXA10	gene_body	1	-46.2	no-SNP		no
+4	68869594	HOXA10	gene_body	2	-28.8	no-SNP		no
+4	68869604	HOXA10	gene_body	2	-26.8	no-SNP		no
+4	68869606	HOXA10	gene_body	1	-17.9	no-SNP		no
+4	68869609	HOXA10	gene_body	3	-22.7	no-SNP		no
+4	68869622	HOXA10	gene_body	1	-36.9	near-SNP	8	no
+4	68869623	HOXA10	gene_body	3	-26.0	near-SNP	7	no
+4	68869638	HOXA10	gene_body	5	-33.0	CpG-SNP	0	no
+4	68869648	HOXA10	gene_body	1	-31.2	near-SNP	10	no
+4	68869865	HOXA10	gene_body	1	-31.6	no-SNP		no
+4	68869873	HOXA10	gene_body	2	-31.3	no-SNP		no
+4	68869910	HOXA10	gene_body	1	-65.0	near-SNP	10	no
+4	68869920	HOXA10	gene_body	1	-55.0	CpG-SNP	0	no
+4	68869925	HOXA10	gene_body	1	-52.2	near-SNP	5	no
+4	68869947	HOXA10	gene_body	1	-19.0	no-SNP		no
+4	68870661	HOXA10	gene_body	1	-24.3	no-SNP		no
+4	68871256	HOXA10	gene_body	1	23.6	near-SNP	6	no
+4	68871315	HOXA10	gene_body	1	37.1	CpG-SNP	1	no
+4	68872733	HOXA10	downstream_distal	2	-30.7	no-SNP		no
+4	68872764	HOXA10	downstream_distal	1	-15.6	no-SNP		no
+4	68872785	HOXA10	downstream_distal	1	-15.6	no-SNP		no
+4	68872824	HOXA10	downstream_distal	2	-22.4	no-SNP		no
+4	68872830	HOXA10	downstream_distal	4	-30.0	no-SNP		no
+4	68872835	HOXA10	downstream_distal	3	-43.6	no-SNP		no
+4	68872848	HOXA10	downstream_distal	1	-29.0	no-SNP		no
+4	68872851	HOXA10	downstream_distal	1	-31.9	no-SNP		no
+4	68872855	HOXA10	downstream_distal	2	-38.3	no-SNP		no
+4	68872858	HOXA10	downstream_distal	4	-35.4	no-SNP		no
+4	68872861	HOXA10	downstream_distal	3	-30.8	no-SNP		no
+4	68872870	HOXA10	downstream_distal	1	-39.3	no-SNP		no
+4	68872904	HOXA10	downstream_distal	1	-19.7	no-SNP		no
+4	68873457	HOXA10	downstream_distal	1	23.1	CpG-SNP	1	no
+4	68873472	HOXA10	downstream_distal	1	17.6	near-SNP	6	no
+4	68873513	HOXA10	downstream_distal	2	30.8	near-SNP	4	no
+4	68873514	HOXA10	downstream_distal	1	-30.4	near-SNP	3	no
+4	68873518	HOXA10	downstream_distal	1	-18.0	CpG-SNP	1	no
+4	68873552	HOXA10	downstream_distal	1	-32.2	near-SNP	6	no
+4	68873553	HOXA10	downstream_distal	3	-16.7	near-SNP	7	no
+4	68873926	HOXA10	downstream_distal	3	-33.4	near-SNP	5	no
+4	68874081	HOXA10	downstream_distal	1	-20.2	CpG-SNP	0	no
+4	68874103	HOXA10	downstream_distal	2	-35.9	near-SNP	6	no
+4	68874105	HOXA10	downstream_distal	1	-30.0	near-SNP	8	no
+4	68874317	HOXA10	downstream_distal	2	-30.2	near-SNP	2	no
+4	68874319	HOXA10	downstream_distal	3	-34.7	CpG-SNP	0	no
+4	68874333	HOXA10	downstream_distal	2	-39.3	no-SNP		no
+4	68875323	HOXA10	downstream_distal	1	-21.6	CpG-SNP	1	no
+4	68875324	HOXA10	downstream_distal	2	-22.8	near-SNP	2	no
+4	68875327	HOXA10	downstream_distal	1	-43.3	near-SNP	5	no
+4	68875341	HOXA10	downstream_distal	1	-37.8	no-SNP		no
+4	68875342	HOXA10	downstream_distal	2	-25.1	no-SNP		no
+4	68875942	HOXA10	downstream_distal	1	-21.5	CpG-SNP	0	no
+4	68875943	HOXA10	downstream_distal	1	-20.6	CpG-SNP	1	no
+4	68875962	HOXA10	downstream_distal	1	-32.4	no-SNP		no
+4	68876193	HOXA10	downstream_distal	3	9.2	near-SNP	2	no
+4	68876202	HOXA10	downstream_distal	1	-34.1	near-SNP	3	no
+4	68876204	HOXA10	downstream_distal	2	-30.0	near-SNP	5	no
+4	68876215	HOXA10	downstream_distal	1	-34.1	near-SNP	4	no
+4	68876221	HOXA10	downstream_distal	2	-10.4	near-SNP	10	no
+4	68876361	HOXA10	downstream_distal	3	-32.2	no-SNP		no
+4	68876368	HOXA10	downstream_distal	2	-57.1	no-SNP		no
+4	68876376	HOXA10	downstream_distal	1	-46.2	no-SNP		no
+4	68876377	HOXA10	downstream_distal	3	-36.0	no-SNP		no
+4	68876441	HOXA10	downstream_distal	2	-20.5	near-SNP	4	no
+4	68876443	HOXA10	downstream_distal	4	-17.3	near-SNP	2	no
+4	68876477	HOXA10	downstream_distal	2	-36.3	no-SNP		no
+4	68876478	HOXA10	downstream_distal	2	-30.8	no-SNP		no
+4	68876486	HOXA10	downstream_distal	2	-25.2	no-SNP		no
+4	68876487	HOXA10	downstream_distal	2	-24.3	no-SNP		no
+4	68876506	HOXA10	downstream_distal	2	-26.7	CpG-SNP	0	no
+4	68877111	HOXA10	downstream_distal	1	-36.8	near-SNP	3	no
+4	68877294	HOXA10	downstream_distal	4	-37.3	near-SNP	9	no
+4	68877315	HOXA10	downstream_distal	4	-25.4	near-SNP	6	no
+4	68877316	HOXA10	downstream_distal	1	-22.1	near-SNP	5	no
+4	68877318	HOXA10	downstream_distal	3	-38.5	near-SNP	3	no
+4	68877319	HOXA10	downstream_distal	1	-33.3	near-SNP	2	no
+4	68877325	HOXA10	downstream_distal	3	-25.7	CpG-SNP	1	no
+4	68877327	HOXA10	downstream_distal	2	-33.6	CpG-SNP	0	no
+4	68877340	HOXA10	downstream_distal	2	-28.7	CpG-SNP	0	no
+4	68877342	HOXA10	downstream_distal	2	-34.1	CpG-SNP	0	no
+4	68877347	HOXA10	downstream_distal	2	-28.7	CpG-SNP	0	no
+4	68877352	HOXA10	downstream_distal	2	-26.8	CpG-SNP	0	no
+4	68877387	HOXA10	downstream_distal	3	-32.0	CpG-SNP	0	no
+4	68877389	HOXA10	downstream_distal	3	-32.5	near-SNP	2	no
+4	68877392	HOXA10	downstream_distal	2	-48.5	CpG-SNP	1	no
+4	68877399	HOXA10	downstream_distal	3	-49.3	near-SNP	8	no
+4	68877441	HOXA10	downstream_distal	4	-29.0	CpG-SNP	1	no
+4	68877444	HOXA10	downstream_distal	2	-22.7	near-SNP	2	no
+4	68877454	HOXA10	downstream_distal	3	-23.1	no-SNP		no
+4	68877459	HOXA10	downstream_distal	2	-23.0	near-SNP	9	no
+4	68877561	HOXA10	downstream_distal	2	-31.2	near-SNP	7	no
+4	68877586	HOXA10	downstream_distal	2	-33.4	no-SNP		no
+4	68877605	HOXA10	downstream_distal	1	-42.6	near-SNP	7	no
+4	68877615	HOXA10	downstream_distal	1	-67.9	near-SNP	3	no
+4	68877835	HOXA10	downstream_distal	1	-32.5	near-SNP	2	no
+4	68877931	HOXA10	downstream_distal	2	-26.6	near-SNP	6	no
+4	68877932	HOXA10	downstream_distal	3	-35.0	near-SNP	7	no
+4	68877937	HOXA10	downstream_distal	1	-36.1	no-SNP		no
+4	68877938	HOXA10	downstream_distal	2	-55.2	no-SNP		no
+4	68877996	HOXA10	downstream_distal	3	-29.5	no-SNP		no
+4	68878049	HOXA10	downstream_distal	1	-39.4	no-SNP		no
+4	68878066	HOXA10	downstream_distal	1	-16.7	no-SNP		no
+4	68878085	HOXA10	downstream_distal	2	-20.5	no-SNP		no
+4	68878166	HOXA10	downstream_distal	3	-23.4	no-SNP		no
+4	68878176	HOXA10	downstream_distal	5	-25.0	no-SNP		no
+4	68878185	HOXA10	downstream_distal	1	-18.5	no-SNP		no
+4	68878186	HOXA10	downstream_distal	2	-29.3	no-SNP		no
+4	68878188	HOXA10	downstream_distal	3	-35.5	no-SNP		no
+4	68878209	HOXA10	downstream_distal	4	-24.4	no-SNP		no
+4	68878278	HOXA10	downstream_distal	1	-33.9	no-SNP		no
+4	68878282	HOXA10	downstream_distal	1	-17.6	no-SNP		no
+4	68878318	HOXA10	downstream_distal	3	-21.8	near-SNP	9	no
+4	68878356	HOXA10	downstream_distal	3	-31.4	no-SNP		no
+4	68878358	HOXA10	downstream_distal	2	-23.3	no-SNP		no
+4	68878368	HOXA10	downstream_distal	2	-34.4	no-SNP		no
+4	68878948	HOXA10	downstream_distal	2	-48.3	CpG-SNP	0	no
+4	68878952	HOXA10	downstream_distal	2	-44.2	CpG-SNP	1	no
+4	68878959	HOXA10	downstream_distal	2	-28.9	CpG-SNP	1	no
+4	68878961	HOXA10	downstream_distal	1	-25.8	CpG-SNP	1	no
+4	68878970	HOXA10	downstream_distal	2	-30.7	CpG-SNP	1	no
+4	68880506	HOXA10	downstream_distal	1	-19.7	no-SNP		no
+4	68880520	HOXA10	downstream_distal	2	-33.4	near-SNP	2	no
+4	68880549	HOXA10	downstream_distal	2	-48.9	near-SNP	4	no
+4	68880706	HOXA10	downstream_distal	1	-45.5	no-SNP		no
+4	68880708	HOXA10	downstream_distal	1	-57.0	no-SNP		no
+4	68880738	HOXA10	downstream_distal	1	-37.0	no-SNP		no
+4	68881560	HOXA10	downstream_distal	1	-16.7	no-SNP		no
+4	68881574	HOXA10	downstream_distal	2	-19.5	no-SNP		no
+4	68881975	HOXA10	downstream_distal	2	-18.7	no-SNP		no
+4	68881985	HOXA10	downstream_distal	6	-24.7	near-SNP	7	no
+4	68881986	HOXA10	downstream_distal	2	-26.7	near-SNP	6	no
+4	68881992	HOXA10	downstream_distal	3	-31.2	CpG-SNP	0	no
+4	68881993	HOXA10	downstream_distal	1	-20.0	CpG-SNP	1	no
+4	68881999	HOXA10	downstream_distal	2	-37.0	near-SNP	7	no
+4	68882000	HOXA10	downstream_distal	2	-24.6	near-SNP	8	no
+4	68882001	HOXA10	downstream_distal	5	-26.1	near-SNP	8	no
+4	68882002	HOXA10	downstream_distal	2	-36.8	near-SNP	7	no
+4	68882005	HOXA10	downstream_distal	5	-32.5	near-SNP	4	no
+4	68882160	HOXA10	downstream_distal	1	-16.1	no-SNP		no
+4	68882161	HOXA10	downstream_distal	2	-13.4	no-SNP		no
+4	68882167	HOXA10	downstream_distal	3	-14.0	no-SNP		no
+4	68882186	HOXA10	downstream_distal	2	-36.0	no-SNP		no
+4	68882190	HOXA10	downstream_distal	2	-44.5	no-SNP	11	no
+4	68882201	HOXA10	downstream_distal	2	-18.2	CpG-SNP	0	no
+4	68882206	HOXA10	downstream_distal	3	-21.5	near-SNP	5	no
+4	68882219	HOXA10	downstream_distal	2	-29.5	no-SNP		no
+4	68883151	HOXA10	downstream_distal	3	-6.3	no-SNP		no
+4	68883152	HOXA10	downstream_distal	1	-20.0	no-SNP		no
+4	68883153	HOXA10	downstream_distal	1	-26.2	no-SNP		no
+4	68883167	HOXA10	downstream_distal	2	-18.6	near-SNP	9	no
+4	68883168	HOXA10	downstream_distal	1	-60.6	near-SNP	8	no
+4	68883169	HOXA10	downstream_distal	2	-27.0	near-SNP	7	no
+4	68883170	HOXA10	downstream_distal	1	-36.7	near-SNP	6	no
+4	68883621	HOXA10	downstream_distal	1	-23.7	CpG-SNP	1	no
+4	68885655	HOXA10	downstream_distal	3	-39.6	no-SNP		no
+4	68885712	HOXA10	downstream_distal	1	22.0	no-SNP		no
+4	68886227	HOXA10	downstream_distal	1	-22.0	CpG-SNP	0	no
+4	68886329	HOXA10	downstream_distal	4	-44.9	CpG-SNP	0	no
+4	68886331	HOXA10	downstream_distal	3	-43.1	near-SNP	2	no
+4	68886357	HOXA10	downstream_distal	3	-19.5	no-SNP		no
+4	68886363	HOXA10	downstream_distal	4	-35.7	no-SNP		no
+4	68886387	HOXA10	downstream_distal	3	-20.1	near-SNP	4	no
+4	68886419	HOXA10	downstream_distal	1	-37.5	no-SNP		no
+4	68886428	HOXA10	downstream_distal	2	-31.7	no-SNP		no
+4	68886434	HOXA10	downstream_distal	2	-38.6	near-SNP	7	no
+4	68886502	HOXA10	downstream_distal	3	-49.7	near-SNP	9	no
+4	68886517	HOXA10	downstream_distal	1	-60.7	CpG-SNP	1	no
+4	68886523	HOXA10	downstream_distal	3	-33.2	near-SNP	4	no
+4	68886530	HOXA10	downstream_distal	2	-21.0	CpG-SNP	1	no
+4	68886580	HOXA10	downstream_distal	2	-32.0	no-SNP		no
+4	68886585	HOXA10	downstream_distal	2	-37.8	near-SNP	8	no
+4	68886587	HOXA10	downstream_distal	2	-34.9	near-SNP	6	no
+4	68886592	HOXA10	downstream_distal	1	-35.5	CpG-SNP	1	no
+4	68886597	HOXA10	downstream_distal	2	-31.4	near-SNP	4	no
+4	68886603	HOXA10	downstream_distal	2	-34.2	near-SNP	10	no
+4	68842370	HOXA11	upstream_distal	1	-15.7	no-SNP		no
+4	68842378	HOXA11	upstream_distal	1	16.9	no-SNP		no
+4	68842380	HOXA11	upstream_distal	3	16.9	no-SNP		no
+4	68842385	HOXA11	upstream_distal	1	-15.7	near-SNP	9	no
+4	68842386	HOXA11	upstream_distal	3	19.1	near-SNP	8	no
+4	68842393	HOXA11	upstream_distal	2	17.0	CpG-SNP	1	no
+4	68842395	HOXA11	upstream_distal	3	21.0	CpG-SNP	1	no
+4	68842400	HOXA11	upstream_distal	3	18.4	CpG-SNP	1	no
+4	68842409	HOXA11	upstream_distal	3	18.5	near-SNP	8	no
+4	68842413	HOXA11	upstream_distal	2	17.4	no-SNP		no
+4	68842720	HOXA11	upstream_distal	1	-16.7	no-SNP		no
+4	68842840	HOXA11	upstream_distal	1	-20.0	no-SNP		no
+4	68842847	HOXA11	upstream_distal	1	-16.7	no-SNP		no
+4	68842853	HOXA11	upstream_distal	2	-29.5	no-SNP		no
+4	68842875	HOXA11	upstream_distal	2	-25.9	no-SNP		no
+4	68842895	HOXA11	upstream_distal	2	-24.6	no-SNP		no
+4	68843170	HOXA11	upstream_distal	1	-29.5	no-SNP		no
+4	68843184	HOXA11	upstream_distal	3	-19.8	no-SNP		no
+4	68843205	HOXA11	upstream_distal	2	-37.5	near-SNP	3	no
+4	68843235	HOXA11	upstream_distal	1	-54.9	CpG-SNP	0	no
+4	68843290	HOXA11	upstream_distal	1	-36.1	near-SNP	10	no
+4	68843297	HOXA11	upstream_distal	1	-18.2	near-SNP	3	no
+X	18177156	HPRT1	promoter	3	-23.9	no-SNP		no
+X	18177166	HPRT1	promoter	1	-20.8	no-SNP		no
+X	18177172	HPRT1	promoter	2	-21.4	no-SNP		no
+X	18177178	HPRT1	promoter	5	-21.6	no-SNP		no
+X	18177184	HPRT1	promoter	3	-25.0	no-SNP		no
+X	18177186	HPRT1	promoter	4	-29.2	no-SNP		no
+X	18177188	HPRT1	promoter	5	-23.7	no-SNP		no
+X	18177195	HPRT1	promoter	1	-25.6	no-SNP		no
+X	18177197	HPRT1	promoter	3	-27.7	no-SNP		no
+X	18177200	HPRT1	promoter	2	1.5	no-SNP		no
+X	18177219	HPRT1	promoter	1	-22.5	no-SNP		no
+X	18177224	HPRT1	promoter	1	-20.0	no-SNP		no
+X	18177302	HPRT1	promoter	1	-22.5	no-SNP		no
+X	18177312	HPRT1	promoter	1	40.6	no-SNP		no
+X	18177315	HPRT1	promoter	1	-38.6	no-SNP		no
+X	18177340	HPRT1	promoter	1	-33.0	no-SNP		no
+X	18177377	HPRT1	promoter	3	-32.4	near-SNP	3	no
+X	18177378	HPRT1	promoter	1	-40.0	near-SNP	2	no
+X	18177379	HPRT1	promoter	5	-29.8	CpG-SNP	1	no
+X	18177381	HPRT1	promoter	5	-16.8	CpG-SNP	1	no
+X	18177393	HPRT1	promoter	3	-52.6	no-SNP		no
+X	18177401	HPRT1	promoter	4	-39.9	no-SNP		no
+X	18177406	HPRT1	promoter	2	-31.0	no-SNP		no
+X	18177417	HPRT1	promoter	4	-52.6	near-SNP	7	no
+X	18177440	HPRT1	promoter	1	-40.7	CpG-SNP	0	no
+X	18177454	HPRT1	promoter	1	-33.2	near-SNP	3	no
+X	18177479	HPRT1	promoter	1	-30.4	near-SNP	6	no
+X	18177481	HPRT1	promoter	1	27.5	near-SNP	8	no
+X	18177520	HPRT1	promoter	1	28.7	no-SNP		no
+X	18177595	HPRT1	promoter	1	-33.6	near-SNP	10	no
+X	18177601	HPRT1	promoter	1	44.8	no-SNP		no
+X	18177640	HPRT1	promoter	2	-33.4	no-SNP	11	no
+X	18177666	HPRT1	promoter	1	-34.7	no-SNP		no
+X	18201613	HPRT1	gene_body	4	40.0	near-SNP	6	no
+X	18201619	HPRT1	gene_body	4	49.0	CpG-SNP	0	no
+14	629149	HSF1	gene_body	1	17.8	near-SNP	7	no
+14	630664	HSF1	gene_body	2	4.6	CpG-SNP	1	no
+14	632098	HSF1	promoter	1	33.3	near-SNP	5	no
+14	632694	HSF1	promoter	2	21.4	near-SNP	7	no
+14	633663	HSF1	promoter	1	-22.9	CpG-SNP	1	no
+14	633850	HSF1	promoter	1	-20.0	no-SNP		no
+14	635473	HSF1	promoter	1	15.3	no-SNP		no
+14	638106	HSF1	upstream_distal	1	42.1	CpG-SNP	1	no
+14	638749	HSF1	upstream_distal	2	18.3	no-SNP		no
+14	639232	HSF1	upstream_distal	1	-15.9	CpG-SNP	1	no
+14	639233	HSF1	upstream_distal	4	23.5	CpG-SNP	0	no
+14	639251	HSF1	upstream_distal	2	-19.6	CpG-SNP	1	no
+14	640382	HSF1	upstream_distal	1	-23.7	CpG-SNP	1	no
+14	640456	HSF1	upstream_distal	1	-25.9	no-SNP		no
+14	640457	HSF1	upstream_distal	1	-19.5	no-SNP		no
+14	640498	HSF1	upstream_distal	1	31.0	near-SNP	9	no
+14	640781	HSF1	upstream_distal	1	-22.0	CpG-SNP	1	no
+14	640804	HSF1	upstream_distal	1	-47.3	CpG-SNP	0	no
+14	641015	HSF1	upstream_distal	1	-67.1	no-SNP		no
+14	641016	HSF1	upstream_distal	2	-42.9	no-SNP		no
+14	641019	HSF1	upstream_distal	3	-35.1	near-SNP	10	no
+14	641020	HSF1	upstream_distal	1	-53.2	near-SNP	9	no
+14	641039	HSF1	upstream_distal	3	-9.6	near-SNP	10	no
+14	641040	HSF1	upstream_distal	1	-32.3	no-SNP		no
+14	641046	HSF1	upstream_distal	2	-56.0	no-SNP		no
+14	641047	HSF1	upstream_distal	1	-47.4	no-SNP		no
+14	641234	HSF1	upstream_distal	2	-30.5	near-SNP	7	no
+14	641868	HSF1	upstream_distal	1	-21.3	no-SNP		no
+14	641870	HSF1	upstream_distal	2	-0.0	no-SNP		no
+14	641877	HSF1	upstream_distal	2	-23.4	no-SNP		no
+14	641887	HSF1	upstream_distal	1	-16.7	no-SNP		no
+14	641893	HSF1	upstream_distal	2	-34.6	near-SNP	10	no
+14	641896	HSF1	upstream_distal	1	-24.2	near-SNP	7	no
+14	641950	HSF1	upstream_distal	1	-26.6	no-SNP		no
+14	642010	HSF1	upstream_distal	2	-28.6	CpG-SNP	1	no
+14	642012	HSF1	upstream_distal	2	-24.2	CpG-SNP	0	no
+14	642016	HSF1	upstream_distal	1	-24.8	CpG-SNP	0	no
+14	642057	HSF1	upstream_distal	1	-33.3	near-SNP	6	no
+14	642063	HSF1	upstream_distal	1	-31.0	no-SNP	12	no
+14	642069	HSF1	upstream_distal	1	-16.7	no-SNP	11	no
+14	642079	HSF1	upstream_distal	1	-21.4	CpG-SNP	1	no
+14	642085	HSF1	upstream_distal	1	-38.1	near-SNP	3	no
+14	642089	HSF1	upstream_distal	1	-21.4	CpG-SNP	1	no
+14	642167	HSF1	upstream_distal	1	20.6	near-SNP	5	no
+14	642174	HSF1	upstream_distal	1	15.9	near-SNP	2	no
+14	642220	HSF1	upstream_distal	1	-43.5	no-SNP		no
+14	642226	HSF1	upstream_distal	1	-47.1	no-SNP		no
+14	642230	HSF1	upstream_distal	1	-50.0	no-SNP		no
+14	642242	HSF1	upstream_distal	1	-52.3	no-SNP		no
+14	642251	HSF1	upstream_distal	1	-61.8	near-SNP	10	no
+14	642260	HSF1	upstream_distal	1	-42.3	CpG-SNP	1	no
+14	642263	HSF1	upstream_distal	1	-42.3	CpG-SNP	0	no
+14	642267	HSF1	upstream_distal	1	-42.3	CpG-SNP	1	no
+14	642270	HSF1	upstream_distal	1	-42.3	near-SNP	4	no
+14	642272	HSF1	upstream_distal	1	-50.0	near-SNP	6	no
+14	642276	HSF1	upstream_distal	1	-42.3	near-SNP	10	no
+14	642285	HSF1	upstream_distal	2	-36.4	near-SNP	3	no
+14	642288	HSF1	upstream_distal	1	-48.9	CpG-SNP	0	no
+14	642290	HSF1	upstream_distal	1	-42.3	CpG-SNP	0	no
+14	642293	HSF1	upstream_distal	1	-42.3	near-SNP	3	no
+14	642296	HSF1	upstream_distal	1	-36.9	near-SNP	6	no
+14	642301	HSF1	upstream_distal	1	-33.7	no-SNP	13	no
+14	642326	HSF1	upstream_distal	2	-33.5	no-SNP		no
+14	642335	HSF1	upstream_distal	1	-16.7	near-SNP	4	no
+14	642340	HSF1	upstream_distal	1	-16.7	CpG-SNP	1	no
+14	642373	HSF1	upstream_distal	1	-53.5	no-SNP		no
+14	642374	HSF1	upstream_distal	1	-66.2	no-SNP		no
+14	642385	HSF1	upstream_distal	2	-4.3	near-SNP	3	no
+14	642386	HSF1	upstream_distal	2	-51.7	near-SNP	2	no
+14	642387	HSF1	upstream_distal	2	-53.6	CpG-SNP	1	no
+14	642388	HSF1	upstream_distal	2	-51.4	CpG-SNP	0	no
+14	642411	HSF1	upstream_distal	1	-59.7	no-SNP		no
+14	642412	HSF1	upstream_distal	2	-42.6	no-SNP		no
+14	642422	HSF1	upstream_distal	1	-59.7	no-SNP		no
+14	642423	HSF1	upstream_distal	4	-19.3	no-SNP		no
+14	642427	HSF1	upstream_distal	1	-40.6	no-SNP		no
+14	642428	HSF1	upstream_distal	2	-34.0	no-SNP		no
+14	642457	HSF1	upstream_distal	5	-22.0	near-SNP	5	no
+14	642489	HSF1	upstream_distal	2	-25.7	near-SNP	9	no
+14	642545	HSF1	upstream_distal	2	-37.6	no-SNP		no
+14	642547	HSF1	upstream_distal	2	-36.2	no-SNP		no
+14	642548	HSF1	upstream_distal	3	-34.4	no-SNP		no
+14	642561	HSF1	upstream_distal	1	-27.6	near-SNP	8	no
+14	642562	HSF1	upstream_distal	1	19.9	near-SNP	7	no
+14	643663	HSF1	upstream_distal	4	-41.2	near-SNP	4	no
+14	643668	HSF1	upstream_distal	6	-37.9	near-SNP	9	no
+14	643685	HSF1	upstream_distal	5	-36.4	no-SNP		no
+14	643687	HSF1	upstream_distal	7	-40.7	no-SNP		no
+14	643966	HSF1	upstream_distal	3	-37.0	near-SNP	2	no
+14	643970	HSF1	upstream_distal	1	-27.7	near-SNP	6	no
+14	643971	HSF1	upstream_distal	3	-43.0	near-SNP	7	no
+14	643977	HSF1	upstream_distal	1	-29.6	no-SNP		no
+14	643978	HSF1	upstream_distal	2	-39.3	no-SNP		no
+14	643983	HSF1	upstream_distal	1	-41.3	no-SNP		no
+14	643984	HSF1	upstream_distal	2	-58.8	no-SNP		no
+14	643989	HSF1	upstream_distal	1	-34.7	no-SNP		no
+14	643990	HSF1	upstream_distal	2	-34.7	no-SNP		no
+14	644003	HSF1	upstream_distal	1	-40.7	no-SNP		no
+14	644004	HSF1	upstream_distal	3	-58.2	no-SNP		no
+14	644031	HSF1	upstream_distal	1	-35.5	CpG-SNP	0	no
+14	644064	HSF1	upstream_distal	1	-31.0	CpG-SNP	0	no
+14	644612	HSF1	upstream_distal	1	-17.2	CpG-SNP	1	no
+14	644619	HSF1	upstream_distal	1	-18.6	near-SNP	6	no
+14	646470	HSF1	upstream_distal	1	-27.3	near-SNP	5	no
+14	646717	HSF1	upstream_distal	3	-40.4	near-SNP	9	no
+14	646739	HSF1	upstream_distal	4	-39.9	no-SNP		no
+14	646756	HSF1	upstream_distal	2	-33.8	no-SNP		no
+14	646779	HSF1	upstream_distal	3	-8.5	no-SNP		no
+14	646881	HSF1	upstream_distal	1	-24.8	CpG-SNP	1	no
+14	646883	HSF1	upstream_distal	1	-32.3	CpG-SNP	1	no
+14	646886	HSF1	upstream_distal	2	-26.1	CpG-SNP	0	no
+14	646926	HSF1	upstream_distal	2	-38.9	near-SNP	10	no
+14	646928	HSF1	upstream_distal	1	-37.7	no-SNP		no
+14	646937	HSF1	upstream_distal	2	-38.8	no-SNP		no
+14	646940	HSF1	upstream_distal	1	-39.3	no-SNP		no
+14	647857	HSF1	upstream_distal	1	-42.9	near-SNP	9	no
+14	647863	HSF1	upstream_distal	1	-91.3	near-SNP	7	no
+14	647867	HSF1	upstream_distal	1	-73.9	near-SNP	3	no
+14	647879	HSF1	upstream_distal	1	-91.3	near-SNP	9	no
+14	647884	HSF1	upstream_distal	1	-69.6	no-SNP		no
+14	647886	HSF1	upstream_distal	1	-91.3	no-SNP	11	no
+14	647889	HSF1	upstream_distal	1	-91.3	near-SNP	8	no
+14	647891	HSF1	upstream_distal	1	-65.5	near-SNP	6	no
+14	647994	HSF1	upstream_distal	1	-52.2	near-SNP	5	no
+14	647997	HSF1	upstream_distal	2	-41.4	near-SNP	2	no
+14	648001	HSF1	upstream_distal	2	-58.3	CpG-SNP	1	no
+14	648011	HSF1	upstream_distal	2	-44.7	near-SNP	2	no
+14	648037	HSF1	upstream_distal	3	-41.3	CpG-SNP	1	no
+14	648046	HSF1	upstream_distal	3	-49.6	near-SNP	10	no
+14	648049	HSF1	upstream_distal	3	-65.4	no-SNP		no
+14	648051	HSF1	upstream_distal	3	-52.4	no-SNP		no
+14	648053	HSF1	upstream_distal	2	-48.9	no-SNP		no
+14	648056	HSF1	upstream_distal	3	-53.0	no-SNP		no
+14	648065	HSF1	upstream_distal	3	-39.6	no-SNP		no
+14	648068	HSF1	upstream_distal	3	-39.4	no-SNP		no
+14	648095	HSF1	upstream_distal	4	-49.3	CpG-SNP	1	no
+14	648102	HSF1	upstream_distal	4	-56.7	near-SNP	8	no
+14	648111	HSF1	upstream_distal	4	-49.1	no-SNP		no
+14	648112	HSF1	upstream_distal	4	-51.8	no-SNP		no
+14	648113	HSF1	upstream_distal	4	-55.8	no-SNP		no
+14	648114	HSF1	upstream_distal	5	-56.0	no-SNP		no
+14	648119	HSF1	upstream_distal	4	-55.9	near-SNP	10	no
+14	648120	HSF1	upstream_distal	4	-44.8	near-SNP	9	no
+14	648125	HSF1	upstream_distal	4	-48.7	near-SNP	4	no
+14	648126	HSF1	upstream_distal	4	-56.6	near-SNP	3	no
+14	648129	HSF1	upstream_distal	3	-58.9	CpG-SNP	0	no
+14	648134	HSF1	upstream_distal	4	-51.5	near-SNP	5	no
+14	648136	HSF1	upstream_distal	5	-50.1	near-SNP	7	no
+14	648140	HSF1	upstream_distal	4	-58.7	near-SNP	5	no
+14	648146	HSF1	upstream_distal	3	-48.3	CpG-SNP	1	no
+14	648189	HSF1	upstream_distal	1	-37.1	no-SNP		no
+14	648190	HSF1	upstream_distal	3	-51.3	no-SNP		no
+14	648193	HSF1	upstream_distal	3	-46.9	no-SNP		no
+14	648204	HSF1	upstream_distal	2	-46.3	near-SNP	8	no
+14	648205	HSF1	upstream_distal	2	-61.4	near-SNP	7	no
+21	66928160	HSP90AA1	downstream_distal	3	32.4	near-SNP	9	no
+21	66928188	HSP90AA1	downstream_distal	2	19.3	CpG-SNP	1	no
+21	66928822	HSP90AA1	downstream_distal	1	-21.6	no-SNP		no
+21	66928831	HSP90AA1	downstream_distal	2	-18.9	no-SNP		no
+21	66928832	HSP90AA1	downstream_distal	2	-19.5	no-SNP		no
+21	66928844	HSP90AA1	downstream_distal	2	-16.3	no-SNP		no
+21	66928877	HSP90AA1	downstream_distal	1	-23.1	CpG-SNP	0	no
+21	66928879	HSP90AA1	downstream_distal	2	-21.5	near-SNP	2	no
+21	66928890	HSP90AA1	downstream_distal	2	-41.8	near-SNP	3	no
+21	66928891	HSP90AA1	downstream_distal	1	-30.7	near-SNP	2	no
+21	66928897	HSP90AA1	downstream_distal	1	-17.9	near-SNP	2	no
+21	66928908	HSP90AA1	downstream_distal	2	-26.6	no-SNP	11	no
+21	66928924	HSP90AA1	downstream_distal	1	-32.8	near-SNP	5	no
+21	66928941	HSP90AA1	downstream_distal	1	-18.8	no-SNP		no
+21	66928942	HSP90AA1	downstream_distal	1	-24.2	no-SNP		no
+21	66928943	HSP90AA1	downstream_distal	1	-17.0	no-SNP		no
+21	66928958	HSP90AA1	downstream_distal	2	-22.2	no-SNP		no
+21	66929004	HSP90AA1	downstream_distal	1	-37.1	no-SNP		no
+21	66929005	HSP90AA1	downstream_distal	1	-33.2	no-SNP		no
+21	66929014	HSP90AA1	downstream_distal	1	-37.1	no-SNP		no
+21	66929015	HSP90AA1	downstream_distal	1	-22.3	no-SNP		no
+21	66937524	HSP90AA1	downstream_distal	3	23.7	CpG-SNP	1	no
+21	66937828	HSP90AA1	downstream_distal	1	28.8	CpG-SNP	0	no
+21	66943112	HSP90AA1	promoter	1	25.8	near-SNP	6	no
+21	66943196	HSP90AA1	promoter	1	28.1	near-SNP	2	no
+21	66944554	HSP90AA1	promoter	1	-21.4	near-SNP	4	no
+21	66944574	HSP90AA1	promoter	1	-18.5	near-SNP	2	no
+21	66944584	HSP90AA1	promoter	1	-21.4	near-SNP	8	no
+21	66945196	HSP90AA1	promoter	1	-21.3	near-SNP	6	no
+21	66945406	HSP90AA1	promoter	1	-15.6	no-SNP		no
+21	66945455	HSP90AA1	promoter	3	-20.2	no-SNP		no
+21	66945457	HSP90AA1	promoter	1	-27.7	no-SNP		no
+21	66945494	HSP90AA1	promoter	1	-29.8	no-SNP		no
+21	66945526	HSP90AA1	promoter	1	-23.5	near-SNP	3	no
+21	66946553	HSP90AA1	upstream_distal	1	21.0	CpG-SNP	0	no
+21	66946635	HSP90AA1	upstream_distal	2	21.9	no-SNP		no
+21	66946638	HSP90AA1	upstream_distal	1	34.3	no-SNP	11	no
+21	66947383	HSP90AA1	upstream_distal	1	-16.4	near-SNP	8	no
+21	66947466	HSP90AA1	upstream_distal	1	-21.0	near-SNP	4	no
+21	66947468	HSP90AA1	upstream_distal	1	17.5	near-SNP	6	no
+21	66947472	HSP90AA1	upstream_distal	1	15.9	near-SNP	10	no
+21	66947475	HSP90AA1	upstream_distal	1	-21.0	no-SNP		no
+21	66947491	HSP90AA1	upstream_distal	1	16.7	no-SNP		no
+21	66947498	HSP90AA1	upstream_distal	1	15.9	no-SNP	11	no
+21	66949945	HSP90AA1	upstream_distal	1	-55.9	near-SNP	2	no
+21	66950482	HSP90AA1	upstream_distal	1	-29.6	no-SNP		no
+21	66950497	HSP90AA1	upstream_distal	2	42.8	near-SNP	5	no
+21	66950681	HSP90AA1	upstream_distal	1	24.8	CpG-SNP	0	no
+21	66957585	HSP90AA1	upstream_distal	1	21.7	CpG-SNP	0	no
+21	66958621	HSP90AA1	upstream_distal	4	-33.8	no-SNP		no
+21	66958658	HSP90AA1	upstream_distal	1	25.2	CpG-SNP	0	no
+23	17740550	HSP90AB1	upstream_distal	1	17.1	near-SNP	10	no
+23	17740560	HSP90AB1	upstream_distal	1	17.5	CpG-SNP	0	no
+23	17740594	HSP90AB1	upstream_distal	1	-19.7	near-SNP	2	no
+23	17740595	HSP90AB1	upstream_distal	1	17.6	CpG-SNP	1	no
+23	17740604	HSP90AB1	upstream_distal	6	74.4	CpG-SNP	0	no
+23	17740605	HSP90AB1	upstream_distal	3	76.3	CpG-SNP	1	no
+23	17743543	HSP90AB1	upstream_distal	2	-37.5	no-SNP		no
+23	17743735	HSP90AB1	upstream_distal	3	34.4	no-SNP		no
+23	17743747	HSP90AB1	upstream_distal	2	18.9	no-SNP		no
+23	17743748	HSP90AB1	upstream_distal	1	-38.0	no-SNP		no
+23	17745391	HSP90AB1	upstream_distal	1	37.7	near-SNP	4	no
+23	17756090	HSP90AB1	gene_body	1	23.5	CpG-SNP	0	no
+23	17760498	HSP90AB1	downstream_distal	1	26.2	CpG-SNP	0	no
+23	17760521	HSP90AB1	downstream_distal	1	-20.8	CpG-SNP	1	no
+23	17762323	HSP90AB1	downstream_distal	1	-33.3	near-SNP	8	no
+23	17762325	HSP90AB1	downstream_distal	2	-27.6	near-SNP	10	no
+23	17762534	HSP90AB1	downstream_distal	1	26.5	no-SNP		no
+23	17763077	HSP90AB1	downstream_distal	1	-35.3	no-SNP		no
+23	17763225	HSP90AB1	downstream_distal	1	-17.8	no-SNP		no
+23	17765959	HSP90AB1	downstream_distal	1	-28.2	CpG-SNP	0	no
+23	17765983	HSP90AB1	downstream_distal	1	-22.5	no-SNP		no
+23	17768051	HSP90AB1	downstream_distal	1	24.0	near-SNP	2	no
+23	17769602	HSP90AB1	downstream_distal	1	21.7	near-SNP	8	no
+23	17771771	HSP90AB1	downstream_distal	1	23.8	near-SNP	7	no
+23	17771772	HSP90AB1	downstream_distal	1	-15.5	near-SNP	8	no
+23	17771783	HSP90AB1	downstream_distal	1	-26.2	no-SNP		no
+23	17771784	HSP90AB1	downstream_distal	1	-15.5	no-SNP		no
+23	17771796	HSP90AB1	downstream_distal	2	-24.0	near-SNP	6	no
+23	17771797	HSP90AB1	downstream_distal	1	-15.5	near-SNP	5	no
+26	37071815	HSPA12A	gene_body	1	20.0	near-SNP	2	no
+26	37071816	HSPA12A	gene_body	2	24.9	CpG-SNP	1	no
+26	37071821	HSPA12A	gene_body	2	20.1	CpG-SNP	0	no
+26	37071825	HSPA12A	gene_body	1	-17.6	CpG-SNP	1	no
+26	37071846	HSPA12A	gene_body	2	40.3	CpG-SNP	1	no
+26	37071864	HSPA12A	gene_body	1	-56.0	CpG-SNP	0	no
+26	37071873	HSPA12A	gene_body	1	29.0	CpG-SNP	1	no
+26	37080219	HSPA12A	gene_body	2	18.5	near-SNP	3	no
+26	37080694	HSPA12A	gene_body	3	28.4	CpG-SNP	1	no
+26	37080724	HSPA12A	gene_body	1	-29.0	CpG-SNP	0	no
+26	37081946	HSPA12A	gene_body	2	28.1	CpG-SNP	0	no
+26	37081984	HSPA12A	gene_body	2	17.4	near-SNP	5	no
+26	37082421	HSPA12A	gene_body	2	21.1	no-SNP	11	no
+26	37082877	HSPA12A	gene_body	1	69.2	CpG-SNP	1	no
+26	37105556	HSPA12A	gene_body	1	24.4	no-SNP		no
+26	37126239	HSPA12A	gene_body	2	34.9	CpG-SNP	0	no
+26	37126306	HSPA12A	gene_body	7	47.9	CpG-SNP	0	no
+26	37144578	HSPA12A	gene_body	3	-17.7	near-SNP	4	no
+26	37144583	HSPA12A	gene_body	1	-21.3	CpG-SNP	1	no
+26	37144624	HSPA12A	gene_body	3	-24.3	near-SNP	2	no
+26	37144632	HSPA12A	gene_body	4	-26.8	near-SNP	9	no
+26	37144687	HSPA12A	gene_body	3	-23.5	CpG-SNP	1	no
+26	37145085	HSPA12A	gene_body	3	-23.8	near-SNP	6	no
+26	37145131	HSPA12A	gene_body	1	-56.5	no-SNP		no
+26	37145171	HSPA12A	gene_body	2	-31.7	near-SNP	6	no
+26	37145182	HSPA12A	gene_body	1	-42.1	near-SNP	5	no
+26	37145184	HSPA12A	gene_body	1	-36.0	near-SNP	7	no
+26	37145187	HSPA12A	gene_body	3	-28.8	near-SNP	10	no
+26	37145460	HSPA12A	gene_body	2	1.6	near-SNP	2	no
+26	37145469	HSPA12A	gene_body	1	-19.3	no-SNP		no
+26	37145479	HSPA12A	gene_body	1	19.6	no-SNP		no
+26	37145683	HSPA12A	gene_body	2	-33.4	near-SNP	3	no
+26	37145686	HSPA12A	gene_body	1	-38.4	near-SNP	2	no
+26	37145701	HSPA12A	gene_body	1	-23.8	CpG-SNP	1	no
+26	37145706	HSPA12A	gene_body	2	-32.5	near-SNP	3	no
+26	37145708	HSPA12A	gene_body	2	-31.8	near-SNP	5	no
+26	37145710	HSPA12A	gene_body	1	-35.6	near-SNP	7	no
+26	37145719	HSPA12A	gene_body	1	-19.9	no-SNP		no
+26	37145753	HSPA12A	gene_body	1	-61.4	near-SNP	6	no
+26	37145777	HSPA12A	gene_body	1	24.3	no-SNP	11	no
+26	37145822	HSPA12A	gene_body	1	-16.8	near-SNP	9	no
+26	37145826	HSPA12A	gene_body	1	-21.9	near-SNP	5	no
+26	37145835	HSPA12A	gene_body	1	-26.1	CpG-SNP	0	no
+26	37145837	HSPA12A	gene_body	1	-16.8	near-SNP	2	no
+26	37145998	HSPA12A	gene_body	1	-16.7	near-SNP	2	no
+26	37146493	HSPA12A	gene_body	1	-19.0	no-SNP		no
+26	37176805	HSPA12A	gene_body	1	-25.0	CpG-SNP	1	no
+26	37176806	HSPA12A	gene_body	3	26.3	CpG-SNP	0	no
+26	37176829	HSPA12A	gene_body	2	19.9	no-SNP		no
+26	37196727	HSPA12A	gene_body	8	73.5	CpG-SNP	0	no
+26	37221610	HSPA12A	gene_body	1	21.4	CpG-SNP	0	no
+26	37226261	HSPA12A	gene_body	1	-19.4	no-SNP		no
+26	37240466	HSPA12A	promoter	2	-30.6	near-SNP	8	no
+26	37240491	HSPA12A	promoter	1	-28.1	no-SNP		no
+26	37240493	HSPA12A	promoter	1	-28.1	no-SNP		no
+26	37240518	HSPA12A	promoter	1	-21.9	near-SNP	2	no
+26	37241697	HSPA12A	promoter	1	16.7	near-SNP	8	no
+26	37241731	HSPA12A	promoter	1	20.8	no-SNP		no
+26	37241743	HSPA12A	promoter	1	-28.5	no-SNP		no
+26	37241756	HSPA12A	promoter	1	-16.9	no-SNP		no
+26	37241774	HSPA12A	promoter	1	15.2	no-SNP		no
+26	37241802	HSPA12A	promoter	1	-17.2	near-SNP	8	no
+13	51460785	HSPA12B	promoter	3	-31.2	near-SNP	6	no
+13	51461093	HSPA12B	promoter	1	-25.0	near-SNP	10	no
+13	51461098	HSPA12B	promoter	1	-18.6	near-SNP	5	no
+13	51461104	HSPA12B	promoter	1	-33.1	CpG-SNP	1	no
+13	51461106	HSPA12B	promoter	1	-17.9	near-SNP	3	no
+13	51461108	HSPA12B	promoter	1	-33.9	near-SNP	2	no
+13	51461129	HSPA12B	promoter	1	-15.4	near-SNP	8	no
+13	51461161	HSPA12B	promoter	1	-16.0	near-SNP	8	no
+13	51461167	HSPA12B	promoter	1	-24.7	near-SNP	2	no
+13	51461330	HSPA12B	promoter	1	-17.3	no-SNP		no
+13	51461395	HSPA12B	promoter	5	-30.5	no-SNP		no
+23	27521015	HSPA1A	promoter	1	-21.4	CpG-SNP	1	no
+23	27521031	HSPA1A	promoter	1	16.4	CpG-SNP	1	no
+23	27521035	HSPA1A	promoter	1	-21.4	near-SNP	3	no
+23	27521064	HSPA1A	promoter	2	-35.0	CpG-SNP	1	no
+23	27521095	HSPA1A	promoter	3	-29.6	CpG-SNP	0	no
+23	27521146	HSPA1A	promoter	2	3.4	near-SNP	3	no
+23	27521158	HSPA1A	promoter	2	3.0	CpG-SNP	0	no
+23	27521177	HSPA1A	promoter	1	-17.9	CpG-SNP	1	no
+23	27521193	HSPA1A	promoter	2	-30.8	CpG-SNP	0	no
+23	27521202	HSPA1A	promoter	2	-41.3	CpG-SNP	0	no
+23	27521207	HSPA1A	promoter	2	-38.4	CpG-SNP	0	no
+23	27521228	HSPA1A	promoter	4	-25.5	CpG-SNP	0	no
+23	27521229	HSPA1A	promoter	2	2.3	CpG-SNP	0	no
+23	27521231	HSPA1A	promoter	2	-17.8	CpG-SNP	1	no
+23	27521245	HSPA1A	promoter	1	-18.5	CpG-SNP	0	no
+23	27521251	HSPA1A	promoter	6	-8.6	CpG-SNP	1	no
+23	27521284	HSPA1A	promoter	5	-27.2	CpG-SNP	0	no
+23	27521305	HSPA1A	promoter	4	-30.6	CpG-SNP	0	no
+23	27521314	HSPA1A	promoter	5	-28.0	CpG-SNP	0	no
+23	27521334	HSPA1A	promoter	6	-32.2	near-SNP	4	no
+23	27521347	HSPA1A	promoter	4	-26.0	CpG-SNP	0	no
+23	27521356	HSPA1A	promoter	5	-29.4	near-SNP	3	no
+23	27521658	HSPA1A	promoter	2	-58.0	CpG-SNP	1	no
+23	27521673	HSPA1A	promoter	3	-55.6	near-SNP	4	no
+23	27521678	HSPA1A	promoter	3	-54.4	CpG-SNP	1	no
+23	27521680	HSPA1A	promoter	3	-50.4	CpG-SNP	1	no
+23	27521881	HSPA1A	promoter	3	-35.0	CpG-SNP	0	no
+23	27521893	HSPA1A	promoter	1	-58.8	CpG-SNP	0	no
+23	27521903	HSPA1A	promoter	3	-39.9	CpG-SNP	1	no
+23	27521928	HSPA1A	promoter	1	-18.8	CpG-SNP	1	no
+23	27521940	HSPA1A	promoter	1	-18.8	near-SNP	2	no
+23	27521943	HSPA1A	promoter	1	-18.8	CpG-SNP	1	no
+23	27522181	HSPA1A	promoter	2	-27.7	near-SNP	3	no
+23	27522186	HSPA1A	promoter	1	-24.9	CpG-SNP	1	no
+23	27522189	HSPA1A	promoter	2	-22.3	near-SNP	2	no
+23	27522218	HSPA1A	promoter	2	-18.7	CpG-SNP	1	no
+23	27522221	HSPA1A	promoter	1	-16.8	CpG-SNP	0	no
+23	27522241	HSPA1A	promoter	2	5.7	CpG-SNP	0	no
+23	27522292	HSPA1A	promoter	1	-19.0	near-SNP	3	no
+23	27522301	HSPA1A	promoter	1	-18.7	CpG-SNP	0	no
+23	27522303	HSPA1A	promoter	1	-20.8	CpG-SNP	1	no
+23	27522326	HSPA1A	promoter	1	-18.7	near-SNP	4	no
+23	27522575	HSPA1A	promoter	1	25.0	CpG-SNP	1	no
+7	44670628	HSPA4	downstream_distal	4	20.1	near-SNP	2	no
+7	44673474	HSPA4	downstream_distal	1	25.1	CpG-SNP	0	no
+chr7	44603871	HSPA4	upstream_distal	1	67.4	no-SNP		no
+chr7	44646829	HSPA4	gene_body	1	82.8	no-SNP		no
+chr7	44646846	HSPA4	gene_body	1	88.5	no-SNP		no
+11	96119783	HSPA5	promoter	1	-18.2	near-SNP	5	no
+11	96128681	HSPA5	upstream_distal	4	32.5	CpG-SNP	1	no
+3	8032909	HSPA6	promoter	1	-44.8	no-SNP		no
+3	8032943	HSPA6	promoter	1	-29.2	CpG-SNP	0	no
+3	8032994	HSPA6	promoter	1	-33.3	no-SNP		no
+3	8033015	HSPA6	promoter	1	-37.5	no-SNP		no
+3	8033032	HSPA6	promoter	1	-28.6	CpG-SNP	1	no
+15	33668276	HSPA8	downstream_distal	1	32.0	no-SNP		no
+15	33668789	HSPA8	downstream_distal	2	1.6	CpG-SNP	0	no
+15	33683541	HSPA8	promoter	1	17.5	CpG-SNP	0	no
+15	33683930	HSPA8	promoter	1	-15.6	near-SNP	5	no
+15	33690342	HSPA8	upstream_distal	1	40.7	CpG-SNP	0	no
+3	92301492	HSPB11	gene_body	1	-20.8	CpG-SNP	0	no
+3	92328469	HSPB11	gene_body	1	19.0	CpG-SNP	1	no
+3	92330755	HSPB11	gene_body	3	-35.8	CpG-SNP	0	no
+3	92330774	HSPB11	gene_body	1	15.9	near-SNP	5	no
+3	92330781	HSPB11	gene_body	1	15.9	no-SNP		no
+chr3	92263023	HSPB11	promoter	1	84.0	no-SNP		no
+chr3	92282093	HSPB11	gene_body	1	23.2	no-SNP		no
+chr3	92288268	HSPB11	gene_body	1	-23.3	no-SNP		no
+17	56161495	HSPB8	gene_body	4	9.0	CpG-SNP	0	no
+17	56169753	HSPB8	promoter	3	-23.2	no-SNP		no
+17	56169771	HSPB8	promoter	5	-37.4	near-SNP	5	no
+17	56169808	HSPB8	promoter	2	-19.0	near-SNP	2	no
+17	56170067	HSPB8	promoter	1	-20.8	near-SNP	10	no
+17	56183900	HSPB8	upstream_distal	2	28.0	CpG-SNP	1	no
+17	56184723	HSPB8	upstream_distal	2	4.1	CpG-SNP	1	no
+17	56184773	HSPB8	upstream_distal	1	25.4	near-SNP	8	no
+17	56184779	HSPB8	upstream_distal	1	36.4	no-SNP		no
+22	13627810	HSPD1	downstream_distal	2	29.3	no-SNP		no
+22	13627899	HSPD1	downstream_distal	2	19.0	CpG-SNP	0	no
+22	13627983	HSPD1	downstream_distal	1	17.2	CpG-SNP	1	no
+22	13639391	HSPD1	promoter	2	-7.8	no-SNP		no
+2	86061087	HSPE1	downstream_distal	1	-16.7	no-SNP		no
+4	31467606	IL6	gene_body	1	18.6	near-SNP	6	no
+17	69246015	LIF	downstream_distal	1	21.1	near-SNP	8	no
+17	69246040	LIF	downstream_distal	1	-15.9	CpG-SNP	1	no
+17	69246046	LIF	downstream_distal	1	19.3	CpG-SNP	0	no
+17	69246080	LIF	downstream_distal	2	27.4	CpG-SNP	0	no
+17	69246109	LIF	downstream_distal	3	15.3	CpG-SNP	1	no
+17	69246672	LIF	downstream_distal	1	19.0	no-SNP		no
+17	69247904	LIF	downstream_distal	1	17.6	no-SNP		no
+17	69247973	LIF	downstream_distal	1	-15.6	no-SNP		no
+17	69248563	LIF	downstream_distal	1	29.3	no-SNP		no
+17	69248661	LIF	downstream_distal	1	-21.7	no-SNP		no
+17	69249029	LIF	downstream_distal	1	-23.5	CpG-SNP	1	no
+17	69252518	LIF	downstream_distal	2	19.6	no-SNP		no
+17	69253241	LIF	downstream_distal	2	32.2	no-SNP		no
+17	69257297	LIF	downstream_distal	1	-27.8	near-SNP	4	no
+17	69257332	LIF	downstream_distal	2	-29.2	no-SNP		no
+17	69257335	LIF	downstream_distal	2	-39.9	no-SNP		no
+17	69257368	LIF	downstream_distal	1	-29.6	no-SNP		no
+17	69257370	LIF	downstream_distal	5	-41.4	no-SNP		no
+17	69259581	LIF	downstream_distal	1	44.6	CpG-SNP	0	no
+17	69259587	LIF	downstream_distal	1	26.6	near-SNP	6	no
+17	69262234	LIF	gene_body	1	31.5	no-SNP		no
+17	69262314	LIF	gene_body	1	-35.3	near-SNP	4	no
+17	69262316	LIF	gene_body	1	-44.6	near-SNP	6	no
+17	69262387	LIF	gene_body	1	21.3	CpG-SNP	0	no
+17	69262420	LIF	gene_body	1	29.6	near-SNP	8	no
+17	69262462	LIF	gene_body	2	31.2	CpG-SNP	0	no
+17	69262463	LIF	gene_body	2	37.0	CpG-SNP	1	no
+17	69262635	LIF	gene_body	1	-22.2	no-SNP		no
+17	69263751	LIF	gene_body	1	46.2	no-SNP		no
+17	69267758	LIF	gene_body	2	6.4	no-SNP		no
+17	69268527	LIF	gene_body	1	61.1	CpG-SNP	0	no
+17	69268529	LIF	gene_body	1	38.9	CpG-SNP	1	no
+17	69268690	LIF	gene_body	1	-46.2	no-SNP		no
+17	69269396	LIF	gene_body	1	-37.0	CpG-SNP	0	no
+17	69269409	LIF	gene_body	1	-29.6	CpG-SNP	1	no
+17	69269967	LIF	gene_body	2	21.8	near-SNP	2	no
+17	69271116	LIF	gene_body	1	25.5	no-SNP		no
+17	69271226	LIF	gene_body	3	61.6	near-SNP	10	no
+17	69272545	LIF	promoter	1	-30.0	no-SNP		no
+17	69272643	LIF	promoter	2	54.2	no-SNP		no
+17	69273197	LIF	promoter	1	22.2	near-SNP	2	no
+17	69273646	LIF	promoter	1	-50.0	CpG-SNP	0	no
+17	69273804	LIF	promoter	1	-34.7	near-SNP	2	no
+17	69273807	LIF	promoter	1	-32.3	CpG-SNP	1	no
+17	69273835	LIF	promoter	3	-16.7	CpG-SNP	1	no
+17	69273845	LIF	promoter	2	-16.7	near-SNP	9	no
+17	69273884	LIF	promoter	1	-34.7	near-SNP	5	no
+17	69273889	LIF	promoter	2	-21.1	CpG-SNP	0	no
+17	69273893	LIF	promoter	1	-39.2	near-SNP	4	no
+17	69273897	LIF	promoter	1	-59.5	near-SNP	8	no
+17	69273899	LIF	promoter	2	-41.6	near-SNP	10	no
+17	69273913	LIF	promoter	1	-26.9	no-SNP		no
+17	69273922	LIF	promoter	1	-46.5	no-SNP		no
+17	69273938	LIF	promoter	1	-56.3	no-SNP	11	no
+17	69273948	LIF	promoter	1	-34.1	CpG-SNP	1	no
+17	69273961	LIF	promoter	1	-39.3	near-SNP	5	no
+17	69274365	LIF	promoter	1	-54.7	no-SNP		no
+17	69274422	LIF	promoter	1	30.8	no-SNP		no
+17	69274702	LIF	promoter	1	22.7	CpG-SNP	0	no
+17	69278330	LIF	upstream_distal	1	-27.8	no-SNP		no
+17	69278409	LIF	upstream_distal	1	26.1	near-SNP	7	no
+17	69278484	LIF	upstream_distal	1	84.8	CpG-SNP	0	no
+17	69278517	LIF	upstream_distal	4	32.0	CpG-SNP	1	no
+17	69278542	LIF	upstream_distal	6	81.1	CpG-SNP	0	no
+17	69278649	LIF	upstream_distal	6	59.5	CpG-SNP	0	no
+17	69278710	LIF	upstream_distal	2	-14.5	CpG-SNP	0	no
+17	69279001	LIF	upstream_distal	1	40.5	near-SNP	2	no
+17	69279147	LIF	upstream_distal	1	33.6	no-SNP		no
+17	69279170	LIF	upstream_distal	2	29.5	CpG-SNP	0	no
+17	69279718	LIF	upstream_distal	1	-16.1	CpG-SNP	0	no
+17	69279870	LIF	upstream_distal	1	-23.1	no-SNP		no
+17	69279919	LIF	upstream_distal	1	28.2	no-SNP		no
+17	69283266	LIF	upstream_distal	2	12.5	near-SNP	6	no
+17	69283375	LIF	upstream_distal	2	47.4	CpG-SNP	1	no
+17	69283376	LIF	upstream_distal	4	71.8	CpG-SNP	0	no
+17	69283418	LIF	upstream_distal	1	20.7	CpG-SNP	0	no
+17	69283428	LIF	upstream_distal	2	-23.0	near-SNP	10	no
+17	69283538	LIF	upstream_distal	1	37.8	no-SNP		no
+17	69283658	LIF	upstream_distal	1	-21.1	near-SNP	9	no
+17	69283701	LIF	upstream_distal	1	27.8	CpG-SNP	1	no
+17	69283766	LIF	upstream_distal	2	-20.6	no-SNP		no
+17	69285221	LIF	upstream_distal	1	21.4	near-SNP	8	no
+17	69285228	LIF	upstream_distal	1	-16.7	CpG-SNP	1	no
+17	69285813	LIF	upstream_distal	1	-17.1	near-SNP	9	no
+17	69285845	LIF	upstream_distal	4	31.9	no-SNP	11	no
+17	69285846	LIF	upstream_distal	3	21.5	no-SNP	12	no
+17	69285866	LIF	upstream_distal	4	31.1	no-SNP		no
+17	69285868	LIF	upstream_distal	1	31.6	no-SNP		no
+17	69285874	LIF	upstream_distal	1	32.1	no-SNP		no
+17	69285916	LIF	upstream_distal	2	21.3	CpG-SNP	0	no
+17	69287906	LIF	upstream_distal	2	22.5	CpG-SNP	0	no
+17	69287919	LIF	upstream_distal	1	25.7	no-SNP		no
+15	75904055	MAPK8IP1	upstream_distal	2	2.3	CpG-SNP	0	no
+15	75904110	MAPK8IP1	upstream_distal	3	38.9	CpG-SNP	1	no
+15	75904140	MAPK8IP1	upstream_distal	1	25.0	CpG-SNP	1	no
+15	75904164	MAPK8IP1	upstream_distal	1	18.4	near-SNP	4	no
+15	75909425	MAPK8IP1	upstream_distal	1	-30.6	near-SNP	6	no
+15	75914627	MAPK8IP1	upstream_distal	1	30.6	near-SNP	2	no
+15	75914628	MAPK8IP1	upstream_distal	1	-24.5	CpG-SNP	1	no
+15	75915274	MAPK8IP1	upstream_distal	1	28.6	CpG-SNP	1	no
+15	75915333	MAPK8IP1	upstream_distal	3	59.5	CpG-SNP	0	no
+15	75915388	MAPK8IP1	upstream_distal	5	57.2	CpG-SNP	0	no
+15	75918414	MAPK8IP1	promoter	1	-39.0	no-SNP		no
+15	75918757	MAPK8IP1	promoter	1	-15.4	near-SNP	4	no
+15	75919079	MAPK8IP1	promoter	2	-19.2	CpG-SNP	0	no
+15	75920136	MAPK8IP1	promoter	1	-38.6	CpG-SNP	0	no
+15	75921050	MAPK8IP1	gene_body	1	-22.9	no-SNP		no
+15	75921437	MAPK8IP1	gene_body	1	30.4	CpG-SNP	0	no
+15	75922084	MAPK8IP1	gene_body	1	28.9	no-SNP		no
+15	75923647	MAPK8IP1	gene_body	5	20.0	CpG-SNP	1	no
+15	75923654	MAPK8IP1	gene_body	1	25.2	near-SNP	8	no
+15	75923685	MAPK8IP1	gene_body	2	39.1	no-SNP		no
+15	75923705	MAPK8IP1	gene_body	3	27.9	CpG-SNP	1	no
+15	75923715	MAPK8IP1	gene_body	2	46.9	near-SNP	9	no
+15	75923716	MAPK8IP1	gene_body	1	47.5	near-SNP	10	no
+15	75923756	MAPK8IP1	gene_body	1	40.0	near-SNP	5	no
+15	75928666	MAPK8IP1	gene_body	2	6.7	no-SNP		no
+15	75928667	MAPK8IP1	gene_body	1	-29.3	no-SNP		no
+15	75928779	MAPK8IP1	gene_body	1	-36.9	CpG-SNP	0	no
+15	75928782	MAPK8IP1	gene_body	3	-14.3	near-SNP	3	no
+15	75929008	MAPK8IP1	gene_body	2	35.7	CpG-SNP	0	no
+15	75929016	MAPK8IP1	gene_body	1	19.1	near-SNP	5	no
+15	75932323	MAPK8IP1	gene_body	1	-17.1	no-SNP		no
+15	75932333	MAPK8IP1	gene_body	1	-22.9	near-SNP	4	no
+15	75932358	MAPK8IP1	gene_body	1	-26.7	CpG-SNP	1	no
+15	75932394	MAPK8IP1	gene_body	1	-15.4	near-SNP	3	no
+15	75934351	MAPK8IP1	gene_body	1	24.8	no-SNP		no
+15	75934377	MAPK8IP1	gene_body	2	3.4	no-SNP		no
+15	75934378	MAPK8IP1	gene_body	2	23.7	no-SNP		no
+15	75934390	MAPK8IP1	gene_body	3	30.3	no-SNP		no
+15	75934391	MAPK8IP1	gene_body	3	22.2	no-SNP		no
+15	75934401	MAPK8IP1	gene_body	3	31.6	near-SNP	3	no
+15	75934402	MAPK8IP1	gene_body	3	24.1	near-SNP	2	no
+15	75934405	MAPK8IP1	gene_body	1	-25.8	CpG-SNP	1	no
+15	75934406	MAPK8IP1	gene_body	4	27.7	CpG-SNP	0	no
+15	75934408	MAPK8IP1	gene_body	1	31.8	CpG-SNP	0	no
+15	75934409	MAPK8IP1	gene_body	4	25.2	CpG-SNP	1	no
+15	75934432	MAPK8IP1	gene_body	1	69.7	near-SNP	2	no
+15	75934433	MAPK8IP1	gene_body	5	38.5	CpG-SNP	1	no
+15	75934438	MAPK8IP1	gene_body	1	81.7	CpG-SNP	0	no
+15	75934439	MAPK8IP1	gene_body	6	29.6	CpG-SNP	1	no
+15	75934444	MAPK8IP1	gene_body	1	84.0	CpG-SNP	0	no
+15	75934445	MAPK8IP1	gene_body	5	41.8	CpG-SNP	1	no
+15	75934447	MAPK8IP1	gene_body	1	41.2	near-SNP	3	no
+15	75934448	MAPK8IP1	gene_body	3	35.3	near-SNP	4	no
+15	75934456	MAPK8IP1	gene_body	1	34.7	CpG-SNP	1	no
+15	75934457	MAPK8IP1	gene_body	5	40.9	CpG-SNP	0	no
+15	75934489	MAPK8IP1	gene_body	5	27.9	CpG-SNP	0	no
+15	75934490	MAPK8IP1	gene_body	1	52.3	CpG-SNP	1	no
+15	75934498	MAPK8IP1	gene_body	2	30.9	CpG-SNP	0	no
+15	75934499	MAPK8IP1	gene_body	2	35.4	CpG-SNP	1	no
+15	75934507	MAPK8IP1	gene_body	2	35.8	near-SNP	7	no
+15	75934508	MAPK8IP1	gene_body	2	38.7	near-SNP	6	no
+15	75934519	MAPK8IP1	gene_body	1	32.5	near-SNP	3	no
+15	75934885	MAPK8IP1	gene_body	1	21.7	no-SNP		no
+15	75934971	MAPK8IP1	gene_body	1	-46.2	near-SNP	9	no
+15	75934993	MAPK8IP1	gene_body	1	31.2	no-SNP		no
+15	75935046	MAPK8IP1	gene_body	1	-38.9	CpG-SNP	1	no
+15	75936162	MAPK8IP1	gene_body	1	34.4	CpG-SNP	0	no
+15	75936196	MAPK8IP1	gene_body	3	29.2	CpG-SNP	1	no
+15	75936485	MAPK8IP1	gene_body	1	32.9	near-SNP	3	no
+15	75936499	MAPK8IP1	gene_body	1	52.0	no-SNP		no
+15	75936512	MAPK8IP1	gene_body	2	11.9	CpG-SNP	0	no
+15	75936546	MAPK8IP1	gene_body	1	21.4	CpG-SNP	1	no
+15	75936549	MAPK8IP1	gene_body	3	15.7	CpG-SNP	1	no
+15	75936623	MAPK8IP1	gene_body	2	9.8	CpG-SNP	0	no
+15	75937201	MAPK8IP1	gene_body	1	-41.7	CpG-SNP	0	no
+15	75937234	MAPK8IP1	gene_body	7	-38.7	no-SNP		no
+15	75937235	MAPK8IP1	gene_body	3	-29.2	no-SNP		no
+15	75937237	MAPK8IP1	gene_body	7	-49.2	no-SNP		no
+15	75937238	MAPK8IP1	gene_body	6	-36.4	no-SNP		no
+15	75937256	MAPK8IP1	gene_body	8	-47.5	near-SNP	8	no
+15	75937257	MAPK8IP1	gene_body	4	-43.6	near-SNP	7	no
+15	75937393	MAPK8IP1	gene_body	2	-53.5	CpG-SNP	1	no
+15	75937396	MAPK8IP1	gene_body	2	-63.5	CpG-SNP	1	no
+15	75937407	MAPK8IP1	gene_body	2	-52.6	no-SNP		no
+15	75937413	MAPK8IP1	gene_body	2	-34.1	near-SNP	8	no
+15	75937439	MAPK8IP1	gene_body	3	-34.1	near-SNP	2	no
+15	75937551	MAPK8IP1	gene_body	7	-39.0	no-SNP		no
+15	75937944	MAPK8IP1	gene_body	1	-31.6	near-SNP	5	no
+15	75937972	MAPK8IP1	gene_body	3	-34.8	CpG-SNP	0	no
+15	75938004	MAPK8IP1	gene_body	1	-21.9	no-SNP		no
+15	75938027	MAPK8IP1	gene_body	1	-22.3	near-SNP	6	no
+15	75938230	MAPK8IP1	downstream_distal	4	-29.4	CpG-SNP	1	no
+15	75938319	MAPK8IP1	downstream_distal	1	-30.2	no-SNP		no
+15	75938334	MAPK8IP1	downstream_distal	2	-6.7	near-SNP	3	no
+15	75938339	MAPK8IP1	downstream_distal	1	-30.0	near-SNP	8	no
+15	75938611	MAPK8IP1	downstream_distal	1	-24.2	CpG-SNP	0	no
+15	75938789	MAPK8IP1	downstream_distal	1	22.2	CpG-SNP	0	no
+15	75941142	MAPK8IP1	downstream_distal	1	27.5	CpG-SNP	0	no
+15	75943680	MAPK8IP1	downstream_distal	1	46.2	CpG-SNP	1	no
+15	75943700	MAPK8IP1	downstream_distal	1	-15.0	near-SNP	6	no
+15	75946989	MAPK8IP1	downstream_distal	1	-22.2	no-SNP		no
+15	75950507	MAPK8IP1	downstream_distal	4	16.3	CpG-SNP	1	no
+15	75950603	MAPK8IP1	downstream_distal	1	-22.5	CpG-SNP	0	no
+15	75950670	MAPK8IP1	downstream_distal	1	26.5	no-SNP	11	no
+15	75950702	MAPK8IP1	downstream_distal	1	28.7	no-SNP		no
+15	75950757	MAPK8IP1	downstream_distal	2	25.1	CpG-SNP	0	no
+15	75951829	MAPK8IP1	downstream_distal	1	-20.8	CpG-SNP	1	no
+chr15	75922117	MAPK8IP1	gene_body	2	54.8	no-SNP		no
+chr15	75928999	MAPK8IP1	gene_body	1	69.9	no-SNP		no
+chr15	75935497	MAPK8IP1	gene_body	1	58.3	no-SNP		no
+chr15	75935618	MAPK8IP1	gene_body	1	25.7	no-SNP		no
+2	6275758	MSTN	upstream_distal	1	37.2	CpG-SNP	1	no
+3	15415380	MUC1	upstream_distal	3	31.2	no-SNP		no
+3	15417628	MUC1	upstream_distal	1	-21.2	no-SNP		no
+3	15417736	MUC1	upstream_distal	2	41.7	no-SNP		no
+3	15417786	MUC1	upstream_distal	1	44.4	near-SNP	3	no
+3	15419685	MUC1	upstream_distal	2	20.2	CpG-SNP	0	no
+3	15419731	MUC1	upstream_distal	1	-20.8	no-SNP		no
+3	15419819	MUC1	upstream_distal	1	-19.2	CpG-SNP	0	no
+3	15420956	MUC1	upstream_distal	1	-17.9	no-SNP		no
+3	15421035	MUC1	upstream_distal	2	-34.8	CpG-SNP	0	no
+3	15421542	MUC1	upstream_distal	3	26.1	CpG-SNP	1	no
+3	15426356	MUC1	promoter	1	-24.1	near-SNP	3	no
+3	15427874	MUC1	promoter	1	18.5	no-SNP		no
+3	15428710	MUC1	promoter	1	15.9	CpG-SNP	1	no
+3	15428778	MUC1	promoter	3	43.3	near-SNP	9	no
+3	15432391	MUC1	downstream_distal	1	24.9	no-SNP		no
+3	15432447	MUC1	downstream_distal	1	31.9	CpG-SNP	1	no
+3	15434396	MUC1	downstream_distal	1	31.0	near-SNP	7	no
+3	15437253	MUC1	downstream_distal	1	22.6	near-SNP	7	no
+3	15438128	MUC1	downstream_distal	3	25.4	no-SNP		no
+3	15441278	MUC1	downstream_distal	1	15.2	no-SNP		no
+3	15442133	MUC1	downstream_distal	2	-2.0	no-SNP	25	no
+3	15442140	MUC1	downstream_distal	1	20.7	no-SNP	32	no
+3	15442171	MUC1	downstream_distal	2	30.7	CpG-SNP	0	no
+3	15442361	MUC1	downstream_distal	4	-43.6	no-SNP		no
+3	15442525	MUC1	downstream_distal	1	-16.1	no-SNP		no
+3	15442527	MUC1	downstream_distal	1	-23.5	no-SNP		no
+3	15442530	MUC1	downstream_distal	1	-28.6	no-SNP		no
+3	15443145	MUC1	downstream_distal	2	-7.3	CpG-SNP	0	no
+3	15443311	MUC1	downstream_distal	1	26.1	near-SNP	5	no
+1	141618712	MX2	upstream_distal	1	-43.1	no-SNP		no
+chr2	17234843	NA	intergenic	2	54.6	no-SNP		no
+chr2	17234922	NA	intergenic	1	-24.8	no-SNP		no
+chr2	17234923	NA	intergenic	2	-20.8	no-SNP		no
+chr23	27284035	NA	intergenic	1	85.0	no-SNP		no
+chr23	27313065	NA	intergenic	1	-19.9	no-SNP		no
+chr23	27332778	NA	intergenic	1	35.5	no-SNP		no
+chr23	27332793	NA	intergenic	1	26.3	no-SNP		no
+chr23	27332798	NA	intergenic	1	25.2	no-SNP		no
+chr23	27332800	NA	intergenic	1	24.7	no-SNP		no
+chr23	27332815	NA	intergenic	1	30.9	no-SNP		no
+chr23	27332826	NA	intergenic	1	24.3	no-SNP		no
+chr23	27332835	NA	intergenic	1	32.0	no-SNP		no
+chr23	27332847	NA	intergenic	1	28.3	no-SNP		no
+chr23	27332898	NA	intergenic	1	25.2	no-SNP		no
+chr23	27332904	NA	intergenic	1	27.0	no-SNP		no
+chr23	27332909	NA	intergenic	1	23.9	no-SNP		no
+chr23	27332915	NA	intergenic	1	23.6	no-SNP		no
+chr23	27332927	NA	intergenic	1	22.9	no-SNP		no
+chr23	27332976	NA	intergenic	1	31.3	no-SNP		no
+chr23	27333012	NA	intergenic	1	27.2	no-SNP		no
+chr23	27333022	NA	intergenic	1	29.1	no-SNP		no
+chr23	27333030	NA	intergenic	1	22.1	no-SNP		no
+chr23	27346448	NA	intergenic	1	19.2	no-SNP		no
+17	61372421	OAS1X	downstream_distal	1	28.6	CpG-SNP	1	no
+17	61373688	OAS1X	downstream_distal	1	19.2	near-SNP	9	no
+17	61373697	OAS1X	downstream_distal	1	34.2	no-SNP		no
+17	61385985	OAS1X	promoter	1	-20.9	no-SNP		no
+17	61386033	OAS1X	promoter	1	-23.4	no-SNP		no
+17	61408796	OAS1Z	upstream_distal	2	32.2	no-SNP		no
+29	44397063	PAG1	upstream_distal	2	-21.4	no-SNP		no
+29	44398714	PAG1	upstream_distal	1	17.5	CpG-SNP	1	no
+29	44407492	PAG1	upstream_distal	2	56.3	CpG-SNP	0	no
+29	44407496	PAG1	upstream_distal	1	22.7	CpG-SNP	0	no
+29	44410089	PAG1	promoter	1	20.0	CpG-SNP	0	no
+29	44410108	PAG1	promoter	1	18.4	no-SNP	11	no
+29	44410109	PAG1	promoter	1	25.0	near-SNP	10	no
+29	44410670	PAG1	promoter	1	16.0	CpG-SNP	0	no
+29	44410923	PAG1	promoter	1	-18.2	near-SNP	5	no
+29	44411683	PAG1	promoter	1	-63.6	CpG-SNP	1	no
+29	44411686	PAG1	promoter	1	-45.5	CpG-SNP	1	no
+29	44411693	PAG1	promoter	2	-36.5	CpG-SNP	0	no
+29	44411696	PAG1	promoter	1	-57.6	CpG-SNP	1	no
+29	44411697	PAG1	promoter	2	-45.3	near-SNP	2	no
+29	44411703	PAG1	promoter	1	-70.9	near-SNP	8	no
+29	44411704	PAG1	promoter	2	-52.9	near-SNP	9	no
+29	44411715	PAG1	promoter	2	-47.6	near-SNP	6	no
+29	44411716	PAG1	promoter	2	-53.3	near-SNP	5	no
+29	44411732	PAG1	promoter	3	-22.1	no-SNP		no
+29	44412602	PAG1	promoter	1	22.3	no-SNP	88	no
+29	44418641	PAG1	gene_body	1	-23.8	no-SNP		no
+29	44418648	PAG1	gene_body	1	-32.9	no-SNP		no
+29	44422115	PAG1	downstream_distal	1	-30.7	no-SNP		no
+29	44426190	PAG1	downstream_distal	3	31.9	CpG-SNP	0	no
+29	44431179	PAG1	downstream_distal	2	19.5	near-SNP	9	no
+29	44431190	PAG1	downstream_distal	3	30.1	CpG-SNP	1	no
+29	44431198	PAG1	downstream_distal	1	-15.6	near-SNP	9	no
+16	25038308	PTGS2	gene_body	1	15.2	near-SNP	7	no
+16	25038309	PTGS2	gene_body	1	-16.1	near-SNP	6	no
+16	25048104	PTGS2	downstream_distal	1	50.0	no-SNP		no
+19	39685287	RPL19	upstream_distal	1	27.3	CpG-SNP	1	no
+19	39685294	RPL19	upstream_distal	2	21.4	near-SNP	8	no
+19	39690575	RPL19	upstream_distal	1	-15.6	no-SNP		no
+19	39690764	RPL19	upstream_distal	1	-22.7	no-SNP		no
+19	39702423	RPL19	downstream_distal	1	26.4	no-SNP		no
+19	39702427	RPL19	downstream_distal	1	30.0	no-SNP		no
+19	39702467	RPL19	downstream_distal	1	27.1	near-SNP	10	no
+19	39705322	RPL19	downstream_distal	2	-6.6	near-SNP	8	no
+19	39705760	RPL19	downstream_distal	3	-37.5	CpG-SNP	1	no
+19	39705820	RPL19	downstream_distal	1	20.7	no-SNP		no
+19	39705825	RPL19	downstream_distal	3	-2.6	no-SNP		no
+19	39708931	RPL19	downstream_distal	1	25.9	no-SNP		no
+19	39708962	RPL19	downstream_distal	1	56.4	CpG-SNP	0	no
+19	39708968	RPL19	downstream_distal	3	44.4	CpG-SNP	0	no
+19	39709036	RPL19	downstream_distal	1	-15.5	near-SNP	7	no
+11	90025906	RSAD2	downstream_distal	1	-17.2	no-SNP		no
+11	90056077	RSAD2	promoter	1	-16.1	no-SNP		no
+11	90068221	RSAD2	upstream_distal	1	-19.4	no-SNP		no
+11	90068306	RSAD2	upstream_distal	2	-25.1	near-SNP	5	no
+11	90068635	RSAD2	upstream_distal	1	15.1	CpG-SNP	1	no
+11	90069006	RSAD2	upstream_distal	1	16.7	no-SNP		no
+11	90069355	RSAD2	upstream_distal	1	-25.9	no-SNP		no
+11	90069368	RSAD2	upstream_distal	1	-15.7	no-SNP		no
+11	90069374	RSAD2	upstream_distal	3	-20.3	no-SNP		no
+11	90069377	RSAD2	upstream_distal	2	-21.8	no-SNP		no
+11	90069388	RSAD2	upstream_distal	1	-33.3	near-SNP	3	no
+11	90069441	RSAD2	upstream_distal	2	-20.2	near-SNP	5	no
+11	90069494	RSAD2	upstream_distal	1	-23.8	near-SNP	3	no
+11	90069530	RSAD2	upstream_distal	2	-56.2	no-SNP		no
+11	90069543	RSAD2	upstream_distal	2	-44.2	no-SNP		no
+11	90069559	RSAD2	upstream_distal	1	-24.3	near-SNP	3	no
+11	90069595	RSAD2	upstream_distal	2	-23.4	near-SNP	3	no
+11	90069643	RSAD2	upstream_distal	1	-50.1	no-SNP		no
+26	21264517	SCD1	promoter	2	26.8	no-SNP		no
+26	21265660	SCD1	promoter	1	37.8	no-SNP		no
+26	21269003	SCD1	gene_body	1	15.8	CpG-SNP	0	no
+7	24677380	SMAD5	gene_body	2	-23.5	no-SNP		no
+7	24677387	SMAD5	gene_body	3	-34.9	no-SNP		no
+7	24677390	SMAD5	gene_body	3	-24.1	near-SNP	9	no
+7	24677392	SMAD5	gene_body	2	-23.2	near-SNP	7	no
+7	24677400	SMAD5	gene_body	2	-47.2	CpG-SNP	0	no
+7	24677402	SMAD5	gene_body	4	-33.3	near-SNP	2	no
+7	24677407	SMAD5	gene_body	3	-26.8	near-SNP	2	no
+7	24677464	SMAD5	gene_body	2	-10.2	no-SNP		no
+7	24677465	SMAD5	gene_body	2	-45.6	no-SNP		no
+7	24677469	SMAD5	gene_body	2	-30.3	no-SNP		no
+7	24677470	SMAD5	gene_body	1	-61.9	no-SNP		no
+7	24677471	SMAD5	gene_body	2	-15.5	no-SNP		no
+7	24677472	SMAD5	gene_body	1	-30.5	no-SNP		no
+7	24677474	SMAD5	gene_body	4	-27.2	no-SNP		no
+7	24677475	SMAD5	gene_body	1	-18.2	no-SNP		no
+7	24677535	SMAD5	gene_body	1	-27.3	near-SNP	7	no
+7	24677536	SMAD5	gene_body	1	-36.2	near-SNP	6	no
+7	24677548	SMAD5	gene_body	1	-24.8	near-SNP	2	no
+7	24677554	SMAD5	gene_body	1	-18.2	CpG-SNP	1	no
+7	24677563	SMAD5	gene_body	1	-16.3	near-SNP	6	no
+7	24677582	SMAD5	gene_body	2	-16.6	near-SNP	4	no
+7	24677583	SMAD5	gene_body	1	-27.3	near-SNP	5	no
+7	24677589	SMAD5	gene_body	1	-43.5	CpG-SNP	1	no
+7	24677594	SMAD5	gene_body	2	-18.9	near-SNP	4	no
+7	24677595	SMAD5	gene_body	1	-18.5	near-SNP	3	no
+7	24677597	SMAD5	gene_body	2	-16.9	CpG-SNP	1	no
+7	24677598	SMAD5	gene_body	1	-22.0	CpG-SNP	0	no
+7	24677607	SMAD5	gene_body	1	-18.5	near-SNP	8	no
+7	24677690	SMAD5	gene_body	1	-17.5	no-SNP	11	no
+7	24677702	SMAD5	gene_body	1	-30.2	CpG-SNP	1	no
+7	24677709	SMAD5	gene_body	1	-18.9	near-SNP	8	no
+7	24677715	SMAD5	gene_body	1	-30.2	no-SNP		no
+7	24677717	SMAD5	gene_body	1	-18.9	no-SNP		no
+7	24677728	SMAD5	gene_body	1	-30.2	CpG-SNP	1	no
+7	24677729	SMAD5	gene_body	1	23.8	CpG-SNP	0	no
+7	24677769	SMAD5	gene_body	1	-56.1	no-SNP		no
+7	24677776	SMAD5	gene_body	1	-40.5	no-SNP		no
+7	24677778	SMAD5	gene_body	1	-34.2	no-SNP		no
+7	24677828	SMAD5	gene_body	1	-22.2	near-SNP	6	no
+7	24677858	SMAD5	gene_body	1	-32.8	near-SNP	9	no
+7	24678701	SMAD5	gene_body	1	-33.8	no-SNP		no
+7	24678707	SMAD5	gene_body	1	-31.5	near-SNP	8	no
+7	24678719	SMAD5	gene_body	1	-18.8	near-SNP	4	no
+7	24678840	SMAD5	gene_body	1	-28.9	no-SNP		no
+7	24678858	SMAD5	gene_body	2	-30.4	near-SNP	10	no
+7	24678884	SMAD5	gene_body	2	-30.5	near-SNP	8	no
+7	24678897	SMAD5	gene_body	1	-44.4	near-SNP	5	no
+7	24678969	SMAD5	gene_body	1	-16.8	no-SNP		no
+7	24678970	SMAD5	gene_body	2	-17.5	no-SNP		no
+7	24679003	SMAD5	gene_body	1	-15.1	no-SNP		no
+7	24679007	SMAD5	gene_body	1	-16.7	no-SNP		no
+7	24679015	SMAD5	gene_body	1	-18.4	no-SNP		no
+7	24679029	SMAD5	gene_body	1	-25.0	no-SNP		no
+7	24679043	SMAD5	gene_body	1	-22.2	CpG-SNP	0	no
+7	24679060	SMAD5	gene_body	1	-25.0	near-SNP	9	no
+7	24679152	SMAD5	gene_body	1	25.0	no-SNP		no
+7	24697863	SMAD5	gene_body	3	56.0	near-SNP	2	no
+9	95965090	SOD2	promoter	1	-15.2	near-SNP	2	no
+9	95965650	SOD2	promoter	1	-17.3	no-SNP		no
+9	95965822	SOD2	promoter	1	-21.6	no-SNP		no
+9	95966169	SOD2	promoter	2	-18.7	no-SNP		no
+9	95978746	SOD2	upstream_distal	7	-54.5	CpG-SNP	1	no
+9	95981287	SOD2	upstream_distal	4	-31.7	CpG-SNP	1	no
+chr9	95953539	SOD2	downstream_distal	1	24.9	no-SNP		no
+chr9	95961980	SOD2	gene_body	1	-44.3	no-SNP		no
+chr9	95961981	SOD2	gene_body	2	-28.5	no-SNP		no
+chr9	95962053	SOD2	gene_body	1	16.3	no-SNP		no
+chr9	95962054	SOD2	gene_body	1	15.4	no-SNP		no
+chr9	95966986	SOD2	promoter	1	16.8	no-SNP		no
+27	33300214	STAR	downstream_distal	2	15.8	CpG-SNP	1	no
+27	33300220	STAR	downstream_distal	1	20.5	CpG-SNP	1	no
+27	33302220	STAR	downstream_distal	1	19.4	no-SNP		no
+27	33319025	STAR	gene_body	1	39.3	CpG-SNP	0	no
+27	33320209	STAR	promoter	1	22.7	near-SNP	5	no
+27	33320210	STAR	promoter	1	22.2	near-SNP	4	no
+27	33320250	STAR	promoter	1	28.4	near-SNP	3	no
+27	33320252	STAR	promoter	1	-24.1	near-SNP	5	no
+chr27	33331044	STAR	upstream_distal	1	80.1	no-SNP		no
+chr27	33331208	STAR	upstream_distal	1	69.9	no-SNP		no
+19	33253254	STAT3	upstream_distal	1	-18.4	no-SNP		no
+19	33274165	STAT3	gene_body	4	0.2	no-SNP		no
+19	33274169	STAT3	gene_body	2	34.3	near-SNP	10	no
+19	33274208	STAT3	gene_body	2	-21.6	no-SNP		no
+19	33274736	STAT3	gene_body	1	-20.8	near-SNP	4	no
+19	33275289	STAT3	gene_body	1	-16.7	no-SNP		no
+19	33275294	STAT3	gene_body	1	-16.7	near-SNP	9	no
+19	33275303	STAT3	gene_body	2	-22.9	CpG-SNP	0	no
+19	33275312	STAT3	gene_body	1	-16.7	near-SNP	2	no
+19	33275314	STAT3	gene_body	1	-16.7	CpG-SNP	0	no
+19	33275318	STAT3	gene_body	1	-25.0	CpG-SNP	1	no
+19	33275355	STAT3	gene_body	1	-17.8	no-SNP		no
+19	33275407	STAT3	gene_body	1	-20.8	near-SNP	4	no
+19	33275408	STAT3	gene_body	1	-19.4	near-SNP	3	no
+19	33275422	STAT3	gene_body	1	-15.8	CpG-SNP	0	no
+19	33278387	STAT3	gene_body	2	-24.9	no-SNP		no
+19	33281076	STAT3	gene_body	8	54.8	CpG-SNP	1	no
+19	33281092	STAT3	gene_body	1	23.7	no-SNP	20	no
+19	33281873	STAT3	gene_body	1	-20.9	no-SNP		no
+19	33281874	STAT3	gene_body	1	-18.2	no-SNP		no
+19	33300281	STAT3	gene_body	1	-20.5	CpG-SNP	0	no
+19	33327197	STAT3	downstream_distal	1	16.1	no-SNP		no
+23	27543479	TNF	gene_body	1	-55.0	CpG-SNP	0	no
+23	27543480	TNF	gene_body	3	-29.8	CpG-SNP	0	no
+23	27544108	TNF	gene_body	2	-1.1	CpG-SNP	0	no
+23	27544648	TNF	gene_body	1	20.8	near-SNP	4	no
+23	27544762	TNF	gene_body	3	9.9	no-SNP	70	no
+23	27547131	TNF	downstream_distal	1	21.4	CpG-SNP	0	no
+23	27554540	TNF	downstream_distal	1	-20.7	near-SNP	5	no
+23	27555037	TNF	downstream_distal	1	-17.4	CpG-SNP	0	no
+23	27555042	TNF	downstream_distal	2	-39.3	CpG-SNP	0	no
+23	27557713	TNF	downstream_distal	1	-41.7	no-SNP		no
+23	27557743	TNF	downstream_distal	1	30.3	no-SNP		no
+23	27558884	TNF	downstream_distal	2	24.5	no-SNP		no
+23	27559577	TNF	downstream_distal	1	25.9	no-SNP		no
+23	27559581	TNF	downstream_distal	1	18.3	no-SNP		no
+23	27559603	TNF	downstream_distal	1	19.4	no-SNP		no
+13	31653978	VIM	promoter	1	-16.7	near-SNP	4	no
+14	63393126	YWHAZ	promoter	1	-20.8	CpG-SNP	1	no
+14	63393605	YWHAZ	promoter	1	15.4	CpG-SNP	1	no
+14	63395228	YWHAZ	promoter	1	-17.6	near-SNP	3	no
+14	63395455	YWHAZ	promoter	1	-20.0	near-SNP	4	no
+14	63395641	YWHAZ	promoter	1	-21.9	near-SNP	10	no
+14	63407976	YWHAZ	gene_body	4	21.3	near-SNP	10	no
+14	63408004	YWHAZ	gene_body	1	55.1	no-SNP		no

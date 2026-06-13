@@ -1,0 +1,32 @@
+gene	priority_tier	meth_direction	concordance	expr_best_log2fc	in_AIM_fst030	AIM_elite_fst045	max_Fst_GirHol	layer_class	high_tier
+GHSR	alta	hypo	concordant_repressive	5.92	no	no		epi-dominant	yes
+HSPA2	alta	hypo	concordant_repressive	1.97	no	no		epi-dominant	yes
+HSPB1	alta	hypo	concordant_repressive	1.44	no	no		epi-dominant	yes
+ISG15	alta	hypo	concordant_repressive	2.66	no	no		epi-dominant	yes
+ITGB3	alta	hyper	concordant_repressive	-1.83	no	no		epi-dominant	yes
+KRT18	alta	hypo	concordant_repressive	3.85	no	no		epi-dominant	yes
+MX1	alta	hypo	concordant_repressive	1.4	no	no		epi-dominant	yes
+PRLR	alta	hypo	concordant_repressive	2.27	no	no		epi-dominant	yes
+ACTB	média	hyper	discordant	1.1	no	no		epi-dominant	no
+BMP15	baixa	hyper	discordant	5.16	no	no		epi-dominant	no
+CASP3	baixa	hypo	discordant	-1.61	no	no		epi-dominant	no
+DNAJB1	média	hypo	concordant_repressive	1.17	no	no		epi-dominant	no
+DNLZ	média	hyper	discordant	2.12	no	no		epi-dominant	no
+GNAS	média	hypo	concordant_repressive	1.8	no	no		epi-dominant	no
+HOXA10	média	hypo	discordant	-3.79	no	no		epi-dominant	no
+HPRT1	média	hypo	discordant	-1.06	no	no		epi-dominant	no
+HSPA12B	média	hypo	discordant	-1.27	no	no		epi-dominant	no
+HSPA5	média	hyper	discordant	2.4	no	no		epi-dominant	no
+MSTN	baixa	hyper	discordant	5.76	no	no		epi-dominant	no
+MX2	média	hypo	concordant_repressive	2.4	no	no		epi-dominant	no
+PAG1	média	hypo	discordant	-1.96	no	no		epi-dominant	no
+SMAD5	baixa	hypo	discordant	-1.35	no	no		epi-dominant	no
+STAT3	média	hypo	concordant_repressive	1.73	no	no		epi-dominant	no
+VIM	média	hypo	concordant_repressive	1.95	no	no		epi-dominant	no
+ABCG2	média	hypo	discordant	-2.14	yes	no	0.394	triple	no
+CYP11A1	baixa	hyper	discordant	7.42	yes	no	0.375	triple	no
+GH1	média	hyper	discordant	12.76	yes	yes	0.504	triple	no
+IGF1	baixa	hyper	discordant	1.6	yes	no	0.318	triple	no
+OAS1Z	média	hyper	concordant_repressive	-2.6	yes	no	0.311	triple	no
+RPL19	baixa	hyper	discordant	2.08	yes	no	0.303	triple	no
+RSAD2	média	hypo	discordant	-3.16	yes	no	0.333	triple	no
