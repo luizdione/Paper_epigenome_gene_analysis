@@ -6,7 +6,7 @@ Usa methylation_matrix.csv já produzido por prepare_mofa2.R.
 Salva: mofa2_model.hdf5, mofa2_trained_summary.json
 
 Uso (dentro do container epigenoma_env):
-    python3 /home/rstudio/projeto/scripts/R/run_mofa2_python_direct.py
+    python3 ./scripts/R/run_mofa2_python_direct.py
 """
 
 import sys, json, time, warnings
@@ -14,7 +14,7 @@ import numpy as np
 import pandas as pd
 warnings.filterwarnings("ignore")
 
-OUT_DIR  = "/home/rstudio/projeto/results/SUB01_GSE161113_run04/fase6_mofa2"
+OUT_DIR  = "./results/SUB01_GSE161113_run04/fase6_mofa2"
 CSV_PATH = f"{OUT_DIR}/methylation_matrix.csv"
 HDF5_OUT = f"{OUT_DIR}/mofa2_model.hdf5"
 RDS_OUT  = f"{OUT_DIR}/mofa2_trained.rds"  # marcador para o R saber que terminou

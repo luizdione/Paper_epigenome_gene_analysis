@@ -6,7 +6,7 @@ suppressPackageStartupMessages({
   library(MOFA2)
 })
 
-out_dir <- "/home/rstudio/projeto/results/SUB01_GSE161113_run04/fase6_mofa2"
+out_dir <- "./results/SUB01_GSE161113_run04/fase6_mofa2"
 rds_path <- file.path(out_dir, "mofa2_input.rds")
 
 cat("=== MOFA2 Execucao ===\n")

@@ -10,7 +10,7 @@ suppressPackageStartupMessages({
 })
 
 # Caminhos (dentro do container)
-PROJ      <- "/home/rstudio/projeto"
+PROJ      <- "."
 DATA_DIR  <- "/data/epigenomas/NCBI_GSE161113"
 META_FILE <- file.path(PROJ, "samples_GSE161113_demo.csv")
 DMC_FILE  <- file.path(PROJ, "scripts/results/SUB001_GSE161113_run_oficial/fase2_intersect/dmrs_in_target_genes.csv")

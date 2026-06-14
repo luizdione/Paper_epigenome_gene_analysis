@@ -1,15 +1,15 @@
 #!/bin/bash
 # Fase 3 — TSS Methylation Profile com janela ±10 kb
 # Apenas amostras de Junho (run04 canônico: Angus=treat=1, Nelore=treat=0)
-# Executar dentro do container: docker exec epigenoma_env bash /home/rstudio/projeto/scripts/pipeline/run_fase3_10kb.sh
+# Executar dentro do container: docker exec epigenoma_env bash ./scripts/pipeline/run_fase3_10kb.sh
 
 set -e
 
 DATA="/data/epigenomas/NCBI_GSE161113"
 JSON="/data/genes_alvo/all_target_genes_coordinates.json"
-SCRIPT="/home/rstudio/projeto/scripts/pipeline/tss_methylation_profile.py"
-OUT="/home/rstudio/projeto/results/SUB01_GSE161113_run04/fase3_deeptools_10kb"
-LOG="/home/rstudio/projeto/results/SUB01_GSE161113_run04/logs/fase3_10kb.log"
+SCRIPT="./scripts/pipeline/tss_methylation_profile.py"
+OUT="./results/SUB01_GSE161113_run04/fase3_deeptools_10kb"
+LOG="./results/SUB01_GSE161113_run04/logs/fase3_10kb.log"
 
 mkdir -p "$OUT"
 mkdir -p "$(dirname $LOG)"

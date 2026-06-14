@@ -5,7 +5,7 @@
 # Saída: results/SUB02_runs/<comp>/fase2_intersect/dmrs_in_target_genes.csv
 # =============================================================================
 set -uo pipefail
-PROJ_DIR="${PROJ_DIR:-/home/rstudio/projeto}"
+PROJ_DIR="${PROJ_DIR:-.}"
 OUT_BASE="$PROJ_DIR/results/SUB02_runs"
 JSON="$PROJ_DIR/subprojeto/SUB02/SUB02_target_genes_coordinates.json"
 ISECT="$PROJ_DIR/scripts/pipeline/intersect_dmrs_genes.py"

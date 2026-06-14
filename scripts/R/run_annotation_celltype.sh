@@ -5,7 +5,7 @@
 # ponte multi-ômica (bridge_deg_dmr.py) consome.
 # =============================================================================
 set -uo pipefail
-PROJ_DIR="${PROJ_DIR:-/home/rstudio/projeto}"
+PROJ_DIR="${PROJ_DIR:-.}"
 SUB02_DIR="$PROJ_DIR/subprojeto/SUB02"
 OUT_BASE="$PROJ_DIR/results/SUB02_runs"
 SCRIPT_R="$PROJ_DIR/scripts/R/run_annotation_glm.R"

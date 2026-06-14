@@ -29,8 +29,8 @@ USO:
   python3 extract_sequences_v2.py \\
       --reference /data/genome_reference/ARS-UCD1.3/Bos_taurus.ARS-UCD1.3.dna.toplevel.fa \\
       --vcf-dir /data/1000bg_vcf \\
-      --json /home/rstudio/projeto/subprojeto/SUB01/SUB01_target_genes_coordinates.json \\
-      --out /home/rstudio/projeto/subprojeto/SUB01/SUB01_reference_sequences.fa \\
+      --json ./subprojeto/SUB01/SUB01_target_genes_coordinates.json \\
+      --out ./subprojeto/SUB01/SUB01_reference_sequences.fa \\
       --window 500
 """
 from __future__ import annotations

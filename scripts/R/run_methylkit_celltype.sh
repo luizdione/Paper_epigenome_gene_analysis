@@ -8,10 +8,10 @@
 # Mesmos parametros do restante do SUB02: mincov=5, qvalue=0.05, diff 15 e 25.
 #
 # Uso (dentro do container epigenoma_env):
-#   bash /home/rstudio/projeto/scripts/R/run_methylkit_celltype.sh
+#   bash ./scripts/R/run_methylkit_celltype.sh
 # =============================================================================
 set -uo pipefail
-PROJ_DIR="${PROJ_DIR:-/home/rstudio/projeto}"
+PROJ_DIR="${PROJ_DIR:-.}"
 DATA_DIR="${DATA_DIR:-/data/epigenomas/ZENODO19555520}"
 SUB02_DIR="$PROJ_DIR/subprojeto/SUB02"
 OUT_BASE="$PROJ_DIR/results/SUB02_runs"

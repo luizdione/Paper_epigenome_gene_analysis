@@ -23,7 +23,7 @@ from collections import defaultdict
 from pathlib import Path
 import pysam
 
-PROJ = Path("/home/rstudio/projeto")
+PROJ = Path(".")
 RUNS = PROJ / "results" / "SUB02_runs"
 VCFDIR = Path("/data/1000bg_vcf")
 OUT = RUNS / "_cissnp"; OUT.mkdir(parents=True, exist_ok=True)

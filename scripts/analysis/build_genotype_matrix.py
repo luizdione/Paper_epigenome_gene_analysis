@@ -32,7 +32,7 @@ from pathlib import Path
 for _pip_path in [
     '/usr/local/lib/python3.10/dist-packages',
     '/usr/lib/python3/dist-packages',
-    '/home/rstudio/.local/lib/python3.10/site-packages',
+    os.path.expanduser('~/.local/lib/python3.10/site-packages'),
 ]:
     if _pip_path not in sys.path:
         sys.path.insert(0, _pip_path)
@@ -40,9 +40,9 @@ for _pip_path in [
 # ─── Caminhos ─────────────────────────────────────────────────────────────────
 VCF_DIR    = Path("/data/1000bg_vcf")
 META_DIR   = Path("/data/1000bg_metadata")
-JSON_PATH  = Path("/home/rstudio/projeto/subprojeto/SUB001/SUB001_target_genes_coordinates.json")
-SAMPLES_CSV = Path("/home/rstudio/projeto/samples_GSE161113_demo.csv")
-OUT_DIR    = Path("/home/rstudio/projeto/scripts/results/SUB001_GSE161113_run_oficial/fase6_mofa2")
+JSON_PATH  = Path("./subprojeto/SUB001/SUB001_target_genes_coordinates.json")
+SAMPLES_CSV = Path("./samples_GSE161113_demo.csv")
+OUT_DIR    = Path("./scripts/results/SUB001_GSE161113_run_oficial/fase6_mofa2")
 
 # Filtros de qualidade
 MIN_MAF          = 0.01   # frequência alélica mínima (em qualquer raça)

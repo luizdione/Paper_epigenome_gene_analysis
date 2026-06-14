@@ -18,7 +18,7 @@ suppressPackageStartupMessages({
   library(MOFA2)
 })
 
-PROJ    <- "/home/rstudio/projeto"
+PROJ    <- "."
 OUT_DIR <- file.path(PROJ, "scripts/results/SUB001_GSE161113_run_oficial/fase6_mofa2")
 dir.create(OUT_DIR, recursive = TRUE, showWarnings = FALSE)
 

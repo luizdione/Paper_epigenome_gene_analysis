@@ -5,9 +5,9 @@
 # =============================================================================
 set -uo pipefail
 
-SCRIPT="/home/rstudio/projeto/scripts/pipeline/tss_methylation_profile.py"
-JSON="/home/rstudio/projeto/subprojeto/SUB02/SUB02_target_genes_coordinates.json"
-OUT_BASE="/home/rstudio/projeto/results/SUB02_runs"
+SCRIPT="./scripts/pipeline/tss_methylation_profile.py"
+JSON="./subprojeto/SUB02/SUB02_target_genes_coordinates.json"
+OUT_BASE="./results/SUB02_runs"
 GSE="/data/epigenomas/NCBI_GSE161113"
 ZEN="/data/epigenomas/ZENODO19555520"
 

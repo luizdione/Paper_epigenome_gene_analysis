@@ -2,7 +2,7 @@
 """Valida outputs da Fase 3 TSS ±10 kb."""
 import csv, os
 
-OUT = "/home/rstudio/projeto/results/SUB01_GSE161113_run04/fase3_deeptools_10kb"
+OUT = "./results/SUB01_GSE161113_run04/fase3_deeptools_10kb"
 
 # Verificar arquivos
 files = ["matrix_Angus.csv", "matrix_Nelore.csv",

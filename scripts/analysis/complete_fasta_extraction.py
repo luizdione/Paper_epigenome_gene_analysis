@@ -32,7 +32,7 @@ from pathlib import Path
 for _pip_path in [
     '/usr/local/lib/python3.10/dist-packages',
     '/usr/lib/python3/dist-packages',
-    '/home/rstudio/.local/lib/python3.10/site-packages',
+    os.path.expanduser('~/.local/lib/python3.10/site-packages'),
 ]:
     if _pip_path not in sys.path:
         sys.path.insert(0, _pip_path)
@@ -40,7 +40,7 @@ for _pip_path in [
 # ─── CLI ──────────────────────────────────────────────────────────────────────
 ap = argparse.ArgumentParser(description="Append sequências FASTA faltantes (genes do subprojeto)")
 ap.add_argument("--sub", default=None, help="ID do subprojeto (ex: SUB01). Default: lê config.")
-ap.add_argument("--base", default="/home/rstudio/projeto", help="Diretório base do projeto")
+ap.add_argument("--base", default=".", help="Diretório base do projeto")
 ap.add_argument("--vcf-dir", default="/data/1000bg_vcf", help="Diretório com VCFs do 1000 Bull Genomes")
 ap.add_argument("--window", type=int, default=500, help="Flanking ±N pb ao redor do gene")
 ap.add_argument("--min-density", type=float, default=0.0,

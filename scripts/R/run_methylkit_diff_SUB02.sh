@@ -18,7 +18,7 @@
 # =============================================================================
 
 set -euo pipefail
-PROJ_DIR="${PROJ_DIR:-/home/rstudio/projeto}"
+PROJ_DIR="${PROJ_DIR:-.}"
 DATA_DIR="${DATA_DIR:-/data/epigenomas}"
 SUB02_DIR="$PROJ_DIR/subprojeto/SUB02"
 OUT_BASE="$PROJ_DIR/results/SUB02_runs"

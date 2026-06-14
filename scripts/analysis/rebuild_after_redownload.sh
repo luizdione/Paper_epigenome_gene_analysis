@@ -7,10 +7,10 @@
 #   2. Re-rodar rebuild_fasta_missing_genes.py para preencher os 8 genes
 #
 # Uso (no container Docker):
-#   docker exec epigenoma_env bash /home/rstudio/projeto/scripts/rebuild_after_redownload.sh
+#   docker exec epigenoma_env bash ./scripts/rebuild_after_redownload.sh
 
 set -e
-cd /home/rstudio/projeto
+cd .
 
 echo "=== [1/3] Verificando integridade dos VCFs re-baixados ==="
 python3 scripts/check_vcf_integrity_fast.py /data/1000bg_vcf --quick

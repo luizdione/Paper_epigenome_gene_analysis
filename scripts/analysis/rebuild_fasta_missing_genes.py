@@ -23,7 +23,7 @@ import pysam
 
 ap = argparse.ArgumentParser()
 ap.add_argument("--sub", default=None)
-ap.add_argument("--base", default="/home/rstudio/projeto")
+ap.add_argument("--base", default=".")
 ap.add_argument("--vcf-dir", default="/data/1000bg_vcf")
 ap.add_argument("--window", type=int, default=500)
 ap.add_argument("--min-density", type=float, default=0.0)

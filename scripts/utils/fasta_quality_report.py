@@ -4,7 +4,7 @@ import json
 import sys
 from pathlib import Path
 
-base = Path("/home/rstudio/projeto")
+base = Path(".")
 sub = sys.argv[1] if len(sys.argv) > 1 else "SUB01"
 fa = base / "subprojeto" / sub / f"{sub}_reference_sequences.fa"
 js = base / "subprojeto" / sub / f"{sub}_target_genes_coordinates.json"

@@ -48,7 +48,7 @@ from pathlib import Path
 for _pip_path in [
     '/usr/local/lib/python3.10/dist-packages',
     '/usr/lib/python3/dist-packages',
-    '/home/rstudio/.local/lib/python3.10/site-packages',
+    os.path.expanduser('~/.local/lib/python3.10/site-packages'),
 ]:
     if _pip_path not in sys.path:
         sys.path.insert(0, _pip_path)
