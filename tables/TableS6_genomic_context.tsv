@@ -1,32 +1,48 @@
-gene	priority_tier	meth_direction	concordance	expr_best_log2fc	in_AIM_fst030	AIM_elite_fst045	max_Fst_GirHol	layer_class	high_tier
-GHSR	alta	hypo	concordant_repressive	5.92	no	no		epi-dominant	yes
-HSPA2	alta	hypo	concordant_repressive	1.97	no	no		epi-dominant	yes
-HSPB1	alta	hypo	concordant_repressive	1.44	no	no		epi-dominant	yes
-ISG15	alta	hypo	concordant_repressive	2.66	no	no		epi-dominant	yes
-ITGB3	alta	hyper	concordant_repressive	-1.83	no	no		epi-dominant	yes
-KRT18	alta	hypo	concordant_repressive	3.85	no	no		epi-dominant	yes
-MX1	alta	hypo	concordant_repressive	1.4	no	no		epi-dominant	yes
-PRLR	alta	hypo	concordant_repressive	2.27	no	no		epi-dominant	yes
-ACTB	média	hyper	discordant	1.1	no	no		epi-dominant	no
-BMP15	baixa	hyper	discordant	5.16	no	no		epi-dominant	no
-CASP3	baixa	hypo	discordant	-1.61	no	no		epi-dominant	no
-DNAJB1	média	hypo	concordant_repressive	1.17	no	no		epi-dominant	no
-DNLZ	média	hyper	discordant	2.12	no	no		epi-dominant	no
-GNAS	média	hypo	concordant_repressive	1.8	no	no		epi-dominant	no
-HOXA10	média	hypo	discordant	-3.79	no	no		epi-dominant	no
-HPRT1	média	hypo	discordant	-1.06	no	no		epi-dominant	no
-HSPA12B	média	hypo	discordant	-1.27	no	no		epi-dominant	no
-HSPA5	média	hyper	discordant	2.4	no	no		epi-dominant	no
-MSTN	baixa	hyper	discordant	5.76	no	no		epi-dominant	no
-MX2	média	hypo	concordant_repressive	2.4	no	no		epi-dominant	no
-PAG1	média	hypo	discordant	-1.96	no	no		epi-dominant	no
-SMAD5	baixa	hypo	discordant	-1.35	no	no		epi-dominant	no
-STAT3	média	hypo	concordant_repressive	1.73	no	no		epi-dominant	no
-VIM	média	hypo	concordant_repressive	1.95	no	no		epi-dominant	no
-ABCG2	média	hypo	discordant	-2.14	yes	no	0.394	triple	no
-CYP11A1	baixa	hyper	discordant	7.42	yes	no	0.375	triple	no
-GH1	média	hyper	discordant	12.76	yes	yes	0.504	triple	no
-IGF1	baixa	hyper	discordant	1.6	yes	no	0.318	triple	no
-OAS1Z	média	hyper	concordant_repressive	-2.6	yes	no	0.311	triple	no
-RPL19	baixa	hyper	discordant	2.08	yes	no	0.303	triple	no
-RSAD2	média	hypo	discordant	-3.16	yes	no	0.333	triple	no
+gene	priority_tier	concordance	in_AIM_fst030	in_AIM_fst045_elite	max_Fst_GirHol	genomic_context
+ABCG2	média	discordant	True	False	0.394	triple_convergence
+CYP11A1	baixa	discordant	True	False	0.375	triple_convergence
+GH1	média	discordant	True	True	0.504	triple_convergence
+OAS1Z	baixa	discordant	True	False	0.311	triple_convergence
+RPL19	baixa	discordant	True	False	0.303	triple_convergence
+RSAD2	média	discordant	True	False	0.333	triple_convergence
+ACTB	média	discordant	False	False		epi_dominant
+ATF4	baixa	discordant	False	False		epi_dominant
+BMP15	média	concordant_repressive	False	False		epi_dominant
+CASP3	baixa	discordant	False	False		epi_dominant
+CD83	baixa	discordant	False	False		epi_dominant
+CSN3	média	concordant_repressive	False	False		epi_dominant
+DNAJB1	média	concordant_repressive	False	False		epi_dominant
+DNAJB4	média	concordant_repressive	False	False		epi_dominant
+DNLZ	média	discordant	False	False		epi_dominant
+DTX1	média	discordant	False	False		epi_dominant
+EIF2AK2	média	discordant	False	False		epi_dominant
+ERN1	alta	concordant_repressive	False	False		epi_dominant
+GHSR	alta	concordant_repressive	False	False		epi_dominant
+GNAS	média	concordant_repressive	False	False		epi_dominant
+GRHL3	alta	concordant_repressive	False	False		epi_dominant
+HMGB1	baixa	discordant	False	False		epi_dominant
+HOXA10	média	discordant	False	False		epi_dominant
+HPRT1	média	discordant	False	False		epi_dominant
+HSPA12B	média	discordant	False	False		epi_dominant
+HSPA2	alta	concordant_repressive	False	False		epi_dominant
+HSPA5	média	discordant	False	False		epi_dominant
+HSPB1	alta	concordant_repressive	False	False		epi_dominant
+ISG15	alta	concordant_repressive	False	False		epi_dominant
+ITGB1	média	discordant	False	False		epi_dominant
+ITGB3	alta	concordant_repressive	False	False		epi_dominant
+KRT18	média	discordant	False	False		epi_dominant
+LGALS3	alta	concordant_repressive	False	False		epi_dominant
+MSTN	média	discordant	False	False		epi_dominant
+MX1	média	discordant	False	False		epi_dominant
+MX2	média	concordant_repressive	False	False		epi_dominant
+MYO5A	baixa	discordant	False	False		epi_dominant
+PADI4	alta	concordant_repressive	False	False		epi_dominant
+PAG1	média	discordant	False	False		epi_dominant
+PRLR	alta	concordant_repressive	False	False		epi_dominant
+SMAD5	baixa	discordant	False	False		epi_dominant
+SPP1	baixa	discordant	False	False		epi_dominant
+STAT3	média	concordant_repressive	False	False		epi_dominant
+TREM2	média	concordant_repressive	False	False		epi_dominant
+VIM	média	discordant	False	False		epi_dominant
+WNT7A	média	discordant	False	False		epi_dominant
+XBP1	média	concordant_repressive	False	False		epi_dominant

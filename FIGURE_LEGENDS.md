@@ -1,38 +1,13 @@
 # Figure legends
 
-**Fig01_discovery_dmc.png** — Constitutive methylation divergence between Angus and Nelore
-(discovery). Distribution of the 39 significant differentially methylated cytosines (DMCs;
-BH-FDR < 0.05, |Δβ| > 15%) and their mapping to the 53-gene panel; directionality
-(29 hyper / 10 hypo in the taurine background) and positional buckets (gene body, distal
-upstream, downstream, promoter).
+**Fig01_discovery_dmc.png** — Constitutive methylation divergence between Angus and Nelore (discovery; 108-gene panel, ±15 kb windows). Distribution of the 160 significant differentially methylated cytosines (DMCs; BH-FDR < 0.05, |Δβ| > 15%; 90 hyper / 70 hypo in the taurine background) across positional buckets (distal upstream, proximal promoter, gene body, distal downstream); genes ranked by DMC count (densest at the tick-resistance gene PRSS16 with 23 DMCs, then the chaperone HSP90AA1 with 14); and the leading principal component (PC1, 53.9% of variance) separating the five Angus from the five Nelore.
 
-**Fig02_celltype_dmc.png** — DMCs per contrast across the thirteen systematisation contrasts
-at the two effect-size thresholds (|Δβ| > 15% and > 25%), highlighting the subspecies-over-season
-gradient and the lymphoid-over-myeloid gradient across the seven purified immune cell types
-(CD4, CD8, B, γδ-T, granulocyte, monocyte, NK).
+**Fig02_celltype_dmc.png** — DMCs per contrast across the thirteen systematisation contrasts at the two effect-size thresholds (|Δβ| > 15% and > 25%), highlighting the subspecies-over-season gradient and the lymphoid-over-myeloid gradient across the seven purified immune cell types (CD4, CD8, B, γδ-T, granulocyte, monocyte, NK).
 
-**Fig03_bridge_concordance.png** — Multi-omic bridge. Each point is a gene differentially
-methylated in the systematisation contrasts (x: regulatory Δβ, promoter/upstream when available)
-and differentially expressed under heat stress (y: log2 fold-change). Green denotes canonical
-repressive concordance; point size is proportional to the priority score; an asterisk marks a
-gene carrying a promoter DMC.
+**Fig03_bridge_concordance.png** — Multi-omic bridge. Each point is a gene differentially methylated in the systematisation contrasts (x: regulatory Δβ, promoter/upstream when available) and differentially expressed under heat stress (y: log2 fold-change). Green denotes canonical repressive concordance; point size is proportional to the priority score; an asterisk marks a gene carrying a promoter DMC.
 
-**Fig04_module_enrichment.png** — Functional-module enrichment among the concordant genes
-(hypergeometric test against the 73-gene panel). The interferon-stimulated-gene module is
-significantly over-represented (4/7, p = 0.022); the thermotolerance (HSP) and
-somatotropic/weight-gain modules are nominally but not significantly enriched.
+**Fig04_module_enrichment.png** — Functional-module representation among the 19 concordant genes (hypergeometric test with the curated 108-gene panel as the universe). The thermotolerance/heat-shock module carries the most concordant genes (5/21, p = 0.29) and the unfolded-protein-response module the lowest nominal p (2/5, p = 0.21), with the interferon-stimulated-gene module at 2/7 (p = 0.36). Because the universe is the curated panel rather than a genome-wide background, these are within-panel tendencies; no module survives Benjamini–Hochberg correction.
 
-**Fig05_C6_validation.png** — Orthogonal validation in Angus-versus-Brahman fetal-liver WGBS
-(MacPhillamy et al. 2024). Of 31 bridge candidates, 17 carry a fetal-liver DMR and 8 in the same
-taurine-versus-indicine direction; the somatotropic/heat-shock candidates (GHSR, HSPA2, PRLR)
-are corroborated across assay and tissue, while the interferon candidates remain
-blood/immune-restricted.
+**Fig05_C6_validation.png** — Orthogonal validation in Angus-versus-Brahman fetal-liver WGBS (MacPhillamy et al. 2024). Of the 47 bridge candidates, 25 carry a fetal-liver DMR and 15 in the same taurine-versus-indicine direction; the somatotropic/heat-shock candidates (GHSR, HSPA2, PRLR) are corroborated across assay and tissue, while ISG15 is blood/immune-restricted (no fetal-liver DMR).
 
-**Fig06_genomic_context.png** — Genomic context and matched-sample validation.
-(A) cis-genetic classification of 1908 subspecies DMCs against the 1000 Bull Genomes
-taurine/indicine catalogue — a position with no SNP within ±10 bp is genuinely epigenetic.
-(B) genomic differentiation of the 31 bridge candidates (Gir-versus-Holstein Fst /
-ancestry-informative markers): all eight high-tier candidates are epi-dominant.
-(C) matched-sample Spearman correlation of promoter methylation versus expression across ten
-tissues of one Holstein cow (Zhou et al. 2020); 35/55 genes show the expected negative
-(repressive) correlation.
+**Fig06_genomic_context.png** — Genomic context and matched-sample validation. (A) cis-genetic classification of 2719 subspecies DMCs against the 1000 Bull Genomes taurine/indicine catalogue: 45.9% carry no SNP within ±10 bp (genuinely epigenetic), 28.8% a nearby SNP, 25.3% a CpG-disrupting SNP. (B) genomic differentiation of the 47 bridge candidates (Gir-versus-Holstein Fst / ancestry-informative markers): all ten high-tier candidates are epi-dominant, with 6/47 (ABCG2, CYP11A1, GH1, OAS1Z, RPL19, RSAD2) also ancestry-differentiated. (C) matched-sample Spearman correlation of promoter methylation versus expression across ten tissues of one Holstein cow (Zhou et al. 2020); 61/88 crossed genes show the expected negative (repressive) correlation, with ISG15 the strongest high-tier candidate (r = −0.67, p = 0.033).

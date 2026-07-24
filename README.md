@@ -18,7 +18,7 @@ figures (with legends)** of the analysis.
   - `pipeline/` — DMR–gene intersection; TF-motif scan; TSS methylation profiles; orchestration
   - `data/` — retrieval/preparation of the public datasets and sample sheets
   - `analysis/`, `utils/` — sequence extraction, genotype matrices, QC
-- `tables/` — supplementary tables S1–S8 (`.tsv`) and a consolidated workbook (`.xlsx`)
+- `tables/` — supplementary result tables (`.tsv`)
 - `figures/` — result figures `Fig01`–`Fig06` (`.png`)
 - `FIGURE_LEGENDS.md`, `TABLE_LEGENDS.md` — legends for the figures and tables
 
@@ -31,7 +31,7 @@ figures (with legends)** of the analysis.
 - **Zhou et al. (2020), GEO GSE147087 + GSE137943** — matched WGBS + RNA-seq taurine tissue atlas
 - Heat-stress transcriptome: companion RNA-seq differentially-expressed-gene sets (four tissues)
 
-Reference assembly: **ARS-UCD1.3**.
+Reference assembly: **ARS-UCD1.2** (methylation layer) and **ARS-UCD1.3** (companion variant layer); the autosomal target-gene coordinates are identical between the two.
 
 ## Methods (summary)
 methylKit (logistic regression, overdispersion correction, Benjamini–Hochberg FDR) for
