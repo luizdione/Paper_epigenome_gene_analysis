@@ -1,0 +1,9 @@
+# Integridade de binarios: sem conversao de fim de linha (evita corromper PDF/figuras)
+*.pdf binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.xlsx binary
+# Dados tabulares em texto: LF canonico
+*.tsv text eol=lf
+*.csv text eol=lf
