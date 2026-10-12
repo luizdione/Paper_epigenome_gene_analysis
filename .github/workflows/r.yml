@@ -24,7 +24,7 @@ jobs:
 
       - name: Parse all R scripts (syntax check; the Bioconductor pipeline itself runs in the project container)
         run: |
-          files <- list.files("scripts/R", pattern = "\.R$", full.names = TRUE)
+          files <- list.files("scripts/R", pattern = "[.]R$", full.names = TRUE)
           for (f in files) { parse(f, encoding = "UTF-8"); cat("ok", f, "\n") }
           cat(length(files), "R scripts parsed\n")
         shell: Rscript {0}
