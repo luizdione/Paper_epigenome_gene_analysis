@@ -79,4 +79,8 @@ def main():
         # Pausa de 0.5s para respeitar o limite de requisições da API da Ensembl (15 req/seg)
         time.sleep(0.5)
 
-    print("\n[Concluído]
+    print("\n[Concluído] Download de VCFs finalizado.")
+
+
+if __name__ == "__main__":
+    main()

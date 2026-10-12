@@ -1,34 +1,44 @@
-name: Python Package using Conda
+name: Python checks
 
-on: [push]
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+  workflow_dispatch:
+
+permissions:
+  contents: read
 
 jobs:
-  build-linux:
+  checks:
     runs-on: ubuntu-latest
-    strategy:
-      max-parallel: 5
-
     steps:
-    - uses: actions/checkout@v4
-    - name: Set up Python 3.10
-      uses: actions/setup-python@v3
-      with:
-        python-version: '3.10'
-    - name: Add conda to system path
-      run: |
-        # $CONDA is an environment variable pointing to the root of the miniconda directory
-        echo $CONDA/bin >> $GITHUB_PATH
-    - name: Install dependencies
-      run: |
-        conda env update --file environment.yml --name base
-    - name: Lint with flake8
-      run: |
-        conda install flake8
-        # stop the build if there are Python syntax errors or undefined names
-        flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics
-        # exit-zero treats all errors as warnings. The GitHub editor is 127 chars wide
-        flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
-    - name: Test with pytest
-      run: |
-        conda install pytest
-        pytest
+      - uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: python -m pip install --quiet pandas numpy matplotlib openpyxl
+
+      - name: Byte-compile all Python scripts
+        run: python -m compileall -q scripts
+
+      - name: Re-export the supplementary tables from results/ and compare with tables/
+        run: |
+          python scripts/python/export_online_resources.py
+          git diff --exit-code --ignore-cr-at-eol -- tables/
+
+      - name: Regenerate the result figures from results/ (smoke test)
+        working-directory: scripts/python/figures
+        env:
+          FIG_OUT: ${{ runner.temp }}/figures
+        run: |
+          python make_fig01_discovery_108.py
+          python make_fig02_celltype_108.py
+          python make_figs345_108.py
+          python make_fig06_atlas_108.py
+          ls -la "$FIG_OUT"

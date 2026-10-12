@@ -47,7 +47,7 @@ def write(rows, cols, n):
         out.sort(key=lambda r: r.get("high_tier") != "yes")
     os.makedirs(OUT, exist_ok=True)
     with open(os.path.join(OUT, NAMES[n]), "w", encoding="utf-8", newline="") as f:
-        w = csv.DictWriter(f, fieldnames=cols, delimiter="\t", extrasaction="ignore")
+        w = csv.DictWriter(f, fieldnames=cols, delimiter="\t", extrasaction="ignore", lineterminator="\n")
         w.writeheader(); w.writerows(out)
     print("%s (%d rows)" % (NAMES[n], len(out)))
 

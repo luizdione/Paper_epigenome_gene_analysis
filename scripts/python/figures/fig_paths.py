@@ -33,7 +33,7 @@ PKG = os.path.abspath(os.path.join(HERE, "..", "..", ".."))        # raiz do rep
 EPI = os.environ.get("EPIGENOMA_ROOT", PKG)
 RESULTS = os.environ.get("EPIGENOMA_RESULTS", os.path.join(EPI, "results"))
 SUB02 = os.path.join(RESULTS, "SUB02_runs_108")
-DISC = os.path.join(RESULTS, "DISCOVERY_108_15kb_2026-07-07")
+DISC = os.path.join(RESULTS, "DISCOVERY_108_15kb")
 
 PROFILE = os.environ.get("FIG_PROFILE", "print")
 if PROFILE == "default":          # nome antigo do perfil v1

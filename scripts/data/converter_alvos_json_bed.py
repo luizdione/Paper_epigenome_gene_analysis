@@ -26,4 +26,5 @@ def json_to_bed():
     print(f"[Sucesso] Arquivo BED gerado em: {BED_PATH}")
 
 
-if __name__ == "_
+if __name__ == "__main__":
+    json_to_bed()
