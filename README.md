@@ -27,7 +27,7 @@ the result figures (with legends)** of the analysis.
   (13-contrast systematisation, multi-omic bridge, cis-SNP, motif, matched-atlas and
   fetal-liver layers; `AGGREGATE_108.json` is the machine-readable run summary);
   `ancestry/degs_x_aims_genes.tsv` (gene-level Gyr-versus-Holstein F<sub>ST</sub>/AIM status)
-- `tables/` — supplementary result tables, one per Online Resource (`OR01`–`OR11`, `.tsv`)
+- `tables/` — supplementary result tables, one per Online Resource (`OR01`–`OR11`, as `.tsv` and `.xlsx`)
 - `figures/` — result figures `Fig01`–`Fig06` (`.png`, 600 dpi, and `.pdf`)
 - `FIGURE_LEGENDS.md`, `TABLE_LEGENDS.md` — legends for the figures and tables
 
