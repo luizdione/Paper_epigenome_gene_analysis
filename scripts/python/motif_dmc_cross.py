@@ -21,10 +21,11 @@ except Exception:
 import csv
 from bisect import bisect_left
 from collections import defaultdict
+import os
 from pathlib import Path
 
 BASE = Path(__file__).resolve().parents[2]
-MBR = Path("E:/data/results/sub01/regulatory_motifs/motifbreakr_results.tsv")
+MBR = Path(os.environ.get("MOTIFBREAKR_TSV", "data/motifbreakr_results.tsv"))
 DMCS = BASE / "results" / "SUB02_runs" / "_cissnp" / "cissnp_table.tsv"
 OUT = BASE / "results" / "SUB02_runs" / "_motif_dmc"; OUT.mkdir(parents=True, exist_ok=True)
 
@@ -33,7 +34,7 @@ TARGET_TF = {"SP1": "SP1", "KLF4": "KLF4", "RELA": "NF-κB p65", "NFKB1": "NF-κ
              "NFKB2": "NF-κB", "REL": "NF-κB", "NFAC1": "NFAT", "NFATC1": "NFAT",
              "NFAC2": "NFAT", "NFATC2": "NFAT"}
 TIGHT, LOOSE = 10, 25
-HIGH_TIER = {"PRLR","GHSR","HSPA2","HSPB1","ISG15","MX1","ITGB3","KRT18"}
+HIGH_TIER = {"GHSR", "HSPA2", "HSPB1", "PRLR", "ITGB3", "ERN1", "GRHL3", "PADI4", "LGALS3", "ISG15"}
 
 
 def norm_chr(c):

@@ -20,6 +20,7 @@ try:
 except Exception:
     pass
 import gzip, json, csv, glob, re
+import os
 from pathlib import Path
 from bisect import bisect_right
 from collections import defaultdict
@@ -30,7 +31,7 @@ from scipy.stats import spearmanr
 import math
 
 BASE = Path(__file__).resolve().parents[2]
-ATLAS = Path("E:/data/epigenomas/Zhou_atlas")
+ATLAS = Path(os.environ.get("ZHOU_ATLAS_DIR", "data/Zhou_atlas"))
 EXTR = ATLAS / "extracted"
 FPKM = ATLAS / "GSE137943_fpkm.txt.gz"
 PANEL = BASE / "subprojeto" / "SUB02" / "SUB02_target_genes_coordinates.json"
@@ -40,7 +41,7 @@ OUT.mkdir(parents=True, exist_ok=True)
 ANIMAL = "3842"
 PROMOTER_UP, PROMOTER_DOWN = 2000, 500     # janela do promotor relativa ao TSS
 MIN_COV, MIN_CPG, MIN_TISSUES = 10, 3, 6    # critérios mínimos
-HIGH_TIER = {"PRLR","GHSR","HSPA2","HSPB1","ISG15","MX1","ITGB3","KRT18"}
+HIGH_TIER = {"GHSR", "HSPA2", "HSPB1", "PRLR", "ITGB3", "ERN1", "GRHL3", "PADI4", "LGALS3", "ISG15"}
 
 # tecido (token do nome do arquivo WGBS) -> código da coluna FPKM
 T2F = {"Adipose":"ADIP","Heart":"HEAR","Ileum":"ILEU","Kidney":"KIDN",

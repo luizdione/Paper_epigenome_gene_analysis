@@ -1,0 +1,35 @@
+ENRIQUECIMENTO DA PONTE — módulos funcionais + por comparação
+================================================================
+Genes concordantes (universo = painel de 108 genes): 19
+
+  Termotolerância (HSP)    5/21 (p=0.293)  DNAJB1,GNAS,HSPA2,HSPB1,PRLR
+  tick_resistance          3/19 (p=0.699)  GRHL3,PADI4,TREM2
+  UPR_heat_stress          2/5 (p=0.2115)  ERN1,XBP1
+  isg_panel                2/7 (p=0.3569)  ISG15,MX2
+  Produção de leite        1/12 (p=0.9149)  CSN3
+  embryo_development       1/2 (p=0.3223)  STAT3
+  oocyte_quality           1/2 (p=0.3223)  BMP15
+  thermotolerance_extra    1/6 (p=0.6963)  DNAJB4
+  weight_gain              1/3 (p=0.4437)  GHSR
+  uterine_receptivity      1/6 (p=0.6963)  ITGB3
+  galectin                 1/2 (p=0.3223)  LGALS3
+  housekeeping             0/5 (p=1.0)  
+  Termo-reprodução         0/10 (p=1.0)  
+  implantation             0/3 (p=1.0)  
+  weight_gain_reproduction 0/1 (p=1.0)  
+  trophoblast_adhesion     0/2 (p=1.0)  
+  qc_epithelial_marker     0/1 (p=1.0)  
+  qc_neg_control           0/1 (p=1.0)  
+
+Por comparação (genes da ponte / concordantes):
+  C10_zenodo_NEL_vs_HF_Bcell         35 / 14
+  C1_zenodo_NEL_vs_HF                34 / 13
+  C11_zenodo_NEL_vs_HF_gdT           33 / 11
+  C7_bonus_zenodo_NEL_vs_NDama       32 / 13
+  C9_zenodo_NEL_vs_HF_CD8            32 / 14
+  C8_zenodo_NEL_vs_HF_CD4            32 / 11
+  C3_GSE_NelJun_vs_AngJun            28 / 13
+  C14_zenodo_NEL_vs_HF_NK            26 / 13
+  C13_zenodo_NEL_vs_HF_mono          24 /  9
+  C12_zenodo_NEL_vs_HF_gran          23 / 10
+  C2_GSE_NelFev_vs_AngFev_HS         20 /  8

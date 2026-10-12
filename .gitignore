@@ -19,3 +19,5 @@ __pycache__/
 .Rproj.user/
 .DS_Store
 Thumbs.db
+*.log
+/figures_v1/

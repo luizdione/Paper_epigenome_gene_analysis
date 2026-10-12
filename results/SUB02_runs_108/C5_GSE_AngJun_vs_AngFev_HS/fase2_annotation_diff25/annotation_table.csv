@@ -1,0 +1,2 @@
+"chr","start","end","strand","pvalue","qvalue","meth.diff","feature","gene"
+"chr5",103863042,103863042,"*",7.35666525766959e-06,0.0190325847385922,33.370692070608,"downstream_distal","GAPDH"

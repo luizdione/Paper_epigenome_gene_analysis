@@ -1,0 +1,51 @@
+PONTE MULTI-ÔMICA  —  epigenoma SUB02 (DMR) × genomas sub03 (DEG) + sub04
+========================================================================
+Comparações SUB02 lidas: ['C10_zenodo_NEL_vs_HF_Bcell', 'C11_zenodo_NEL_vs_HF_gdT', 'C12_zenodo_NEL_vs_HF_gran', 'C13_zenodo_NEL_vs_HF_mono', 'C14_zenodo_NEL_vs_HF_NK', 'C1_zenodo_NEL_vs_HF', 'C2_GSE_NelFev_vs_AngFev_HS', 'C3_GSE_NelJun_vs_AngJun', 'C7_bonus_zenodo_NEL_vs_NDama', 'C8_zenodo_NEL_vs_HF_CD4', 'C9_zenodo_NEL_vs_HF_CD8']
+Tecidos RNA-seq (sub03): granulosa, hypothalamus, PBMC, pituitary
+Genes com DMC (SUB02, |Δβ|>15%): 92
+Genes DE (sub03, padj<0.05): 9313
+Genes em AMBAS as camadas: 47
+  concordância repressiva (direção regulatória hiper↓/hipo↑): 19
+  dos quais com DMC em PROMOTOR (sinal mais interpretável): 9
+
+Refino: a direção da metilação usa preferencialmente promotor/upstream;
+priority_score (0-6) = concordância(2) + promotor(1) + nº comparações(≤2) + ≥2 tecidos(1).
+
+Candidatos prioritários (tier alta/média), ordenados:
+  [alta  6] ITGB3      meth=hyper(reg Δβ=7.42, prom=yes, 9 comp) | expr=down(log2FC=-1.83, 2 tec) | concordant_repressive
+  [alta  6] LGALS3     meth=hypo (reg Δβ=-14.22, prom=yes, 7 comp) | expr=up  (log2FC=2.41, 2 tec) | concordant_repressive
+  [alta  5] ERN1       meth=hypo (reg Δβ=-10.81, prom=yes, 10 comp) | expr=up  (log2FC=2.63, 1 tec) | concordant_repressive
+  [alta  5] GHSR       meth=hypo (reg Δβ=-23.31, prom=yes, 9 comp) | expr=up  (log2FC=5.92, 1 tec) | concordant_repressive
+  [alta  5] GRHL3      meth=hypo (reg Δβ=-2.12, prom=yes, 11 comp) | expr=up  (log2FC=7.24, 1 tec) | concordant_repressive
+  [alta  5] HSPA2      meth=hypo (reg Δβ=-22.87, prom=yes, 10 comp) | expr=up  (log2FC=1.97, 1 tec) | concordant_repressive
+  [alta  5] HSPB1      meth=hypo (reg Δβ=-10.28, prom=yes, 11 comp) | expr=up  (log2FC=1.44, 1 tec) | concordant_repressive
+  [alta  5] ISG15      meth=hypo (reg Δβ=-23.22, prom=no, 11 comp) | expr=up  (log2FC=2.66, 2 tec) | concordant_repressive
+  [alta  5] PADI4      meth=hyper(reg Δβ=3.47, prom=yes, 10 comp) | expr=down(log2FC=-4.51, 1 tec) | concordant_repressive
+  [alta  5] PRLR       meth=hypo (reg Δβ=-3.18, prom=yes, 10 comp) | expr=up  (log2FC=2.27, 1 tec) | concordant_repressive
+  [média 4] BMP15      meth=hypo (reg Δβ=-25.57, prom=no, 2 comp) | expr=up  (log2FC=5.16, 1 tec) | concordant_repressive
+  [média 4] CSN3       meth=hypo (reg Δβ=, prom=no, 2 comp) | expr=up  (log2FC=1.1, 1 tec) | concordant_repressive
+  [média 4] DNAJB1     meth=hypo (reg Δβ=, prom=no, 3 comp) | expr=up  (log2FC=1.17, 1 tec) | concordant_repressive
+  [média 4] GNAS       meth=hypo (reg Δβ=-19.23, prom=no, 10 comp) | expr=up  (log2FC=1.8, 1 tec) | concordant_repressive
+  [média 4] HSPA5      meth=hyper(reg Δβ=22.38, prom=yes, 5 comp) | expr=up  (log2FC=2.4, 2 tec) | discordant
+  [média 4] RSAD2      meth=hypo (reg Δβ=-24.78, prom=yes, 8 comp) | expr=down(log2FC=-3.16, 2 tec) | discordant
+  [média 4] STAT3      meth=hypo (reg Δβ=-18.42, prom=no, 9 comp) | expr=up  (log2FC=1.73, 1 tec) | concordant_repressive
+  [média 4] XBP1       meth=hypo (reg Δβ=, prom=no, 2 comp) | expr=up  (log2FC=2.47, 1 tec) | concordant_repressive
+  [média 3] ABCG2      meth=hypo (reg Δβ=-1.35, prom=yes, 10 comp) | expr=down(log2FC=-2.14, 1 tec) | discordant
+  [média 3] ACTB       meth=hyper(reg Δβ=12.74, prom=yes, 11 comp) | expr=up  (log2FC=1.1, 1 tec) | discordant
+  [média 3] DNAJB4     meth=hyper(reg Δβ=, prom=no, 1 comp) | expr=down(log2FC=-1.55, 1 tec) | concordant_repressive
+  [média 3] DNLZ       meth=hyper(reg Δβ=36.11, prom=yes, 3 comp) | expr=up  (log2FC=2.12, 1 tec) | discordant
+  [média 3] DTX1       meth=hypo (reg Δβ=-17.22, prom=yes, 9 comp) | expr=down(log2FC=-2.35, 1 tec) | discordant
+  [média 3] EIF2AK2    meth=hypo (reg Δβ=-17.42, prom=yes, 2 comp) | expr=down(log2FC=-1.05, 1 tec) | discordant
+  [média 3] GH1        meth=hyper(reg Δβ=4.77, prom=yes, 7 comp) | expr=up  (log2FC=12.76, 1 tec) | discordant
+  [média 3] HOXA10     meth=hypo (reg Δβ=-20.86, prom=yes, 9 comp) | expr=down(log2FC=-3.79, 1 tec) | discordant
+  [média 3] HPRT1      meth=hypo (reg Δβ=-25.0, prom=yes, 9 comp) | expr=down(log2FC=-1.06, 1 tec) | discordant
+  [média 3] HSPA12B    meth=hypo (reg Δβ=-8.35, prom=yes, 9 comp) | expr=down(log2FC=-1.27, 1 tec) | discordant
+  [média 3] ITGB1      meth=hyper(reg Δβ=17.24, prom=yes, 6 comp) | expr=up  (log2FC=1.16, 1 tec) | discordant
+  [média 3] KRT18      meth=hyper(reg Δβ=13.67, prom=yes, 6 comp) | expr=up  (log2FC=3.85, 1 tec) | discordant
+  [média 3] MSTN       meth=hyper(reg Δβ=14.1, prom=no, 3 comp) | expr=up  (log2FC=5.76, 2 tec) | discordant
+  [média 3] MX1        meth=hyper(reg Δβ=51.12, prom=yes, 10 comp) | expr=up  (log2FC=1.4, 1 tec) | discordant
+  [média 3] MX2        meth=hypo (reg Δβ=-43.13, prom=no, 1 comp) | expr=up  (log2FC=2.4, 1 tec) | concordant_repressive
+  [média 3] PAG1       meth=hypo (reg Δβ=-19.21, prom=yes, 9 comp) | expr=down(log2FC=-1.96, 1 tec) | discordant
+  [média 3] TREM2      meth=hyper(reg Δβ=, prom=no, 1 comp) | expr=down(log2FC=-4.01, 1 tec) | concordant_repressive
+  [média 3] VIM        meth=hyper(reg Δβ=13.23, prom=yes, 4 comp) | expr=up  (log2FC=1.95, 1 tec) | discordant
+  [média 3] WNT7A      meth=hypo (reg Δβ=-24.3, prom=yes, 11 comp) | expr=down(log2FC=-3.39, 1 tec) | discordant

@@ -34,7 +34,7 @@ BREED_CONTRASTS = [
     "C10_zenodo_NEL_vs_HF_Bcell", "C11_zenodo_NEL_vs_HF_gdT", "C12_zenodo_NEL_vs_HF_gran",
     "C13_zenodo_NEL_vs_HF_mono", "C14_zenodo_NEL_vs_HF_NK",
 ]
-HIGH_TIER = {"PRLR","GHSR","HSPA2","HSPB1","ISG15","MX1","ITGB3","KRT18"}
+HIGH_TIER = {"GHSR", "HSPA2", "HSPB1", "PRLR", "ITGB3", "ERN1", "GRHL3", "PADI4", "LGALS3", "ISG15"}
 CPG_WIN, NEAR_WIN = 1, 10
 
 

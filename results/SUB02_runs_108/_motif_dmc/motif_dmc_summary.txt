@@ -1,0 +1,12 @@
+CAMADA MECANÍSTICA — DMCs de subespécie × SNPs que rompem motifs (motifbreakR, genomas sub01)
+================================================================================
+DMCs de subespécie avaliados: 2719
+DMCs coincidentes (±25 pb) com SNP que rompe SP1/NF-κB/KLF4/NFAT: 80
+  dos quais a ≤10 pb (mesmo motif): 46
+Por TF (DMCs com SNP-disruptor próximo): KLF4=15, SP1=65
+
+Genes high-tier com DMC em sítio de motif rompido por SNP: HSPA2, HSPB1, ISG15
+
+Interpretação: nesses sítios, a divergência de metilação coincide com uma variante
+que altera a ligação do MESMO fator (SP1/NF-κB/KLF4) enriquecido nos flancos das DMCs —
+elo mecanístico direto entre as camadas genética e epigenética da divergência subespécie.

@@ -1,0 +1,17 @@
+VALIDAÇÃO PAREADA (atlas Zhou/Fang — mesma vaca Holstein 3842, entre tecidos)
+==========================================================================
+Tecidos pareados WGBS∩RNA-seq: 10 (ADIP, HEAR, ILEU, KIDN, LIVE, LUNG, LDOR, OVAR, RUME, UTER)
+Genes do painel testados (≥6 tecidos): 88
+  com correlação NEGATIVA (repressiva, esperada): 61/88 (69%)
+  negativa e significativa (p<0,05): 5/88
+Candidatos high-tier testados: 8; com correlação negativa: 4/8
+
+High-tier (gene: r, p, n_tecidos):
+  ISG15   r=-0.67 p=0.033 (n=10)
+  HSPA2   r=-0.36 p=0.3104 (n=10)
+  ITGB3   r=-0.16 p=0.6515 (n=10)
+  KRT18   r=-0.12 p=0.7514 (n=10)
+  HSPB1   r=+0.06 p=0.881 (n=10)
+  PRLR    r=+0.08 p=0.8282 (n=10)
+  GHSR    r=+0.31 p=0.3811 (n=10)
+  MX1     r=+0.55 p=0.0984 (n=10)

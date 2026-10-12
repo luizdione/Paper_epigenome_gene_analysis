@@ -1,0 +1,19 @@
+CAMADA CIS-GENÉTICA — DMCs de subespécie × SNPs 1000 Bull (TAUIND, 1842 bovinos)
+============================================================================
+DMCs (posições únicas) avaliados: 2719
+  CpG-SNP (SNP sobre o CpG, |Δ|≤1 pb): 687 (25.3%) — passivo mais direto
+  near-SNP (SNP a ≤10 pb): 784 (28.8%)
+  no-SNP (sem SNP em ±10 pb): 1248 (45.9%) — compatível c/ metilação genuína
+
+Limite superior 'potencialmente dirigido por genótipo' (CpG-SNP+near): 1471/2719 (54.1%)
+Fração mais conservadora (só CpG-SNP): 687/2719 (25.3%)
+
+High-tier (gene: DMCs com SNP em ±10pb / total):
+  GHSR    22/31
+  HSPA2   22/25
+  HSPB1   20/41
+  ISG15   23/33
+  ITGB3   9/19
+  KRT18   5/8
+  MX1     12/25
+  PRLR    11/22

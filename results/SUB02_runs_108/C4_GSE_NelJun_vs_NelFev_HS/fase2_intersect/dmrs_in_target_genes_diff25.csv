@@ -1,0 +1,2 @@
+chr,start,end,meth_diff,qvalue,gene,module,confidence,ensembl_id,ncbi_gene_id,dist_to_TSS
+14,631875,631875,26.7880424660086,2.36452252089659e-09,HSF1,thermotolerance_extra,confirmed,ENSBTAG00000020751,506235,-1870

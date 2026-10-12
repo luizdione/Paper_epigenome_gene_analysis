@@ -1,0 +1,2 @@
+"chr","start","end","strand","pvalue","qvalue","meth.diff","feature","gene"
+"chr14",631875,631875,"*",1.17102415992377e-12,2.36452252089659e-09,26.7880424660086,"promoter","HSF1"

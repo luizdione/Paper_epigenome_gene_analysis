@@ -1,0 +1,44 @@
+motif,consensus,class,description,relevance,n_hits,n_seqs_with_hit,pct_seqs,expected_hits,enrichment,pvalue,source
+IRF3,GAAACTGAAACT,IRF,IRF3 — resposta a interferon,Via antiviral em bovinos,1,1,0.6%,0.01,100.00x,0.04668,scan_real_genome_v3
+TNFA_resp,GGGACTTTCC,Rel,TNF-alpha response element,Resposta inflamatória; sensível a metilação em bovinos,1,1,0.6%,0.12,8.19x,0.329376,scan_real_genome_v3
+KLF4,CCCCGCCC,KLF/SP,Krüppel-like Factor 4,"Pluripotência, reprogramação, barreiras epiteliais",16,14,8.8%,1.95,8.19x,0.0,scan_real_genome_v3
+NFkB_p65,GGGRNYYYCC,Rel,NFkB p65 (RELA) — NF-kB binding,"Imunidade inata, inflamação, feed efficiency Nelore",57,37,23.1%,7.81,7.30x,0.0,scan_real_genome_v3
+NRF2,TGACTCAGC,bZIP,Nuclear factor erythroid 2-like 2 (NFE2L2),Resposta antioxidante; adaptação ao estresse oxidativo,2,2,1.2%,0.49,4.10x,0.286619,scan_real_genome_v3
+IRF1,GAAANNGAAA,IRF,Interferon Regulatory Factor 1,Resposta imune inata — importante em raças Bos taurus vs Bos indicus,6,6,3.8%,1.95,3.07x,0.064156,scan_real_genome_v3
+NFAT1,AGGAAANNNNNNN,RHD,NFAT1 (NFATC1) — calcineurina/NFAT,"Imunidade adaptativa, diferenciação de linfócitos",89,65,40.6%,31.24,2.85x,0.0,scan_real_genome_v3
+NFkB_p50,GGGRNNTCC,Rel,NFkB p50 (NFKB1),Dimero canônico NFkB1; promotores imunidade inata Bos taurus,38,32,20.0%,15.62,2.43x,1e-05,scan_real_genome_v3
+HSF1,GAANNTTC,HSF,Heat Shock Factor 1 — HSE,Principal regulador de termotolerância; differentially expressed Nelore vs Angus,37,37,23.1%,15.62,2.37x,2.1e-05,scan_real_genome_v3
+ATF3,TGACGTCA,bZIP,Activating Transcription Factor 3,Ativado em resposta ao estresse térmico em bovinos,2,2,1.2%,0.98,2.05x,0.686872,scan_real_genome_v3
+SP1,GGGCGG,SP/KLF,Specificity Protein 1 — GC-box,Promotores CpG-ricos; sensível à metilação do DNA,64,34,21.2%,31.25,2.05x,2e-06,scan_real_genome_v3
+SREBP1,TCACNNNNTGA,bHLH,SREBP1 — Sterol Regulatory Element,Biossíntese de ácidos graxos; lipogênese; relacionado a DGAT1,15,15,9.4%,7.81,1.92x,0.064156,scan_real_genome_v3
+AP1_FOSJUN,TGASTCA,bZIP,AP-1 FOS/JUN composite,"Resposta a estresse, calor, imunidade",14,14,8.8%,7.81,1.79x,0.113048,scan_real_genome_v3
+YY1,CGCCKSCSS,ZF,YY1 — Yin Yang 1,"Regulação epigenética, Polycomb-associated; bivalente em bovinos",12,11,6.9%,7.81,1.54x,0.30342,scan_real_genome_v3
+SMAD3,AGACAGNNS,SMAD,SMAD3 — TGF-beta signaling,"Fibrosis, imunossupressão, desenvolvimento embrionário",22,22,13.8%,15.62,1.41x,0.265455,scan_real_genome_v3
+HSF2,GAANNNTTC,HSF,Heat Shock Factor 2,Manutenção homeostase celular e proteossomo,18,18,11.2%,15.62,1.15x,0.773765,scan_real_genome_v3
+MYOD1,CANNTG,bHLH,MyoD / Myogenin — muscle E-box,Miogênese; diferenciação de fibras musculares em Nelore vs Angus,286,136,85.0%,249.98,1.14x,0.064156,scan_real_genome_v3
+STAT5A,TTCNNNGAA,STAT,STAT5A — GH/prolactina signaling,"Crescimento somático, lactação, marmoreio Angus",15,15,9.4%,15.62,0.96x,1.0,scan_real_genome_v3
+p53,RRRCWWGYYY,p53,TP53 — tumor suppressor / DNA damage,"Controle de qualidade do genoma, diferenças em longevidade",12,9,5.6%,15.62,0.77x,1.0,scan_real_genome_v3
+HSF1_alt,TTCNNGAA,HSF,HSF1 — HSE reverso,HSE orientação 3'-5',11,11,6.9%,15.62,0.70x,1.0,scan_real_genome_v3
+TEAD1,GGAATGG,TEAD,TEA domain factor 1 — Hippo pathway,"Tamanho do órgão, proliferação muscular, aptidão física",4,4,2.5%,7.81,0.51x,1.0,scan_real_genome_v3
+GR,TGTYNNNNNNRACA,NR,Glucocorticoid Receptor,Resposta ao estresse cortisol; diferenças de temperamento Nelore/Angus,2,2,1.2%,3.91,0.51x,1.0,scan_real_genome_v3
+RUNX2,YGYGGTY,RUNX,RUNT-related transcription factor 2,"Osteogênese, diferenciação de condrócitos",29,27,16.9%,62.49,0.46x,1.0,scan_real_genome_v3
+MEF2A,CTAWWWTAR,MADS,Myocyte Enhancer Factor 2A,Enhancers musculares — regulação diferencial Bos indicus,3,3,1.9%,7.81,0.38x,1.0,scan_real_genome_v3
+CpG_island,CGCGCG,dinuc,CpG island core hexamer,Ilhas CpG não-metiladas em promotores ativos,6,5,3.1%,15.62,0.38x,1.0,scan_real_genome_v3
+HIF1A,ACGTG,bHLH,HIF-1 alpha — Hypoxia Inducible Factor,"Resposta à hipóxia, metabolismo anaeróbio em altitude",46,30,18.8%,124.99,0.37x,1.0,scan_real_genome_v3
+MBD_binding,RRCGYYB,MBD,Methyl-CpG binding domain consensus,Sítio de reconhecimento por MBD1/2/3 — leitura da metilação,136,51,31.9%,374.96,0.36x,1.0,scan_real_genome_v3
+CpG_dinuc,CG,dinuc,CpG dinucleotide — methylation target,Sítio primário de metilação por DNMT3A/3B/1,1397,150,93.8%,3999.94,0.35x,1.0,scan_real_genome_v3
+MYC_EBOX,CACGTG,bHLH,c-MYC / MAX — E-box,"Proliferação celular, metabolismo; ativado em crescimento Angus",5,4,2.5%,15.62,0.32x,1.0,scan_real_genome_v3
+STAT3,TTCCCRGAA,STAT,STAT3 — JAK/STAT pathway,"Diferenciação celular, crescimento, resposta imune",0,0,0.0%,0.98,0.00x,1.0,scan_real_genome_v3
+ETS1,CCGGAAGT,ETS,ETS proto-oncogene 1,"Angiogênese, hematopoiese, resposta imune",0,0,0.0%,1.95,0.00x,1.0,scan_real_genome_v3
+ETS2,ACCGGAAGT,ETS,ETS proto-oncogene 2,"Desenvolvimento embrionário, reprogramação epigenética",0,0,0.0%,0.49,0.00x,1.0,scan_real_genome_v3
+PAX7,TAATTAGG,PAX,Paired Box 7 — células satélite,Regeneração muscular; diferencial entre raças,0,0,0.0%,1.95,0.00x,1.0,scan_real_genome_v3
+PPARG,AACTAGGTCA,NR,PPARgamma — adipogênese/metabolismo lipídico,"Deposição de gordura, marmoreio — maior atividade Angus",0,0,0.0%,0.12,0.00x,1.0,scan_real_genome_v3
+PPARA,TGACCTTTGACCT,NR,PPARalpha — oxidação de ácidos graxos,"Eficiência alimentar, metabolismo energético",0,0,0.0%,0.0,0.00x,1.0,scan_real_genome_v3
+RXRA,AGGTCATGACCT,NR,Retinoid X Receptor Alpha,Heterodímero obrigatório PPAR/RAR; metabolismo de vitamina A,0,0,0.0%,0.0,0.00x,1.0,scan_real_genome_v3
+CEBPA,TTGCGCAA,bZIP,C/EBP Alpha — adipogênese,Determinação de adipócitos; co-regulador PPARG,0,0,0.0%,0.98,0.00x,1.0,scan_real_genome_v3
+CEBPB,ATTGCGCAAT,bZIP,C/EBP Beta,"Adipogênese, resposta imune, inflamação",0,0,0.0%,0.06,0.00x,1.0,scan_real_genome_v3
+ESR1,AGGTCANNNTGACCT,NR,Estrogen Receptor Alpha,"Fertilidade, ciclo estral, desenvolvimento mamário",0,0,0.0%,0.0,0.00x,1.0,scan_real_genome_v3
+PGR,TGTCCAAAGGTCA,NR,Progesterone Receptor,"Gestação, manutenção do corpo lúteo em bovinos",0,0,0.0%,0.0,0.00x,1.0,scan_real_genome_v3
+AR,AGAACANNNTGTTCT,NR,Androgen Receptor,"Caracteres sexuais secundários, crescimento muscular em machos",0,0,0.0%,0.0,0.00x,1.0,scan_real_genome_v3
+CTCF,CCGCGNGGNGGCAG,ZF,CCCTC-binding factor — insulator/TADs,Organização 3D do genoma; fronteiras de domínios de metilação,0,0,0.0%,0.01,0.00x,1.0,scan_real_genome_v3
+E2F1,TTCGCGCC,E2F,E2F Transcription Factor 1,"Controle ciclo celular, apoptose, proliferação",0,0,0.0%,1.95,0.00x,1.0,scan_real_genome_v3

@@ -4,7 +4,7 @@
 triple_layer.py — SINERGIA com a plataforma genomas.
 
 Cruza os candidatos da ponte (metilação SUB02 × expressão sub03) com a camada
-GENÔMICA do genomas sub04 (Fst Gir×Holstein / AIMs — marcadores de ancestralidade).
+GENÔMICA (Fst Gyr×Holstein / AIMs — marcadores de ancestralidade).
 Classifica cada candidato em:
   - "triple"  -> também sob diferenciação genômica (AIM Fst≥0.30): convergência
                  genômica + epigenômica + transcriptômica;
@@ -17,13 +17,14 @@ Saída: results/SUB02_runs/_triple_layer/
 """
 from __future__ import annotations
 import csv
+import os
 from pathlib import Path
 
 BASE = Path(__file__).resolve().parents[2]
 BRIDGE = BASE / "results" / "SUB02_runs" / "_bridge_multiomic" / "bridge_gene_table.tsv"
-AIMS = Path("E:/data/results/sub04_reverse_aims/degs_x_aims_genes.tsv")
+AIMS = Path(os.environ.get("AIMS_TSV", "results/ancestry/degs_x_aims_genes.tsv"))
 OUT = BASE / "results" / "SUB02_runs" / "_triple_layer"; OUT.mkdir(parents=True, exist_ok=True)
-HIGH_TIER = {"PRLR","GHSR","HSPA2","HSPB1","ISG15","MX1","ITGB3","KRT18"}
+HIGH_TIER = {"GHSR", "HSPA2", "HSPB1", "PRLR", "ITGB3", "ERN1", "GRHL3", "PADI4", "LGALS3", "ISG15"}
 
 
 def load_aims():
@@ -79,7 +80,7 @@ def main():
         f"High-tier: {len(ht)} candidatos; epi-dominant: {len(ht_epi)} "
         f"({', '.join(r['gene'] for r in ht_epi)})",
         "",
-        "Detalhe high-tier (gene | tier | layer | Fst Gir×Hol):",
+        "Detalhe high-tier (gene | tier | layer | Fst Gyr×Hol):",
     ]
     for r in ht:
         lines.append(f"  {r['gene']:7s} | {r['priority_tier']:5s} | {r['layer_class']:12s} "
